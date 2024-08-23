@@ -26,7 +26,4 @@
 If the read me is not enough, you can look the slides [here]()
 
 ## How to run if you want all the details personally
-If you want the data that is not this repo so you can run the notebooks you can find it [here]()
-
-
-Data can be found [here](https://drive.google.com/drive/folders/1hpRwCp1mRd_xMkpytvAQBt07Pc0drcQJ?usp=sharing)
+If you want the data that is not this repo so you can run the notebooks you can find it [here](https://drive.google.com/drive/folders/1hpRwCp1mRd_xMkpytvAQBt07Pc0drcQJ?usp=sharing)
