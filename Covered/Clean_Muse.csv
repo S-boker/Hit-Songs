@@ -1,0 +1,1128 @@
+,id,Artist(s),Title,Acousticness,Danceability,Duration (ms),Energy,Instrumentalness,Key,Liveness,Loudness,Mode,Speechiness,BMP,Time_Signature,Valence
+0,0SjjcXfArhzePhEzDNkY8z,"Rachel Bay Jones,Jennifer Laura Thompson",Anybody Have a Map?,0.234,0.634,146853,0.603,0.0,7,0.536,-6.374,1,0.258,107.768,4,0.744
+1,0gMW8XpPFPjoApDii5Tj1u,"Ben Platt,Original Broadway Cast of Dear Evan Hansen",Waving Through A Window,0.316,0.549,236360,0.705,0.0,9,0.12,-5.563,1,0.0564,146.024,4,0.52
+2,0ZWW07BD8W85lUbgx2sn7E,Ben Platt,For Forever,0.222,0.371,301013,0.457,0.0,5,0.0882,-7.674,1,0.0407,96.269,4,0.166
+3,4nna9JONFIwr98bcX6tlta,"Mike Faist,Ben Platt,Will Roland","Sincerely, Me",0.168,0.677,222960,0.731,0.0,7,0.103,-5.708,1,0.12,97.864,4,0.603
+4,6WYHJTCeO3kyRfRmQW9enw,"Laura Dreyfuss,Michael Park,Jennifer Laura Thompson",Requiem,0.446,0.409,259693,0.404,0.0,4,0.132,-6.517,1,0.0285,80.356,4,0.288
+5,6nkcPGa0sr24NFCc5l5UjE,"Ben Platt,Laura Dreyfuss",If I Could Tell Her,0.647,0.584,248653,0.312,0.0,4,0.152,-8.249,1,0.0405,96.026,4,0.455
+6,4VM6WUdnRnBv6cHAjyzxcK,"Mike Faist,Ben Platt,Kristolyn Lloyd,Will Roland,Jennifer Laura Thompson,Original Broadway Cast of Dear Evan Hansen",Disappear,0.379,0.451,275813,0.634,0.0,8,0.226,-6.65,1,0.118,136.643,4,0.298
+7,1H7Zqkq54andtaSSnLRrfp,"Ben Platt,Kristolyn Lloyd,Will Roland,Laura Dreyfuss,Original Broadway Cast of Dear Evan Hansen",You Will Be Found,0.0865,0.293,360906,0.624,0.0,9,0.0874,-7.13,1,0.0613,87.335,4,0.213
+8,6433GYPXbZUJWTCIdhW1as,"Michael Park,Ben Platt",To Break In a Glove,0.203,0.652,230813,0.423,0.0,7,0.111,-8.659,1,0.446,108.491,4,0.426
+9,7BbtvJqWnQRt8gSrWbUVym,"Laura Dreyfuss,Ben Platt",Only Us,0.707,0.467,227186,0.346,0.0,1,0.102,-7.029,1,0.0271,69.006,4,0.243
+10,7FIrk5lA1IalpZ3OtieeC8,"Rachel Bay Jones,Kristolyn Lloyd,Will Roland,Ben Platt",Good For You,0.175,0.627,185146,0.709,0.0,3,0.242,-4.692,1,0.0726,107.802,4,0.791
+11,32bZDrurIGh2Cts0l2tRtL,Ben Platt,Words Fail,0.792,0.368,351920,0.237,0.0,0,0.122,-9.49,1,0.0389,95.871,3,0.328
+12,5M2LiZ8SmRFWl1IJ0F7JNR,Rachel Bay Jones,So Big / So Small,0.806,0.447,252266,0.2,0.0,7,0.108,-9.536,1,0.0423,88.189,4,0.28
+13,7vU9VpbmB4ZoztAigpXLlJ,"Ben Platt,Original Broadway Cast of Dear Evan Hansen",Finale,0.837,0.423,95960,0.0919,0.0,5,0.0931,-10.343,1,0.0353,112.831,4,0.414
+14,3cGmUgp7hF5Eb8NyuEmtCA,"Catherine Zeta-Jones,Renée Zellweger,Taye Diggs",Overture/And All That Jazz,0.381,0.579,364360,0.597,2.7e-05,1,0.326,-6.541,0,0.111,119.922,4,0.703
+15,28Tmk14BdrfaV2YzxpB35c,"Catherine Zeta-Jones,Susan Misner,Deidre Goodwin,Denise Faye,Ekaterina Chtchelkanova,Mya Harrison,Taye Diggs",Cell Block Tango,0.393,0.601,442733,0.34,0.0,1,0.456,-12.092,1,0.363,125.309,4,0.654
+16,2L7E2IsUbGiGqT9aSehkID,"Christine Baranski,Cleve Asbury,Shaun Amyot,Rick Negron,Taye Diggs",We Both Reached For The Gun,0.569,0.63,238000,0.6,0.0,11,0.0988,-7.433,1,0.383,136.003,4,0.731
+17,550YyHm9PWX2BlcVk2IayG,"Queen Latifah,Taye Diggs",When You're Good To Mama,0.448,0.517,199733,0.429,0.0,2,0.109,-9.236,1,0.107,172.004,4,0.436
+18,5uryqFuYGHHMkEFQGHoCsU,"Renée Zellweger,John C. Reilly,Colm Feore,Taye Diggs",Funny Honey,0.703,0.347,219306,0.222,0.0,8,0.122,-12.379,1,0.0578,84.235,4,0.503
+19,6Do8mrCwUusdtWTSh5EHli,"Richard Gere,Renée Zellweger",All I Care About,0.695,0.428,228200,0.468,0.0,6,0.249,-8.869,1,0.0782,133.386,4,0.281
+20,7nOhijGWNbwBpzmQ6XqLRG,Renée Zellweger,Roxie,0.481,0.514,200293,0.403,0.0,5,0.11,-9.377,0,0.0429,132.683,4,0.464
+21,6XHl6AuLDJQLQ7p7r28pUK,"Catherine Zeta-Jones,Taye Diggs",I Can't Do It Alone,0.561,0.482,230160,0.497,0.0,1,0.117,-7.459,1,0.362,178.783,4,0.502
+22,6TtN9cU9bK6TJX0DBSu6pd,John C. Reilly,Mister Cellophane,0.581,0.452,237706,0.164,0.0,4,0.287,-13.214,1,0.0963,85.161,4,0.355
+23,7I1YWLvttmgQK2xsOeNjbz,Richard Gere,Razzle Dazzle,0.605,0.508,225493,0.28,0.0,2,0.0915,-12.024,1,0.0579,122.085,4,0.609
+24,3TUk5hahSjL0PXlq8RyMMa,"Catherine Zeta-Jones,Queen Latifah",Class,0.72,0.413,172106,0.262,0.0,6,0.0773,-10.175,1,0.0353,120.041,4,0.0712
+25,11cNYPovYdoJdlRVnQo1Mi,"Renée Zellweger,Taye Diggs",Nowadays (Roxie),0.89,0.502,134400,0.177,0.0,5,0.19,-13.143,1,0.0434,66.605,3,0.283
+26,1ECXl86UHdDXKMzNcjXHwQ,"Renée Zellweger,Catherine Zeta-Jones,Taye Diggs",Nowadays/Hot Honey Rag - Medley Title,0.486,0.621,206733,0.505,3.23e-05,7,0.0734,-8.261,1,0.0739,108.218,4,0.598
+27,3TqS2DKmyocUfKjgj698cP,"Catherine Zeta-Jones,Renée Zellweger",I Move On,0.607,0.596,238506,0.604,0.000174,9,0.0813,-7.099,1,0.106,122.143,4,0.606
+28,0UzApqRTAi3d2iZexmuP3s,"Stephen Schwartz,Kristin Chenoweth,Sean McCourt,Cristy Candler,Jan Neuberger,Stephen Oremus,Alex Lacamoire",No One Mourns The Wicked - From Wicked Original Broadway Cast Recording/2003,0.696,0.285,400533,0.471,0.000124,6,0.116,-7.599,0,0.0541,165.957,4,0.212
+29,446KBz5OadTvBfXPd3L3gJ,"Stephen Schwartz,Kristin Chenoweth,Stephen Oremus,Alex Lacamoire",Dear Old Shiz - From Wicked Original Broadway Cast Recording/2003,0.968,0.408,86213,0.148,0.0,3,0.143,-14.982,0,0.0469,115.77,5,0.0965
+30,7279cZz7RhBAmRHAPraTeV,"Stephen Schwartz,Carole Shelley,Idina Menzel,Stephen Oremus,Alex Lacamoire",The Wizard And I - From Wicked Original Broadway Cast Recording/2003,0.814,0.375,309520,0.39,0.0,0,0.359,-8.234,1,0.0337,139.208,4,0.304
+31,2lNRPajwEfma5EEmsgAe1w,"Stephen Schwartz,Kristin Chenoweth,Idina Menzel,Stephen Oremus,Alex Lacamoire",What Is This Feeling? - From Wicked Original Broadway Cast Recording/2003,0.729,0.63,212226,0.422,0.0,0,0.181,-8.693,1,0.0952,152.312,4,0.516
+32,1H2ZgFkgOHssJE8y24r5V2,"Stephen Schwartz,William Youmans,Idina Menzel,Stephen Oremus,Alex Lacamoire",Something Bad - From Wicked Original Broadway Cast Recording/2003,0.801,0.563,99186,0.322,0.0,1,0.223,-15.778,1,0.257,74.301,4,0.195
+33,45Yr7rD2vH3OsTRseT6gfA,"Stephen Schwartz,Norbert Leo Butz,Kristin Chenoweth,Christopher Fitzgerald,Michelle Federer,Idina Menzel,Stephen Oremus,Alex Lacamoire",Dancing Through Life - From Wicked Original Broadway Cast Recording/2003,0.61,0.463,457333,0.442,0.0,0,0.181,-8.754,1,0.0537,116.578,4,0.32
+34,57Pk2GU0ABFYBbbcgYxqki,"Stephen Schwartz,Kristin Chenoweth,Stephen Oremus,Alex Lacamoire",Popular - From Wicked Original Broadway Cast Recording/2003,0.776,0.711,224386,0.228,0.0,0,0.122,-12.85,1,0.172,88.714,4,0.548
+35,5HZCMnScUwekum55mcRdjK,"Stephen Schwartz,Idina Menzel,Stephen Oremus,Alex Lacamoire",I'm Not That Girl - From Wicked Original Broadway Cast Recording/2003,0.958,0.233,178760,0.0756,0.00013,9,0.101,-18.902,1,0.0369,179.472,4,0.205
+36,0FD6tpo88qkJmdaAyvR1yU,"Stephen Schwartz,Kristin Chenoweth,Idina Menzel,Stephen Oremus,Alex Lacamoire",One Short Day - From Wicked Original Broadway Cast Recording/2003,0.737,0.455,183853,0.584,0.0,7,0.127,-8.274,1,0.118,119.603,4,0.525
+37,3173yykxdnGmWEASuLPSo8,"Stephen Schwartz,Joel Grey,Stephen Oremus,Alex Lacamoire",A Sentimental Man - From Wicked Original Broadway Cast Recording/2003,0.946,0.347,76066,0.12,6.45e-05,11,0.115,-15.067,1,0.0478,70.106,5,0.155
+38,184HGdGIscUiPbDuqbvHuN,"Stephen Schwartz,Kristin Chenoweth,Idina Menzel,Stephen Oremus,Alex Lacamoire",Defying Gravity - From Wicked Original Broadway Cast Recording/2003,0.722,0.314,353920,0.378,0.0,1,0.0333,-8.282,1,0.0339,87.987,4,0.243
+39,0mpNY35D9VE4oa0NLm7Cjw,"Stephen Schwartz,Kristin Chenoweth,Carole Shelley,Stephen Oremus,Alex Lacamoire",Thank Goodness - From Wicked Original Broadway Cast Recording/2003,0.756,0.378,383066,0.331,0.0,3,0.805,-9.407,1,0.0486,89.68,5,0.462
+40,1D6pLmob6pai0cjB3ulMdz,"Stephen Schwartz,Joel Grey,Idina Menzel,Stephen Oremus,Alex Lacamoire",Wonderful - From Wicked Original Broadway Cast Recording/2003,0.801,0.405,297160,0.216,0.0,5,0.199,-11.228,1,0.0561,177.192,4,0.381
+41,1tlfh7RSe2T39byWWM8J2L,"Stephen Schwartz,Kristin Chenoweth,Stephen Oremus,Alex Lacamoire",I'm Not That Girl (Reprise) - From Wicked Original Broadway Cast Recording/2003,0.983,0.254,50173,0.0192,0.0024,0,0.13,-24.621,1,0.0396,149.22,1,0.19
+42,3IvflXoxqRVwNvpKhjIOv6,"Stephen Schwartz,Idina Menzel,Leo Norbert Butz,Stephen Oremus,Alex Lacamoire",As Long As You're Mine - From Wicked Original Broadway Cast Recording/2003,0.754,0.453,225986,0.446,1.25e-06,5,0.105,-8.28,1,0.0313,117.316,4,0.176
+43,55dcu9Iz7r58VEmTqk4LP4,"Stephen Schwartz,Idina Menzel,Stephen Oremus,Alex Lacamoire",No Good Deed - From Wicked Original Broadway Cast Recording/2003,0.71,0.353,211573,0.546,0.0,6,0.105,-6.768,1,0.0384,114.814,4,0.272
+44,4HXWWEFUAs4ixa4oLC08Z6,"Stephen Schwartz,Christopher Fitzgerald,Stephen Oremus,Alex Lacamoire",March Of The Witch Hunters - From Wicked Original Broadway Cast Recording/2003,0.693,0.564,91106,0.688,2.77e-05,8,0.133,-7.888,1,0.0734,115.206,4,0.649
+45,3WkgLAd7jGX3sZikfkF0lU,"Stephen Schwartz,Kristin Chenoweth,Idina Menzel,Stephen Oremus,Alex Lacamoire",For Good - From Wicked Original Broadway Cast Recording/2003,0.945,0.267,306893,0.138,0.0,1,0.109,-14.073,1,0.0394,79.526,4,0.248
+46,5GnZCU9UmSRnIUypNwfjgS,"Stephen Schwartz,Kristin Chenoweth,Idina Menzel,Stephen Oremus,Alex Lacamoire",Finale Wicked - From Wicked Original Broadway Cast Recording/2003,0.961,0.254,101693,0.196,0.0459,7,0.246,-10.587,1,0.0358,128.197,3,0.0686
+47,2av1BBGdN9DW1u7rvoRhMM,"Annaleigh Ashford,Delta Nus,Dequina Moore,Laura Bell Bundy,Leslie Kritzer",Omigod You Guys,0.497,0.57,346813,0.481,0.0,7,0.425,-9.741,1,0.645,159.939,4,0.622
+48,2vqCWr9qoVDy5WzP36H0iI,"Laura Bell Bundy,Richard H. Blake",Serious,0.615,0.589,193146,0.28,0.0,1,0.149,-11.984,1,0.115,114.313,4,0.333
+49,0b1IlQG9MRf8vu1E6Iq19J,"Annaleigh Ashford,Dequina Moore,Kate Wetherhead,Laura Bell Bundy,Leslie Kritzer",What You Want,0.603,0.682,487893,0.431,0.0,5,0.329,-10.636,1,0.494,133.315,4,0.71
+50,4haWbMjy6mwNld2d9IA8mq,"Christian Borle,'Legally Blonde' Ensemble,Manuel Herrera,Natalie Joy Johnson,Noah Weisberg",The Harvard Variations,0.726,0.623,157973,0.256,0.0,4,0.334,-10.978,0,0.707,176.562,4,0.717
+51,2ewb4VJoSMG1FuSkFKoMgO,"'Legally Blonde' Ensemble,Michael Rupert",Blood in the Water,0.647,0.578,289960,0.293,0.0,1,0.334,-12.594,1,0.479,139.609,4,0.51
+52,3M4OxUpLqSexH8IioAxXZz,"Annaleigh Ashford,Dequina Moore,'Legally Blonde' Greek Chorus,Laura Bell Bundy,Leslie Kritzer",Positive,0.533,0.875,192626,0.413,0.0,10,0.399,-10.183,0,0.185,106.034,4,0.769
+53,2QHp9O8qaXyKw3gnXS39me,Orfeh,Ireland,0.917,0.476,194693,0.12,0.0,1,0.109,-13.759,1,0.0405,112.901,4,0.341
+54,4BgayN2qyy9PVAuZB5a6Dn,Orfeh,Ireland - Reprise,0.703,0.511,55453,0.39,0.0,2,0.338,-8.72,1,0.0497,128.102,4,0.236
+55,7j1wb3tjdCsy1i5uihTCfR,"Laura Bell Bundy,Richard H. Blake",Serious - Reprise,0.785,0.795,56226,0.291,0.0,5,0.328,-13.972,1,0.0896,112.961,4,0.653
+56,2UTS33qrSdZUD6zApZXDcI,"Christian Borle,'Legally Blonde' Greek Chorus,Laura Bell Bundy,'Legally Blonde' Ensemble",Chip on My Shoulder,0.676,0.672,530933,0.206,0.0,8,0.0454,-15.155,1,0.393,105.366,4,0.424
+57,3nfMOTjl5Ts1GZScRKuQnF,"Laura Bell Bundy,'Legally Blonde' Ensemble",So Much Better,0.564,0.587,209226,0.59,0.0,2,0.115,-10.221,1,0.689,78.701,4,0.426
+58,0u9Qa4tnR77Tbb0uX1hs41,"'Legally Blonde' Ensemble,Michael Rupert,Nikki Snelson",Whipped into Shape,0.404,0.718,260839,0.533,0.0,6,0.0828,-9.883,1,0.462,119.25,4,0.683
+59,7ti94QY6CIjiEEKEqgGRLw,"Christian Borle,Laura Bell Bundy",Take It Like a Man,0.724,0.442,253146,0.315,0.0,11,0.33,-11.254,1,0.0874,135.319,4,0.385
+60,3BlC2zE57W5UDZfRIMs1Y6,"Annaleigh Ashford,Dequina Moore,Laura Bell Bundy,'Legally Blonde' Ensemble,Leslie Kritzer,Orfeh",Bend and Snap,0.451,0.814,200520,0.618,0.0,9,0.629,-8.933,1,0.418,124.864,4,0.677
+61,41WDvgF7RgCXfLN9iKWVhp,"Amber Efe,Kate Shindle,Laura Bell Bundy,'Legally Blonde' Ensemble,Manuel Herrera,Matthew Risch",There! Right There!,0.666,0.715,207026,0.35,0.0,2,0.523,-11.138,1,0.445,127.869,4,0.697
+62,1bXV5MjCKNmD8viWpawP9A,"Christian Borle,Laura Bell Bundy",Legally Blonde,0.862,0.446,210000,0.119,0.0,7,0.0949,-14.447,1,0.0521,127.248,3,0.227
+63,7565IntuBBDFQo2midnEDN,"Kate Shindle,Laura Bell Bundy,'Legally Blonde' Ensemble,Natalie Joy Johnson",Legally Blonde - Remix,0.337,0.493,299240,0.584,0.000229,9,0.0424,-9.838,1,0.488,153.55,4,0.456
+64,6Xff7fTzm90xCuilsifczL,"Laura Bell Bundy,Orfeh,'Legally Blonde' Ensemble",Find My Way / Finale,0.751,0.452,303413,0.356,3.38e-06,8,0.161,-10.144,1,0.176,88.561,4,0.299
+65,2NTkqu7ce43MBqmknUzmsL,"Nicole Scimeca,Mary Beth Peil",Prologue: Once Upon a December,0.863,0.204,105186,0.168,1.96e-05,9,0.155,-12.406,0,0.0368,168.551,4,0.169
+66,1wTeY1HgThyzcJMQVieQdO,"John Bolton,Derek Klena,Ramin Karimloo,Christy Altomare,Anastasia Company",A Rumor in St. Petersburg,0.655,0.706,339866,0.455,0.0,0,0.0483,-9.532,1,0.103,122.895,4,0.622
+67,5gfdWDRrO0sHFyt8ydu5Hb,Christy Altomare,In My Dreams,0.824,0.269,208826,0.314,5.4e-06,4,0.298,-11.797,0,0.0349,76.587,1,0.15
+68,0X91ZlK9FY7x7LuRAqUQmV,"John Bolton,Derek Klena,Christy Altomare",Learn to Do It,0.637,0.66,247786,0.365,0.0,7,0.277,-10.739,1,0.385,128.641,4,0.665
+69,72QLVbDxbWM6cqcBfyJEaB,Ramin Karimloo,The Neva Flows,0.875,0.365,173520,0.267,3.11e-06,10,0.154,-11.851,1,0.0404,92.648,3,0.152
+70,4pjA5aVdmBmNf1YrwG7nH2,Derek Klena,My Petersburg,0.661,0.565,150400,0.364,0.0,9,0.14,-9.203,1,0.0367,133.663,3,0.674
+71,3jMy7ITBiLgVwC15RBK9Hp,Christy Altomare,Once Upon a December,0.917,0.166,179840,0.288,1.89e-05,11,0.0889,-12.45,0,0.0389,174.166,4,0.0748
+72,7rESLKVDgq9zge1nMBoAWx,"Constantine Germanacos,Derek Klena,John Bolton,Christy Altomare,Anastasia Company","Stay, I Pray You",0.917,0.267,206146,0.27,0.0,3,0.105,-12.542,0,0.0421,67.317,4,0.134
+73,2Q0mNGmibhJKxpeXK6Cu83,"Christy Altomare,Derek Klena,John Bolton,Anastasia Company",We'll Go from There,0.607,0.634,172786,0.399,0.0,7,0.236,-8.501,1,0.0382,116.978,4,0.653
+74,54gZUgShMyXFY6VibprTOe,Ramin Karimloo,Still,0.695,0.286,156133,0.407,4.27e-06,5,0.503,-10.592,0,0.0375,83.844,3,0.0721
+75,1T0OMgJ1bSqlMDD8cWbvnL,Christy Altomare,Journey to the Past,0.841,0.335,196120,0.292,1.5e-06,3,0.0872,-9.738,1,0.0298,80.841,4,0.201
+76,5sagFqBwnUUiUXzbTVkgE2,"John Bolton,Derek Klena,Christy Altomare,Anastasia Company",Paris Holds the Key (To Your Heart),0.59,0.366,187813,0.418,0.0,8,0.0844,-9.629,1,0.0787,79.454,1,0.69
+77,1cGKjVDX4tC9MUzsDQDa5S,Christy Altomare,Crossing a Bridge,0.905,0.23,130186,0.191,0.0,7,0.118,-11.713,0,0.0351,178.046,3,0.157
+78,0tEQU6rmdTwC2kaAeHQPDE,Mary Beth Peil,Close the Door,0.912,0.231,191413,0.291,2.09e-05,7,0.0929,-11.187,0,0.0418,87.999,3,0.153
+79,2Yz9ItBsiuHfGb6YnHIBlh,"Caroline O'Connor,Anastasia Company",Land of Yesterday,0.587,0.458,215493,0.372,0.0,4,0.224,-8.09,0,0.0761,170.859,4,0.552
+80,5JW9pfxfiKCgAHVZqfGLXk,"Caroline O'Connor,John Bolton",The Countess and the Common Man,0.751,0.41,181960,0.264,0.0,7,0.0919,-11.626,1,0.0917,42.069,4,0.348
+81,16pU4fqlBvH6rX5AI99lrF,"Derek Klena,Christy Altomare",In a Crowd of Thousands,0.885,0.367,225506,0.198,0.0,1,0.0974,-12.753,0,0.0396,75.845,4,0.174
+82,3omcpeKI7kqmdSARSRROyE,John Bolton,Meant to Be,0.688,0.287,100746,0.172,0.000697,5,0.225,-10.497,1,0.0331,149.455,5,0.209
+83,4ae6R0o6POKV7GC8NgGDe9,"Christy Altomare,Derek Klena,Mary Beth Peil,Ramin Karimloo",Quartet at the Ballet,0.758,0.22,225626,0.309,0.000518,7,0.219,-11.078,1,0.0363,179.63,3,0.222
+84,4ZRVPESgSBD4lXghmjLJ9z,Derek Klena,Everything to Win,0.864,0.318,167160,0.205,6.7e-05,5,0.111,-12.368,1,0.034,84.728,4,0.175
+85,1aA6IKda2d5Gm5N72DaDW9,"Christy Altomare,Mary Beth Peil",Once Upon a December (Reprise),0.843,0.468,57986,0.074,0.0,9,0.143,-19.788,0,0.403,135.984,3,0.339
+86,2entJ1igG0436eITo3VP7N,"Caroline O'Connor,John Bolton,Anastasia Company",The Press Conference,0.533,0.737,125866,0.527,0.0,0,0.263,-9.01,1,0.0703,136.925,4,0.891
+87,4txdXqI7xiuoc3ng2GCMsM,Christy Altomare,Everything to Win (Reprise),0.962,0.343,41906,0.0571,4.28e-06,2,0.113,-18.74,1,0.0422,124.402,5,0.532
+88,144J2GiZlX3k8tqBeqr0z6,"Ramin Karimloo,Christy Altomare",Still / The Neva Flows (Reprise),0.589,0.436,142253,0.445,0.0,10,0.101,-9.709,1,0.187,80.029,4,0.315
+89,7zpAfxyfBi8O83EWoGtqTF,"Mary Beth Peil,Ramin Karimloo,Anastasia Company",Finale,0.549,0.277,94240,0.245,0.0,10,0.0837,-11.32,1,0.0337,86.816,3,0.21
+90,4ROn85wqzvi0BzUnj1TOd5,"Danny Carroll,42nd Street Ensemble",Overture / Audition,0.794,0.49,283000,0.675,0.145,5,0.0775,-12.695,0,0.284,94.295,4,0.547
+91,47dXUALoTQaCHE5WoIDrKp,"Tammy Grimes,42nd Street Ensemble",Shadow Waltz,0.958,0.371,209826,0.062,5.31e-05,9,0.179,-21.422,0,0.0347,137.974,3,0.187
+92,3X72aOsdJGuOXWLW3R3g17,"Lee Roy Reams,Wanda Richert",Young and Healthy,0.945,0.484,135493,0.127,0.0,0,0.132,-20.467,1,0.0406,90.849,4,0.311
+93,4aBF1Tlol9fCG0mTCt5Abg,"Carole Cook,Wanda Richert,Karen Prunczik,Ginny King,Jeri Kansas",Go into Your Dance,0.757,0.561,203000,0.667,0.000639,8,0.105,-14.945,1,0.203,133.198,4,0.477
+94,5HmGGPZzsZStnleeqsRkQk,"Tammy Grimes,Lee Roy Reams,Wanda Richert,42nd Street Ensemble",You're Getting to Be a Habit with Me,0.872,0.454,122893,0.13,3.52e-05,8,0.111,-18.41,0,0.0613,66.722,3,0.373
+95,0CNAObKz2jAqpIRsYzMUAz,"James Congdon,Joseph Bova,Carole Cook,Karen Prunczik,Tammy Grimes,42nd Street Ensemble",Getting Out of Town,0.749,0.549,102586,0.416,4.35e-06,3,0.0995,-13.525,1,0.0396,84.851,4,0.613
+96,2ERPJP3ISt4fTPKjD8wUi4,"Karen Prunczik,Wanda Richert,Ginny King,Jeri Kansas,Lee Roy Reams,42nd Street Ensemble",We're in the Money,0.744,0.536,188866,0.42,0.000282,0,0.0344,-12.661,1,0.048,104.409,4,0.609
+97,1AmeuheVO32dnEv23DvShm,"Lee Roy Reams,42nd Street Ensemble",Dames,0.907,0.312,202253,0.318,0.0,10,0.147,-14.229,1,0.0406,176.906,4,0.41
+98,7aGPNdMfymegtIO0j7MsuT,"Karen Prunczik,42nd Street Ensemble",Sunny Side to Every Situation,0.846,0.374,140106,0.13,4.09e-06,3,0.15,-18.92,1,0.0348,139.174,4,0.503
+99,5kAwWMrtIElxbnUjTL65PT,"Jerry Orbach,42nd Street Ensemble",Lullaby of Broadway,0.889,0.315,302026,0.331,1.16e-06,0,0.163,-13.533,1,0.0477,81.277,4,0.346
+100,5VP2luWhwqZZcydFwJyRPp,"Tammy Grimes,Wanda Richert",About a Quarter to Nine,0.929,0.406,136293,0.0393,9.49e-06,1,0.0922,-20.788,1,0.0346,140.645,4,0.279
+101,3ve4RsUm6R6iYWtPFKjZZJ,"Joseph Bova,Carole Cook,Karen Prunczik,42nd Street Ensemble",Shuffle Off to Buffalo,0.87,0.413,230200,0.326,0.000188,0,0.116,-15.967,1,0.06,146.431,4,0.603
+102,5BTmAlpD51E5FgcTQKjV4e,"Wanda Richert,Lee Roy Reams,42nd Street Ensemble",42nd Street,0.698,0.4,444946,0.576,0.00708,0,0.0557,-15.012,1,0.562,87.277,4,0.222
+103,0NIwHd452tFZDEqwuPGPc4,"Jerry Orbach,42nd Street Ensemble",Finale: 42nd Street (Reprise) / Bows,0.707,0.291,193600,0.31,0.0,3,0.0601,-14.556,0,0.0416,85.518,4,0.157
+104,03GBiorLGTk7T4IScIl4jj,SIX,Ex-Wives,0.0499,0.703,350218,0.443,0.0,0,0.338,-9.601,0,0.0862,136.647,4,0.367
+105,2ldBp6eNIE4wk8C3j0bz8n,"SIX,Renée Lamb",No Way,0.0306,0.629,241501,0.713,0.0,5,0.173,-6.498,0,0.173,119.363,4,0.511
+106,6sUQqRmOcRyAG5M3EWXzr3,"SIX,Christina Modestou",Don't Lose Ur Head,0.251,0.859,245303,0.605,0.0,7,0.132,-7.635,0,0.357,82.91,4,0.722
+107,3akeuMy9bqJbqDlfYevbwN,"SIX,Natalie Paris",Heart of Stone,0.452,0.513,311301,0.426,0.0,5,0.115,-8.14,1,0.03,115.196,4,0.101
+108,6bo3wF9Gfmr7iFlIaGfo1g,SIX,Haus of Holbein,0.0362,0.672,126870,0.666,0.0,5,0.323,-6.534,0,0.156,150.111,4,0.832
+109,198ZUXC5jCr5DiQNlKBiNV,"SIX,Genesis Lynea",Get Down,0.00986,0.898,253993,0.406,0.0,4,0.0509,-9.905,0,0.102,102.985,4,0.39
+110,1U0hiOuodfSsxdcTYXGEdT,"SIX,Aimie Atkinson",All You Wanna Do,0.302,0.738,410089,0.532,0.0,11,0.0855,-7.967,0,0.187,143.991,4,0.596
+111,34TY5bMvFrfPlZ7jqeGxi4,"SIX,Izuka Hoyle",I Don't Need Your Love,0.326,0.535,367989,0.447,0.0,5,0.192,-8.569,1,0.0612,97.611,4,0.331
+112,3jnntYfllN05QxplcXtpaS,SIX,Six,0.159,0.729,239795,0.674,0.0,3,0.105,-6.249,1,0.0435,135.026,4,0.64
+113,4TTV7EcfroSLWzXRY6gLv6,"Leslie Odom Jr.,Daveed Diggs,Okieriete Onaodowan,Lin-Manuel Miranda,Phillipa Soo,Christopher Jackson,Original Broadway Cast of Hamilton,Anthony Ramos",Alexander Hamilton,0.522,0.609,236737,0.435,0.0,11,0.118,-7.861,0,0.285,131.995,4,0.552
+114,6dr7ekfhlbquvsVY8D7gyk,"Lin-Manuel Miranda,Leslie Odom Jr.,Daveed Diggs,Okieriete Onaodowan,Anthony Ramos","Aaron Burr, Sir",0.272,0.646,156630,0.439,0.0,7,0.0945,-10.837,1,0.818,160.387,4,0.528
+115,4cxvludVmQxryrnx1m9FqL,"Lin-Manuel Miranda,Daveed Diggs,Okieriete Onaodowan,Leslie Odom Jr.,Original Broadway Cast of Hamilton,Anthony Ramos",My Shot,0.15,0.698,333154,0.649,0.0,8,0.0903,-6.764,1,0.415,180.466,4,0.568
+116,0NJWhm3hUwIZSy5s0TGJ8q,"Lin-Manuel Miranda,Okieriete Onaodowan,Daveed Diggs,Original Broadway Cast of Hamilton,Anthony Ramos",The Story of Tonight,0.835,0.494,91980,0.237,0.0,4,0.648,-10.579,1,0.0517,95.219,3,0.625
+117,71X7bPDljJHrmEGYCe7kQ8,"Renée Elise Goldsberry,Phillipa Soo,Jasmine Cephas-Jones,Leslie Odom Jr.,Original Broadway Cast of Hamilton",The Schuyler Sisters,0.187,0.74,186542,0.727,0.0,2,0.627,-6.253,1,0.278,101.409,4,0.792
+118,2G9lekfCh83S0lt2yfffBz,"Thayne Jasperson,Lin-Manuel Miranda,Original Broadway Cast of Hamilton",Farmer Refuted,0.684,0.795,112742,0.409,0.0,9,0.0548,-8.334,0,0.372,77.879,3,0.577
+119,6OG1S805gIrH5nAQbEOPY3,"Jonathan Groff,Original Broadway Cast of Hamilton",You'll Be Back,0.39,0.607,208321,0.466,0.0,0,0.135,-7.562,1,0.0578,121.741,4,0.434
+120,3nJYcY9yvKP8Oi2Ml8brXt,"Lin-Manuel Miranda,Leslie Odom Jr.,Original Broadway Cast of Hamilton",Right Hand Man,0.177,0.68,321696,0.413,0.0,8,0.205,-9.41,1,0.492,158.576,4,0.383
+121,2yBMVrq96wb9OHbMdBs0lF,"Leslie Odom Jr.,Lin-Manuel Miranda,Original Broadway Cast of Hamilton",A Winter's Ball,0.41,0.854,69900,0.327,0.0,8,0.0889,-10.834,1,0.507,131.352,4,0.688
+122,54Sc7mZQ1RM03STpk4SfaA,"Phillipa Soo,Original Broadway Cast of Hamilton",Helpless,0.334,0.688,249770,0.491,0.0,5,0.0914,-7.494,1,0.269,79.009,4,0.737
+123,3dP0pLbg9OfVwssDjp9aT0,"Renée Elise Goldsberry,Original Broadway Cast of Hamilton",Satisfied,0.287,0.707,329228,0.593,0.0,5,0.15,-8.581,0,0.0949,123.772,4,0.478
+124,1CzeuSrm71wHP9qsjg7p3F,"Okieriete Onaodowan,Daveed Diggs,Lin-Manuel Miranda,Leslie Odom Jr.,Anthony Ramos",The Story of Tonight - Reprise,0.68,0.724,115879,0.305,0.0,5,0.128,-12.763,0,0.257,81.874,4,0.594
+125,7EqpEBPOohgk7NnKvBGFWo,"Leslie Odom Jr.,Original Broadway Cast of Hamilton",Wait for It,0.124,0.543,193749,0.473,4.04e-06,6,0.0922,-9.638,1,0.157,86.534,4,0.519
+126,27MB0qHaYAZiTlwg25js1Y,Original Broadway Cast of Hamilton,Stay Alive,0.471,0.723,159102,0.415,0.0,0,0.0995,-10.394,0,0.395,159.65,4,0.581
+127,3lXyAQ0kekAvY5LodpWmUs,"Lin-Manuel Miranda,Jon Rua,Leslie Odom Jr.,Original Broadway Cast of Hamilton,Anthony Ramos",Ten Duel Commandments,0.0691,0.887,106646,0.516,0.0,10,0.617,-8.187,0,0.658,77.977,4,0.828
+128,6p7jXaTJdpzGWnOJoK2jYr,"Lin-Manuel Miranda,Leslie Odom Jr.,Christopher Jackson,Original Broadway Cast of Hamilton,Anthony Ramos",Meet Me Inside,0.378,0.732,83632,0.643,0.0,10,0.363,-8.318,0,0.474,88.543,4,0.644
+129,6oF8ueLn5hIl4PRp17sxW6,"Phillipa Soo,Lin-Manuel Miranda",That Would Be Enough,0.819,0.499,178445,0.2,0.0,2,0.115,-10.276,1,0.0355,137.367,4,0.185
+130,7m9XR7FquXLP1FewdAcNS9,"Leslie Odom Jr.,Daveed Diggs,Christopher Jackson,Original Broadway Cast of Hamilton",Guns and Ships,0.399,0.72,127578,0.666,0.0,7,0.0844,-6.914,1,0.328,138.03,4,0.383
+131,733tju3KUeatsbjcTRQ04i,Original Broadway Cast of Hamilton,Yorktown (The World Turned Upside Down),0.297,0.76,242587,0.883,0.0,9,0.727,-5.397,0,0.25,98.012,4,0.51
+132,1mGO8rwCE9zk7H06OxcU5m,"Christopher Jackson,Lin-Manuel Miranda,Original Broadway Cast of Hamilton",History Has Its Eyes on You,0.803,0.438,97050,0.373,0.0,0,0.123,-9.769,0,0.0291,77.415,4,0.274
+133,3D4J0o9w44QKFrBrYrSVJY,Jonathan Groff,What Comes Next?,0.603,0.515,99343,0.302,0.0,7,0.199,-10.882,1,0.079,114.972,4,0.277
+134,2sEq2rC3ynYsT49x7utWnd,"Leslie Odom Jr.,Lin-Manuel Miranda",Dear Theodosia,0.907,0.598,184004,0.221,4.19e-05,9,0.0723,-10.484,1,0.0303,106.771,4,0.274
+135,7qfoq1JFKBUEIvhqOHzuqX,"Leslie Odom Jr.,Lin-Manuel Miranda,Renée Elise Goldsberry,Phillipa Soo,Christopher Jackson,Original Broadway Cast of Hamilton",Non-Stop,0.211,0.77,385438,0.482,0.0,6,0.223,-9.529,1,0.351,91.994,4,0.441
+136,2W9u3whoCkQYOUbmnSrHi1,"Daveed Diggs,Leslie Odom Jr.,Okieriete Onaodowan,Original Broadway Cast of Hamilton",What'd I Miss,0.169,0.539,236701,0.577,0.0,7,0.14,-7.763,1,0.386,177.787,4,0.319
+137,3TfKt8mPpdXfQTMfRjHzyz,"Christopher Jackson,Daveed Diggs,Lin-Manuel Miranda,Okieriete Onaodowan",Cabinet Battle #1,0.0859,0.607,215226,0.658,0.0,11,0.489,-7.762,0,0.423,87.043,4,0.513
+138,2qFIJT5hjqaNFA1GKwl9me,"Phillipa Soo,Lin-Manuel Miranda,Renée Elise Goldsberry,Anthony Ramos",Take a Break,0.587,0.552,286485,0.371,0.0,4,0.18,-9.426,1,0.227,81.548,4,0.587
+139,3s9itRgJYcKhem01P17865,"Jasmine Cephas-Jones,Leslie Odom Jr.,Lin-Manuel Miranda,Sydney James Harcourt,Original Broadway Cast of Hamilton",Say No to This,0.464,0.754,242017,0.535,0.0,9,0.19,-8.156,1,0.305,81.035,4,0.395
+140,2TK2KSrzXD6W01qjXVjNGh,"Leslie Odom Jr.,Lin-Manuel Miranda,Daveed Diggs,Okieriete Onaodowan,Original Broadway Cast of Hamilton",The Room Where It Happens,0.271,0.638,318214,0.49,0.0,4,0.664,-9.382,0,0.426,173.552,4,0.511
+141,05bhmaAD1urZnQMWNd6p3S,"Phillipa Soo,Lin-Manuel Miranda,Leslie Odom Jr.,Anthony Ramos",Schuyler Defeated,0.236,0.745,63558,0.597,0.0,0,0.157,-10.422,1,0.257,102.108,4,0.842
+142,1WHNqqRWhJVZIdCScFKtl5,"Leslie Odom Jr.,Daveed Diggs,Okieriete Onaodowan,Original Broadway Cast of Hamilton",Washington on Your Side,0.165,0.884,181477,0.521,0.0,10,0.0756,-10.216,1,0.348,134.051,4,0.425
+143,6KRHMYPIWRgFWlXPgqO2Fp,"Christopher Jackson,Daveed Diggs,Lin-Manuel Miranda,Okieriete Onaodowan",Cabinet Battle #2,0.0582,0.753,142639,0.539,0.0,11,0.353,-9.117,1,0.537,99.455,4,0.519
+144,0Iys022UwQ8xBfxE1g4nWZ,"Christopher Jackson,Lin-Manuel Miranda,Original Broadway Cast of Hamilton",One Last Time,0.631,0.449,296387,0.42,0.0,8,0.0805,-9.624,1,0.356,176.989,4,0.41
+145,4eeN8erNIbW2osT0knz5vT,Jonathan Groff,I Know Him,0.649,0.67,97979,0.436,0.0,0,0.722,-8.636,1,0.364,121.581,4,0.378
+146,68Ijc4fPmT3P5BN6Vrl2s2,Original Broadway Cast of Hamilton,The Adams Administration,0.505,0.8,54840,0.362,0.0,1,0.121,-10.313,1,0.544,130.14,4,0.792
+147,1DLfR4MOfLYbV6v3xrmWa8,"Lin-Manuel Miranda,Daveed Diggs,Leslie Odom Jr.,Okieriete Onaodowan",We Know,0.312,0.718,142044,0.484,0.0,11,0.127,-10.376,1,0.523,113.855,4,0.692
+148,16sNPUamj4vnA7uQLozRpU,"Lin-Manuel Miranda,Original Broadway Cast of Hamilton",Hurricane,0.762,0.453,143551,0.546,0.0,0,0.0965,-7.952,1,0.309,171.289,5,0.398
+149,7D1Lf7N7AtCuEq5PGJtIPz,Original Broadway Cast of Hamilton,The Reynolds Pamphlet,0.0277,0.751,128470,0.573,0.0,0,0.129,-8.539,0,0.226,141.999,4,0.538
+150,4B3qvzOMzLQXLeYgPsG3KA,Phillipa Soo,Burn,0.752,0.582,225240,0.428,0.0,2,0.102,-9.13,1,0.0516,99.608,3,0.255
+151,6lsFGDo1IEEPFKh94c9kFe,"Ariana DeBose,Sasha Hutchings,Ephraim Sykes,Lin-Manuel Miranda,Original Broadway Cast of Hamilton,Anthony Ramos",Blow Us All Away,0.388,0.82,173594,0.451,0.0,9,0.563,-10.177,1,0.461,88.566,4,0.665
+152,2ydKgIVZAQXeYLWtxU8DFS,"Lin-Manuel Miranda,Phillipa Soo,Original Broadway Cast of Hamilton,Anthony Ramos",Stay Alive - Reprise,0.535,0.546,111553,0.246,0.0,0,0.0801,-13.754,0,0.26,160.031,4,0.427
+153,40LYL1Z6xgCn5cBybo5K0D,"Renée Elise Goldsberry,Lin-Manuel Miranda,Phillipa Soo,Original Broadway Cast of Hamilton",It's Quiet Uptown,0.796,0.484,270171,0.187,0.0,5,0.0785,-14.076,1,0.0423,129.753,4,0.227
+154,0LpHC9mhPAQC98IjXZIrif,"Daveed Diggs,Okieriete Onaodowan,Leslie Odom Jr.,Lin-Manuel Miranda,Original Broadway Cast of Hamilton",The Election of 1800,0.319,0.731,237982,0.42,0.0,10,0.306,-10.199,1,0.462,67.426,4,0.645
+155,6SHI6STEW51cQkAXBRpLNj,"Leslie Odom Jr.,Lin-Manuel Miranda,Original Broadway Cast of Hamilton",Your Obedient Servant,0.293,0.736,150063,0.37,0.0,5,0.042,-11.072,1,0.502,165.908,3,0.619
+156,1dZutYKh4BtPlxbC81wV34,"Phillipa Soo,Lin-Manuel Miranda",Best of Wives and Best of Women,0.751,0.647,47943,0.115,0.0,5,0.0858,-16.826,1,0.0544,131.508,4,0.597
+157,0P09TBGSKiQwfUsEh1UafT,"Leslie Odom Jr.,Lin-Manuel Miranda,Original Broadway Cast of Hamilton",The World Was Wide Enough,0.467,0.653,302191,0.351,0.0,5,0.107,-12.776,1,0.648,116.6,3,0.307
+158,7EsSVPxaYoAZjQwhspJBs2,Original Broadway Cast of Hamilton,"Who Lives, Who Dies, Who Tells Your Story",0.777,0.353,217229,0.326,0.0,2,0.0904,-9.687,1,0.0901,75.5,4,0.156
+159,5gw8HNcrqliEw0X6pPrPvG,"Rosario Dawson,Taye Diggs,Idina Menzel,Jesse L. Martin,Adam Pascal,Tracie Thoms,Anthony Rapp,Wilson Jermaine Heredia",Seasons of Love,0.609,0.475,182746,0.579,0.0,5,0.0756,-4.096,1,0.0334,178.151,4,0.466
+160,26RykSLUNpC2BymCxJgvTn,"Anthony Rapp,Adam Pascal,Jesse L. Martin,Taye Diggs,Cast Of The Motion Picture Rent",Rent,0.00476,0.447,239306,0.958,0.0,7,0.114,-2.724,1,0.136,182.142,4,0.522
+161,1lNGwNQX4IrvDwgETwyPjR,"Adam Pascal,Anthony Rapp,Taye Diggs",You'll See,0.0918,0.508,134466,0.846,0.0,0,0.397,-5.693,1,0.0457,110.983,3,0.529
+162,6Bp80mBzCSf3XAy31Qo7fA,Adam Pascal,One Song Glory,0.201,0.648,166840,0.475,0.0,6,0.127,-7.301,1,0.118,143.599,4,0.267
+163,7uSxlYmb19TczZ3AP1s3tO,"Adam Pascal,Rosario Dawson",Light My Candle,0.557,0.808,250040,0.508,0.0,0,0.0578,-6.429,0,0.0409,130.999,4,0.82
+164,5iMg31WQw8WdCHrvYWhloq,"Jesse L. Martin,Wilson Jermaine Heredia,Anthony Rapp",Today 4 U,0.043,0.724,164920,0.94,4.27e-05,7,0.142,-3.155,1,0.0507,132.006,4,0.684
+165,2lH6RlA7NA2CcTfyEsONTc,"Tracie Thoms,Anthony Rapp",Tango: Maureen,0.314,0.799,235040,0.621,0.0,7,0.153,-4.992,1,0.0599,128.002,4,0.747
+166,6LGHFOlbh34HKEyHtB0H6I,"Wayne Wilcox,Adam Pascal,Aaron Lohr,Cast Of The Motion Picture Rent",Life Support,0.799,0.459,56760,0.398,0.0,5,0.383,-8.141,1,0.0289,144.644,4,0.794
+167,5XzG0GT1WntHu1N1T2UVDJ,Rosario Dawson,Out Tonight,0.000111,0.534,234093,0.911,0.000406,9,0.078,-2.826,1,0.0441,139.02,4,0.681
+168,0CtHgpZKOCRdAHYYXsmEhJ,"Adam Pascal,Rosario Dawson,Jesse L. Martin,Anthony Rapp,Wilson Jermaine Heredia",Another Day,0.0421,0.478,286400,0.852,0.0,1,0.31,-2.985,1,0.0427,143.646,4,0.455
+169,0OuPMjmicFfmnB3SFFqdgQ,"Aaron Lohr,Wayne Wilcox,Cast Of The Motion Picture Rent",Will I,0.457,0.157,166333,0.382,0.0,6,0.167,-8.875,1,0.0313,178.017,4,0.38
+170,2TN1LttjDusbg3hzeH9MzJ,"Adam Pascal,Anthony Rapp,Wilson Jermaine Heredia,Jesse L. Martin",Santa Fe,0.594,0.697,207640,0.56,1.71e-06,9,0.112,-6.926,1,0.121,157.521,3,0.448
+171,3HMhPsOVZXZZRbZKx4f2V0,"Wilson Jermaine Heredia,Jesse L. Martin",I'll Cover You,0.243,0.619,149773,0.876,0.0,0,0.0752,-3.347,1,0.0438,111.847,4,0.778
+172,6vu2RSldhIHQ1K2VaZrqqx,Idina Menzel,Over the Moon,0.405,0.648,383706,0.439,0.0,6,0.27,-8.154,1,0.552,124.024,4,0.302
+173,24nJkTk9cSrVFOthgYdjzr,Cast Of The Motion Picture Rent,La Vie Boheme,0.353,0.499,419200,0.766,0.0,8,0.0791,-5.484,1,0.127,135.159,4,0.401
+174,5xIJIJTu3WHdyP6po2sYaj,"Adam Pascal,Rosario Dawson",I Should Tell You,0.458,0.315,172080,0.362,0.0,7,0.0922,-7.889,1,0.0271,98.657,3,0.171
+175,5WhrEpQFiuWDC5bwzTf6gP,"Rosario Dawson,Anthony Rapp,Wilson Jermaine Heredia,Jesse L. Martin,Idina Menzel,Adam Pascal,Tracie Thoms",La Vie Boheme B,0.257,0.555,96720,0.959,0.0,6,0.583,-3.558,1,0.0632,146.948,4,0.704
+176,2VC56eybNyq2O2ahMgS6JT,Cast Of The Motion Picture Rent,Seasons of Love B,0.148,0.585,69520,0.526,0.0,5,0.0651,-5.785,1,0.0331,88.996,4,0.454
+177,0E1NL6gkv5aQKGNjJfBE3A,"Idina Menzel,Tracie Thoms",Take Me or Leave Me,0.318,0.457,231360,0.763,0.0,7,0.0322,-3.459,0,0.255,175.043,3,0.87
+178,2btI9j6ov2IgC5tAacIGvQ,"Rosario Dawson,Adam Pascal",Without You,0.15,0.537,256746,0.585,0.000473,0,0.106,-6.158,1,0.0317,124.051,4,0.12
+179,3ECCCziRCrTy4Sv3kOiS94,"Jesse L. Martin,Tracie Thoms,Cast Of The Motion Picture Rent",I'll Cover You - Reprise,0.831,0.313,219386,0.413,3.81e-06,11,0.0781,-7.342,1,0.0406,79.902,4,0.181
+180,0TIv1rjOG6Wbc02T4p3y7o,Anthony Rapp,Halloween,0.549,0.451,89906,0.534,0.0,5,0.12,-6.946,0,0.0289,87.097,4,0.729
+181,5XfbSyRMdop6Te9znNL238,"Rosario Dawson,Adam Pascal,Taye Diggs,Idina Menzel,Tracie Thoms,Anthony Rapp,Jesse L. Martin",Goodbye Love,0.81,0.36,384853,0.413,0.0,0,0.1,-6.516,0,0.0491,87.23,4,0.151
+182,5fiRubxolDeCN6x2LTD7Dq,"Adam Pascal,Anthony Rapp",What You Own,0.0281,0.539,238053,0.854,0.0,2,0.318,-3.36,1,0.0341,133.932,4,0.526
+183,3QVcPX50jXyonJ6DTgEq6G,"Rosario Dawson,Adam Pascal",Finale A,0.876,0.486,80133,0.2,1.04e-06,7,0.154,-12.691,1,0.0381,125.906,3,0.253
+184,4i5CsAoHF8V6fL79WzEHzx,Adam Pascal,Your Eyes,0.21,0.387,156933,0.412,0.0,0,0.214,-6.727,1,0.0286,100.879,4,0.113
+185,1CtOCnWYfIwVgIKiR2Lufw,Cast Of The Motion Picture Rent,Finale B,0.0662,0.253,152733,0.482,0.0,6,0.116,-5.565,1,0.0324,145.338,4,0.19
+186,7sKQFjbD7nMuAV5dAOsLx5,Cast Of The Motion Picture Rent,Love Heals - Bonus Track,0.191,0.387,276773,0.611,0.0,9,0.257,-4.619,1,0.0322,101.626,4,0.329
+187,7HnycoSDt76YPYnVzLWeIO,"Sophia Anne Caruso,Alex Brightman,Beetlejuice Original Broadway Cast Recording Ensemble",Prologue: Invisible,0.853,0.309,162792,0.364,0.000623,4,0.317,-11.761,1,0.0656,81.015,4,0.509
+188,7BKbcBpIS7jMKsjbry09JF,"Alex Brightman,Beetlejuice Original Broadway Cast Recording Ensemble",The Whole Being Dead Thing,0.433,0.525,223564,0.84,0.0,5,0.43,-5.779,0,0.123,155.95,4,0.666
+189,6uimn4Kh5FtNZh3bmbqdOq,"Rob McClure,Kerry Butler,Alex Brightman","Ready Set, Not Yet",0.455,0.656,222176,0.648,0.0,7,0.178,-7.052,1,0.148,146.061,4,0.694
+190,10Aebb38sIB5JqkHmYSMJ9,"Alex Brightman,Kerry Butler,Rob McClure,Beetlejuice Original Broadway Cast Recording Ensemble","The Whole Being Dead Thing, Pt. 2",0.149,0.643,100113,0.732,0.0,7,0.412,-5.608,0,0.18,147.537,4,0.902
+191,7fRt5HCt4KgLlH45wFQCho,"Sophia Anne Caruso,Beetlejuice Original Broadway Cast Recording Ensemble",Dead Mom,0.291,0.528,184147,0.477,0.0,2,0.0965,-6.552,1,0.0319,135.315,4,0.247
+192,71ZdfBqav4YvPN6suM6TPk,"Alex Brightman,Rob McClure,Kerry Butler,Beetlejuice Original Broadway Cast Recording Ensemble",Fright of Their Lives,0.223,0.664,224633,0.727,0.0,9,0.0853,-5.493,1,0.0689,144.115,4,0.711
+193,7cNNav7aMiBJo8jKcC69vv,"Rob McClure,Kerry Butler",Ready Set - Reprise,0.475,0.494,58849,0.514,0.0,7,0.43,-6.865,1,0.329,153.99,3,0.854
+194,5fT1mq5O7JmAKMdEuQUGyl,"Leslie Kritzer,Sophia Anne Caruso",No Reason,0.39,0.687,191645,0.632,0.0,6,0.193,-5.597,1,0.0888,97.972,4,0.655
+195,6vIcTENBNyUEFQ44HSwAqG,"Alex Brightman,Sophia Anne Caruso",Invisible (Reprise) / On the Roof,0.645,0.485,108243,0.308,0.0,5,0.635,-9.6,1,0.0428,114.449,4,0.265
+196,3PzAUMMxPcaXEfWEvMx469,"Alex Brightman,Sophia Anne Caruso,Kerry Butler,Rob McClure",Say My Name,0.345,0.534,235286,0.754,0.0,5,0.248,-5.937,0,0.221,93.646,4,0.702
+197,26EVypD54l6FaZJw7WutQP,"Leslie Kritzer,Adam Dannheisser,Sophia Anne Caruso,Kerry Butler,Rob McClure,Alex Brightman,Danny Rutigliano,Jill Abramovitz,Beetlejuice Original Broadway Cast Recording Ensemble,Ramone Owens",Day-O (The Banana Boat Song) - Act 1 Finale,0.498,0.607,224382,0.597,0.0,0,0.101,-7.092,1,0.438,129.902,4,0.773
+198,76z2vduiSpawTJcN1naoAS,"Dana Steingold,Sophia Anne Caruso,Beetlejuice Original Broadway Cast Recording Ensemble",Girl Scout,0.512,0.69,146564,0.575,1.71e-05,7,0.548,-6.96,1,0.122,149.862,4,0.601
+199,4TkCT3027X457Q22xWbLPg,"Alex Brightman,Sophia Anne Caruso,Beetlejuice Original Broadway Cast Recording Ensemble",That Beautiful Sound,0.43,0.398,314950,0.728,0.0,5,0.275,-6.041,1,0.135,178.729,4,0.698
+200,7whkc1c9c7O2JJZt4no80u,"Kerry Butler,Rob McClure",Barbara 2.0,0.192,0.564,205743,0.651,8.86e-06,8,0.0618,-5.538,1,0.137,149.347,4,0.68
+201,5hKJAy2dKwWzcP5HWuxhBC,"Leslie Kritzer,Beetlejuice Original Broadway Cast Recording Ensemble",What I Know Now,0.47,0.643,214786,0.571,0.0,7,0.0895,-6.093,1,0.0643,161.05,4,0.813
+202,3HaeSBEqEUIWHx7yGEDxXh,"Sophia Anne Caruso,Adam Dannheisser,Beetlejuice Original Broadway Cast Recording Ensemble",Home,0.292,0.414,227985,0.621,0.0,2,0.275,-6.505,1,0.0397,145.863,4,0.189
+203,0jojuZqkHaIQk3CjZnjKDn,"Sophia Anne Caruso,Alex Brightman,Rob McClure,Kerry Butler,Adam Dannheisser,Beetlejuice Original Broadway Cast Recording Ensemble,Leslie Kritzer",Creepy Old Guy,0.367,0.531,262709,0.716,0.0,6,0.849,-5.685,1,0.0879,165.88,4,0.688
+204,37tuc3TemjNvmVWObkSKNJ,"Sophia Anne Caruso,Rob McClure,Kerry Butler,Adam Dannheisser,Leslie Kritzer,Beetlejuice Original Broadway Cast Recording Ensemble",Jump in the Line / Dead Mom - Reprise,0.22,0.568,125741,0.777,0.0,0,0.0821,-6.156,1,0.0541,112.385,4,0.483
+205,43d7daGKl40O34qUihfnex,Jekyll & Hyde Cast Ensemble,Prologue,0.179,0.365,49106,0.296,0.000416,1,0.197,-17.799,1,0.0627,98.07,5,0.22
+206,5bC70rT8RNegGNf8ATLYpB,Anthony Warlow,I Need to Know,0.711,0.367,222093,0.464,4.79e-05,6,0.329,-7.935,0,0.0387,98.712,4,0.269
+207,1LfSBDMkjXLswZjgorBkOn,Street People,Facade,0.768,0.555,238133,0.587,0.0,2,0.153,-6.391,0,0.052,141.699,4,0.283
+208,3dpbxKJQMAYZaSe57Cz5co,"Christine Pedi,Willy Falk","Bitch, Bitch, Bitch",0.693,0.421,104066,0.462,0.0,5,0.642,-9.881,1,0.0513,156.397,3,0.509
+209,6eCZuVUEZf4oWLks6x3qwq,"Anthony Warlow,John Raitt,Bill Nolte,Philip Hoffman",The Engagement Party,0.809,0.529,79333,0.411,0.0,2,0.123,-12.466,1,0.0893,68.692,4,0.619
+210,4IxMM1Cn8S9mypIYcCTeDW,"Anthony Warlow,Carolee Carmello",Possessed,0.964,0.467,103266,0.222,6.66e-06,7,0.372,-15.503,1,0.0983,130.976,3,0.368
+211,0l2CH1eIQY07KB45QwI0nc,"Anthony Warlow,Carolee Carmello",Take Me as I Am,0.842,0.143,196906,0.376,2.83e-06,10,0.146,-10.304,1,0.0331,78.05,5,0.0782
+212,78PEDtbOHjavChCuR4uOnB,"Bill Nolte,Carolee Carmello",Lisa Carew,0.956,0.49,129493,0.227,7.53e-05,4,0.0911,-15.751,0,0.0901,88.657,4,0.28
+213,0Y2wbYXS9681Rut1mvcS5S,"Anthony Warlow,Bill Nolte,Ray McLeod,Dave Clemons,Amick Byram,Christine Pedi,John Raitt,Willy Falk",Board of Govenors,0.708,0.394,565666,0.463,0.0,4,0.104,-10.772,0,0.277,69.383,4,0.142
+214,0fdkrjwV2ZsnBQoz4qTVEo,Linda Eder,Bring on the Men,0.807,0.456,308440,0.384,0.0,1,0.197,-10.433,0,0.0586,110.683,4,0.469
+215,5lJUwtWla7zgr0yAMHs5Jy,"Anthony Warlow,Linda Eder",Lucy Meets Jekyll,0.933,0.432,161266,0.0992,0.0,7,0.103,-17.003,1,0.0427,98.334,3,0.183
+216,5T0tzhYcUe9kwSQBB6saM6,"Anthony Warlow,Philip Hoffman",How Can I Continue On?,0.867,0.413,84533,0.121,0.0,5,0.225,-18.121,1,0.0905,169.223,3,0.35
+217,6akymVbxqJNJipAR41cRSv,Anthony Warlow,This Is the Moment,0.645,0.354,211960,0.494,3.83e-05,4,0.24,-8.295,1,0.0323,131.295,4,0.183
+218,5m66PvmwpwDx97NyhBiUVk,Anthony Warlow,Transformation,0.648,0.424,287066,0.211,0.0,9,0.0937,-13.811,0,0.0558,130.81,3,0.155
+219,2EsDZBYG5jnAC0l6s80aLh,"Anthony Warlow,Linda Eder",Lucy Meets Hyde,0.685,0.538,134773,0.147,0.0,2,0.147,-17.728,1,0.102,104.219,5,0.262
+220,5q63CeN78e2JaFdhvLyNRz,Anthony Warlow,Alive,0.631,0.423,276093,0.664,0.000358,5,0.354,-8.759,1,0.0878,122.069,3,0.287
+221,68Wfo6ABHG8RdjZ5kxXOWA,Anthony Warlow,Streak of Madness,0.876,0.373,217866,0.156,0.0,3,0.0676,-19.87,1,0.0579,79.058,4,0.0954
+222,4anNiqavpc8Wm7X67cEnzs,"Anthony Warlow,Carolee Carmello,Philip Hoffman,John Raitt",His Work and Nothing More,0.887,0.478,262506,0.262,0.0,7,0.107,-14.407,0,0.0472,125.07,3,0.303
+223,0Z2oSQYm0vwI9FxwR6TP8h,Linda Eder,Symphathy-Tenderness,0.967,0.163,102866,0.0607,3.42e-06,11,0.0834,-22.532,0,0.05,71.45,3,0.157
+224,128RcZrQRP17AsMLflQ3oN,Linda Eder,Someone Like You,0.938,0.232,245226,0.21,3.42e-06,5,0.133,-11.276,1,0.0328,140.453,3,0.0636
+225,34TQSKmKbaaTckE8gL3E9I,"Linda Eder,Philip Hoffman,Bobbi Page,Judith Siirila,Farah Alvin,Dave Clemons,Ray McLeod,Amick Byram,Jason Howland",Mass,0.83,0.202,89240,0.18,0.0185,2,0.144,-17.639,0,0.0383,91.711,3,0.0354
+226,6YvB2X15yeaWTvUNHreAxc,Dave Clemons,"Murder, Murder!",0.79,0.588,365893,0.453,0.0,9,0.0664,-9.377,0,0.061,137.653,3,0.354
+227,6KURIJNe8K6xNZCKoC4823,"John Raitt,Carolee Carmello",Letting Go,0.936,0.226,203173,0.266,1.63e-06,4,0.112,-12.308,1,0.0338,93.177,3,0.0943
+228,54jKZkgUTFBCj59eNWcXM9,Anthony Warlow,Reflections,0.803,0.292,144933,0.187,0.0,7,0.246,-13.529,0,0.0621,164.732,3,0.0719
+229,4Y9DdmmvHYLEw4X3G8nukW,"Carolee Carmello,Linda Eder",In His Eyes,0.871,0.25,253066,0.282,0.0,10,0.122,-11.517,1,0.0315,83.921,5,0.151
+230,4JREUfBbmjftO1iJQWx2t2,Anthony Warlow,The World Has Gone Insane,0.23,0.505,187466,0.704,0.0,5,0.261,-8.361,1,0.121,87.046,4,0.48
+231,16OulllEijw3qv4B9EsKBA,"Brenda Russell,Linda Eder",The Girls of the Night,0.761,0.329,246333,0.343,0.0,2,0.072,-8.799,1,0.0292,101.04,4,0.145
+232,2UDrHB8QLCbq7I5cZnNLdL,"Anthony Warlow,Linda Eder",No One Knows Who I Am,0.978,0.289,208466,0.138,5.23e-05,7,0.129,-15.623,0,0.0397,130.404,4,0.066
+233,62BFNspxjWOOVO1weODhsb,"Anthony Warlow,Linda Eder",It's a Dangerous Game,0.817,0.337,256626,0.333,2.24e-06,4,0.0828,-9.616,0,0.0336,116.131,4,0.0874
+234,1ugAAaJXP4iGShTOv8CwF9,Carolee Carmello,Once Upon a Dream - Lisa,0.985,0.22,170266,0.185,0.0223,11,0.0935,-18.078,1,0.0424,91.643,4,0.0872
+235,1Ynz4q8xv2zjpu8z68EiQ9,Anthony Warlow,No One Must Ever Know,0.799,0.385,270560,0.445,3.44e-05,7,0.141,-9.889,0,0.0567,116.611,4,0.0762
+236,1vtLRroHPMpG3bMCzox5zZ,Linda Eder,A New Life,0.866,0.264,266106,0.319,0.0,11,0.161,-11.168,0,0.0312,130.067,5,0.112
+237,6EPSQANsbSwKdYq9UJyQEK,Jekyll & Hyde Cast Ensemble,Once Upon a Dream - Jekyll,0.899,0.396,145626,0.0871,5.47e-06,8,0.153,-16.976,1,0.0385,71.301,4,0.11
+238,5oLWroGhJvHACXQ5nEx692,Anthony Warlow,Confrontation,0.576,0.288,266440,0.586,3.45e-06,4,0.0966,-10.099,1,0.109,82.38,4,0.0878
+239,4FxrfGsjyuP0L9tk2ssA2d,"Anthony Warlow,Carolee Carmello,Philip Hoffman",The Wedding Reception,0.724,0.299,256240,0.471,1.09e-05,11,0.0703,-10.88,1,0.15,76.991,3,0.178
+240,3qZFBaIyoZesGJkk32l9Nj,"West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)",Prologue,0.794,0.51,249026,0.326,0.00254,9,0.0818,-13.927,0,0.154,132.914,4,0.335
+241,7caSLTeDh7XOv9jAbkIBy6,"Cody Green,West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)",Jet Song,0.827,0.67,126693,0.41,0.0,9,0.276,-11.688,0,0.404,142.749,4,0.803
+242,6JEqNSOd5Y4bcBFPprMWQ8,"Matt Cavenaugh,New Broadway Cast of West Side Story (2009)",Something's Coming,0.775,0.455,147213,0.336,0.0,7,0.411,-11.403,1,0.146,183.578,3,0.359
+243,7HwezGLNAb50XAPydwMUZI,"West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)",Dance at the Gym,0.715,0.482,385920,0.364,0.0153,7,0.304,-13.014,1,0.271,98.819,4,0.282
+244,6ZzVcf5w9RMS4iqIhVQeHe,"Matt Cavenaugh,New Broadway Cast of West Side Story (2009)",Maria,0.891,0.254,182480,0.124,0.0,3,0.0927,-13.304,1,0.0339,85.572,3,0.0638
+245,78cj20lkGZGmNyL9ehr0cv,"Matt Cavenaugh,Josefina Scaglione,New Broadway Cast of West Side Story (2009)",Tonight,0.902,0.301,334066,0.103,0.0,0,0.109,-13.294,0,0.0419,111.887,3,0.0676
+246,0aWXKmw4o10uEWx0Ujl2MY,"Karen Olivo,Jennifer Sanchez,West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)",America,0.815,0.546,283000,0.426,8.3e-05,0,0.198,-10.751,1,0.164,154.82,3,0.737
+247,0ngZUz3lyFqwRM9HfAVX5e,"Cody Green,West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)",Cool,0.648,0.549,271946,0.136,1e-06,0,0.0525,-14.216,1,0.0908,77.984,4,0.343
+248,6Zn65uqdMtYiVdYwu4FnlW,"Matt Cavenaugh,Josefina Scaglione,New Broadway Cast of West Side Story (2009)","One Hand, One Heart",0.896,0.169,246573,0.0543,3.66e-05,10,0.178,-19.29,0,0.0422,72.37,5,0.0384
+249,6gvwJ5xvY8DpIP8aBRtu4t,"West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)",Tonight (Quintet),0.811,0.411,221080,0.384,0.0,7,0.858,-10.753,1,0.107,145.347,3,0.594
+250,3KBFwfX7e6QsfUkmKzphsR,"West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)",The Rumble,0.883,0.506,202000,0.323,0.125,10,0.114,-15.241,1,0.16,85.939,4,0.152
+251,0Qfu1AC9qWUq94EMuDYSlf,"Josefina Scaglione,Jennifer Sanchez,Danielle Polanco,Kat Nejat,New Broadway Cast of West Side Story (2009)",Me Siento Hermosa (I Feel Pretty),0.856,0.435,204733,0.186,0.0,5,0.1,-12.011,1,0.128,186.55,3,0.302
+252,6olJrYB94NqdARj9tWRplO,"Nicholas Barasch,Matt Cavenaugh,Josefina Scaglione,West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)",Somewhere,0.9,0.315,409720,0.0546,0.000521,3,0.242,-16.222,1,0.0386,76.697,4,0.0801
+253,6B5CvL5qtQdWkAJmffrmU5,"Curtis Holbrook,West Side Story Ensemble (2009),New Broadway Cast of West Side Story (2009)","Gee, Officer Krupke",0.717,0.679,252586,0.497,0.0,7,0.486,-11.608,1,0.494,148.452,4,0.635
+254,0diTTEecTVttfTFiT3BqJ5,"Karen Olivo,Josefina Scaglione,New Broadway Cast of West Side Story (2009)",Un Hombre Asi (A Boy Like That) / I Have a Love,0.9,0.324,329293,0.162,4.76e-06,2,0.195,-11.61,1,0.0357,82.662,4,0.0558
+255,0LbsXxyEn6rgfwkOzTENrw,"Josefina Scaglione,Matt Cavenaugh,New Broadway Cast of West Side Story (2009)",Finale,0.83,0.179,65013,0.00478,1.13e-05,4,0.103,-30.646,0,0.0468,177.208,1,0.0392
+256,1FeSb9gcy6kDVkczbUEkuE,Original Australian Cast of Mary Poppins,Prologue/Chim Chim Cher-ee,0.356,0.375,147640,0.296,0.0,8,0.174,-10.685,1,0.0351,139.957,5,0.136
+257,28slNpEMmHKrIBwsNf4GCY,Original Australian Cast of Mary Poppins,Cherry Tree Lane (Part 1),0.748,0.654,162560,0.36,0.0,10,0.643,-11.623,0,0.438,119.442,4,0.632
+258,6xfgPKHStczoVKL6LL6txa,Original Australian Cast of Mary Poppins,The Perfect Nanny,0.543,0.628,72826,0.179,0.0,2,0.283,-15.008,1,0.153,103.213,3,0.629
+259,2vguABILZcxuhG6TLPrx9s,Original Australian Cast of Mary Poppins,Cherry Tree Lane (Part 2),0.558,0.531,52693,0.738,0.0,3,0.707,-8.428,1,0.47,115.731,4,0.779
+260,1PpC4KMOIxildkObjB5FqZ,Original Australian Cast of Mary Poppins,Practically Perfect,0.792,0.547,256853,0.278,0.0,9,0.931,-11.62,1,0.0977,103.156,4,0.519
+261,3oXBTrHFTCq7zof1DZcKkT,Original Australian Cast of Mary Poppins,Jolly Holiday,0.49,0.545,347186,0.394,0.0,0,0.762,-9.787,1,0.135,126.275,4,0.531
+262,11OeC38V87g4uK4mLnl7mr,Original Australian Cast of Mary Poppins,Let's Hope She Will Stay - Cherry Tree Lane (Reprise)/Being Mrs. Banks/Jolly Holiday (Reprise),0.686,0.526,120840,0.215,0.0,6,0.922,-17.969,0,0.149,51.601,4,0.586
+263,2d5RLL9Fpn2f7DjGWsrm0b,Original Australian Cast of Mary Poppins,A Spoonful of Sugar,0.663,0.493,183586,0.36,0.0,1,0.682,-10.024,1,0.188,105.582,4,0.562
+264,0flC3HRqqG43oWQuL4s0av,Original Australian Cast of Mary Poppins,Precision and Order,0.847,0.593,201413,0.35,0.0,5,0.906,-11.531,1,0.183,125.657,3,0.505
+265,268OYttLU5ogIBIFvEvOEg,Original Australian Cast of Mary Poppins,Feed The Birds,0.797,0.331,214293,0.246,1.58e-06,6,0.742,-15.852,1,0.0639,84.739,4,0.232
+266,4SPVFGKoDkOy3QjHNaX0mB,Original Australian Cast of Mary Poppins,Supercalifragilisticexpialidocious,0.523,0.587,286800,0.418,0.0,6,0.906,-10.674,1,0.493,116.971,4,0.72
+267,6BnERAqjL8hHgaeawiTGSy,Original Australian Cast of Mary Poppins,Playing the Game,0.748,0.378,227253,0.344,0.0,2,0.0908,-10.24,0,0.0542,94.262,3,0.261
+268,1zacdOqz2yNqHrRgSyRi2N,Original Australian Cast of Mary Poppins,Chim Chim Cher-ee (Reprise) - Chim Chim Cher-ee (Rooftop Duet),0.46,0.41,255813,0.269,0.0,1,0.721,-13.382,0,0.0616,83.802,4,0.337
+269,4mxovse33YkdcRcBm7Y5JQ,Mary Poppins Orchestra,Ent'racte: Run Away,0.568,0.635,67813,0.495,0.344,0,0.718,-13.084,1,0.367,122.229,4,0.829
+270,61rRJMtIxfhNoELiWBIwPe,Original Australian Cast of Mary Poppins,Brimstone and Treacle (Part 1),0.756,0.541,161826,0.462,0.0,9,0.708,-9.33,1,0.312,86.505,1,0.664
+271,5XJVgNWsSoZ8s7cMYhNKAu,Original Australian Cast of Mary Poppins,Let's Go Fly A Kite,0.619,0.448,168800,0.383,0.0,2,0.881,-11.015,1,0.159,122.711,4,0.477
+272,4w4bqqGPbJ5n1rNAAYosQu,Original Australian Cast of Mary Poppins,Good For Nothing,0.848,0.392,71933,0.103,5.9e-05,3,0.466,-19.093,1,0.0642,84.79,4,0.118
+273,52wf5huxuAeEnUWdL3gLY2,Original Australian Cast of Mary Poppins,Being Mrs Banks (Reprise),0.716,0.374,120253,0.316,0.0,0,0.747,-11.453,1,0.0404,131.891,5,0.189
+274,5vXHLz4hWTPvEgkBbmgxiu,Original Australian Cast of Mary Poppins,Brimstone and Treacle (Part 2),0.693,0.501,266266,0.337,0.0,3,0.919,-11.595,1,0.283,94.616,4,0.39
+275,2ZDjZT2GqYGwNpvkbqF5wQ,Original Australian Cast of Mary Poppins,Step in Time,0.484,0.45,388426,0.575,0.0,2,0.663,-9.151,1,0.0993,124.502,4,0.361
+276,2huJ1t5Esda8A9m8Vcd2vS,Original Australian Cast of Mary Poppins,A Man Has Dreams/A Spoonful of Sugar (Reprise),0.723,0.491,174093,0.181,0.0,3,0.297,-17.913,1,0.389,88.06,4,0.316
+277,4XGEIZkiagC0unIKCYpB8b,Original Australian Cast of Mary Poppins,Anything Can Happen,0.745,0.455,252880,0.38,0.0,0,0.665,-10.782,0,0.0932,107.037,4,0.494
+278,114DIqaoMRb0LkxNElZIYd,Original Australian Cast of Mary Poppins,The Task Is Done - A Spoonful of Sugar (Reprise),0.821,0.412,121906,0.086,0.0,10,0.547,-19.614,1,0.156,159.554,3,0.129
+279,2Tx5ZZcGBMZ2XRj1fkSEHK,Original Australian Cast of Mary Poppins,A Shooting Star,0.445,0.206,109693,0.475,0.0106,4,0.709,-9.82,1,0.0435,75.879,4,0.178
+280,4cdOFxD1sUhNArz77ELUVw,Original Australian Cast of Mary Poppins,Bows/Supercalifragilisticexpialidocious (Reprise),0.384,0.351,128360,0.903,0.0,8,0.97,-7.87,1,0.103,74.451,4,0.365
+281,70X8KyrI4iKZtFCm1vDu5g,"Charles Strouse,Annie Orchestra,Annie (Original Broadway Cast),Peter Howard",Annie: Overture,0.797,0.421,201360,0.255,0.921,3,0.266,-14.332,1,0.0357,96.67,4,0.585
+282,7mZ8hSSAqkNiUBSGe9hB4E,"Charles Strouse,Andrea McArdle,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: Maybe,0.845,0.322,157360,0.102,0.00593,10,0.326,-13.32,1,0.0318,91.173,4,0.192
+283,2IetGxzkjAYQsoFtvX0fNA,"Charles Strouse,Andrea McArdle,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: It's the Hard-Knock Life,0.828,0.601,141066,0.287,0.00352,11,0.333,-14.204,1,0.0748,152.281,4,0.543
+284,1AXO42HiJSTgPq7KbJAEjp,"Charles Strouse,Andrea McArdle,Annie (Original Broadway Cast),Peter Howard",Annie: Tomorrow,0.781,0.506,127493,0.239,0.0373,6,0.0946,-13.473,1,0.06,92.087,4,0.252
+285,1hXjnV4Xo31sCulG5nMJFh,"Charles Strouse,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard","Annie: We'd Like to Thank You, Herbert Hoover",0.856,0.622,147226,0.337,2.41e-06,0,0.125,-13.709,1,0.0841,131.254,4,0.673
+286,7JwOvR5x97BVktbgfVXtDG,"Charles Strouse,Annie (Original Broadway Cast),Peter Howard",Annie: Little Girls,0.822,0.611,162973,0.209,1.49e-05,5,0.0635,-13.602,0,0.062,105.738,4,0.562
+287,1NktnwKq8p6HEfZZJypNM9,"Charles Strouse,Sandy Faison,Andrea McArdle,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: I Think I'm Gonna Like It Here,0.766,0.711,143000,0.327,1.44e-05,8,0.0542,-13.845,1,0.0778,78.703,4,0.77
+288,1tMI4Ky3S64QPd6sn8g884,"Charles Strouse,Reid Shelton,Sandy Faison,Andrea McArdle,Laurie Beechman,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: N.Y.C,0.719,0.424,291400,0.319,0.0,0,0.215,-13.357,0,0.0705,147.224,4,0.473
+289,4PKSzfZMSXVONKuRZJs8om,"Charles Strouse,Dorothy Loudon,Robert Fitch,Barbara Erwin,Annie (Original Broadway Cast),Peter Howard",Annie: Easy Street,0.779,0.471,202733,0.395,3.34e-06,2,0.0451,-12.365,1,0.0958,112.824,4,0.417
+290,1BcDxvzMGfsiaJq38LQcEU,"Charles Strouse,Sandy Faison,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: You Won't Be an Orphan for Long,0.784,0.633,104933,0.29,0.0,0,0.414,-12.755,1,0.0801,120.435,4,0.643
+291,4JnnwxyYZ6OdYRQSqR9QZR,"Charles Strouse,Donald Craig,Laurie Beechman,Edie Cowan,Penny Worth,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: You're Never Fully Dressed Without a Smile,0.922,0.609,186600,0.309,4.73e-05,8,0.0929,-12.515,1,0.09,138.646,4,0.573
+292,5pUjJaoayOT9LFpjeqaw9O,"Charles Strouse,Andrea McArdle,Raymond Thorne,Reid Shelton,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: Tomorrow (Reprise),0.773,0.516,143000,0.238,0.000254,1,0.0628,-13.837,1,0.0655,100.792,4,0.506
+293,3o0OUBrOaEko0XHvj9rzH3,"Charles Strouse,Reid Shelton,Annie (Original Broadway Cast),Peter Howard",Annie: Something Was Missing,0.935,0.292,222066,0.113,4e-06,0,0.112,-16.861,1,0.0395,149.922,5,0.227
+294,400t0stNsKNbXBJal0ZsyE,"Charles Strouse,Andrea McArdle,Reid Shelton,Sandy Faison,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: I Don't Need Anything But You,0.766,0.509,150066,0.385,8.48e-06,2,0.0844,-12.791,1,0.13,181.277,4,0.952
+295,2pm83dVcExzrxEV7ixfv7W,"Charles Strouse,Sandy Faison,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: Annie,0.779,0.592,95040,0.303,0.000373,1,0.0815,-12.682,1,0.0288,80.059,4,0.696
+296,2BbhEeht8277c7vIeDpSZQ,"Charles Strouse,Andrea McArdle,Reid Shelton,Sandy Faison,Raymond Thorne,Annie Ensemble,Annie (Original Broadway Cast),Peter Howard",Annie: A New Deal for Christmas,0.775,0.541,134760,0.37,0.0,7,0.105,-12.011,1,0.0441,74.118,4,0.69
+297,4R5nfyCt4rX9KrbjqSx12i,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Introductory Remarks (Bonus Track),0.993,0.649,117400,0.18,0.0635,0,0.143,-23.412,1,0.0678,130.524,3,0.961
+298,6qUB6Xikhi9A3gkwHsVfC3,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Apples (Bonus Track),0.993,0.673,119133,0.112,0.000296,5,0.131,-21.124,0,0.106,116.623,4,0.846
+299,3fbzR2UvJ3YMot0EYE8nBy,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Introductory Remarks / We Got Annie (Bonus Track),0.994,0.553,134266,0.0872,0.152,10,0.189,-24.44,1,0.0814,148.286,4,0.752
+300,6ssFTqk58zGNX8gGr0iF0a,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Introductory Remarks (Bonus Track),0.995,0.58,38893,0.0987,0.0871,7,0.109,-26.96,1,0.0717,63.104,3,0.864
+301,5OGAIHku85EaB2mr0unhRU,"Charles Strouse,Annie (Original Broadway Cast)",Just Wait (Bonus Track),0.993,0.544,67000,0.132,0.00391,1,0.114,-24.042,1,0.0552,133.356,4,0.4
+302,7oJFd4oNgM2VedhQWGWMT8,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Introductory Remarks (Bonus Track),0.994,0.458,29706,0.0895,0.861,0,0.112,-25.914,1,0.0978,183.994,4,0.875
+303,0xWZPXgcUF9kLKeMf7MnkB,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",That's the Way It Goes (Bonus Track),0.992,0.594,90400,0.112,0.0691,10,0.112,-22.184,1,0.0631,113.597,4,0.835
+304,3lhoYAwU3Roh2A7KWRUehp,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Introductory Remarks (Bonus Track),0.994,0.607,61160,0.142,0.0664,8,0.174,-25.979,1,0.0961,136.118,4,0.852
+305,2Xx9AaRl0DJsamhMkVAgWE,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Parents (Bonus Track),0.991,0.537,132906,0.12,0.000372,0,0.133,-21.996,0,0.073,77.129,4,0.624
+306,56IRXcu9V24RKwQ2YdEddC,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Introductory Remarks / I've Never Been So Happy (Bonus Track),0.994,0.57,79106,0.0819,0.312,5,0.109,-25.546,1,0.0601,126.24,4,0.553
+307,79HDHFfOxbo7GX5WM2lYVv,"Charles Strouse,MARTIN CHARNIN,Annie (Original Broadway Cast)",Tomorrow (Bonus Track),0.991,0.472,145573,0.135,0.434,10,0.692,-23.893,1,0.122,98.927,4,0.258
+308,6ddYJF2w9sLfmq2Pmqxrqg,Alan Menken,Overture,0.503,0.421,72306,0.316,0.724,10,0.115,-11.926,1,0.0333,123.415,4,0.117
+309,0inNs7YRnhnDKtXSGyB4RT,"Andrew Keenan-Bolger,Jeremy Jordan",Santa Fe (Prologue),0.853,0.448,185226,0.16,0.0,0,0.101,-14.049,1,0.0438,109.763,1,0.388
+310,0odAZMZg7lG5puXviS5Ebh,"Jeremy Jordan,Newsies Original Broadway Cast",Carrying The Banner,0.459,0.485,308413,0.493,0.0,2,0.09,-8.659,1,0.11,151.306,4,0.51
+311,1YxbS6FTWcPElSYZ6gdfR7,"John Dossett,Laurie Veldheer,Mark Aldrich,Newsies Original Broadway Cast,Nick Sullivan",The Bottom Line,0.723,0.585,136453,0.293,0.0,7,0.081,-12.057,1,0.337,137.025,4,0.673
+312,3k9B5ygUQzpYZPh4AU1AqV,Capathia Jenkins,That's Rich,0.526,0.663,152733,0.316,0.0,5,0.198,-10.261,1,0.0981,133.961,4,0.499
+313,42Dsb8F9IUFx9k6scoW27J,"Jeremy Jordan,Julie Foldesi,Laurie Veldheer",I Never Planned On You / Don't Come A-Knocking,0.888,0.475,100520,0.17,0.0,8,0.0491,-13.73,1,0.0446,74.852,4,0.652
+314,3LqpgW0Kkz3fG6VdXjQibD,"Jeremy Jordan,Newsies Original Broadway Cast",The World Will Know,0.397,0.678,248773,0.538,0.0,7,0.0517,-7.69,1,0.0357,93.949,4,0.549
+315,5hxDy35TUVRXRhI6rSp592,Kara Lindsay,Watch What Happens,0.734,0.65,186960,0.226,0.0,9,0.0877,-11.31,1,0.136,171.775,4,0.741
+316,6TAD66xjT5uDiewk9O2dQC,"Ben Fankhauser,Jeremy Jordan,Newsies Original Broadway Cast",Seize The Day,0.566,0.475,322933,0.384,0.0,10,0.0729,-9.527,1,0.05,119.896,4,0.304
+317,3IEsZvgBNVSsQA04HEwRVA,Jeremy Jordan,Santa Fe,0.76,0.454,192146,0.294,0.0,7,0.0846,-11.627,1,0.0477,56.909,4,0.288
+318,3QZn12WsGUEbhAZaa01uGt,"Ben Fankhauser,Kara Lindsay,Lewis Grosso,Newsies Original Broadway Cast",King Of New York,0.363,0.748,249280,0.561,0.0,0,0.159,-8.188,1,0.163,83.946,4,0.685
+319,73wDg7KAIajEsVSA12APvM,"Ben Fankhauser,Jeremy Jordan,Kara Lindsay,Lewis Grosso",Watch What Happens (Reprise),0.669,0.556,113066,0.242,0.0,10,0.211,-10.792,1,0.136,167.807,4,0.682
+320,2QeVq7J158szylxItDQXzY,"John Dossett,John E. Brady,Mark Aldrich",The Bottom Line (Reprise),0.503,0.632,57920,0.329,0.0,7,0.151,-13.52,1,0.299,137.709,4,0.331
+321,4x5c7CGCGW9QXCpXwoEB4r,"Newsies Original Broadway Cast,Tommy Bracco",Brooklyn's Here,0.522,0.641,113480,0.535,0.0,7,0.102,-8.003,1,0.0883,138.711,4,0.644
+322,4kin4clo4ALSnwb33SYsdE,"Jeremy Jordan,Kara Lindsay",Something To Believe In,0.438,0.476,211693,0.301,4.29e-06,7,0.099,-10.522,1,0.0297,131.777,4,0.272
+323,0anSiC1KeOLZOkDT8UMxTX,"Alan Menken,Jack Feldman,Jeremy Jordan,Ben Fankhauser,Kara Lindsay,Ryan Breslin,Newsies Original Broadway Cast",Once And For All,0.354,0.473,241320,0.491,0.0,4,0.0837,-10.391,0,0.104,168.057,4,0.216
+324,7ycmJdl30upWRaaQSdzmOU,"Jeremy Jordan,Newsies Original Broadway Cast",Finale,0.549,0.391,154733,0.361,0.0,0,0.035,-10.468,1,0.0908,148.821,4,0.39
+325,5s5RWM20nO50Ixe2et4uNu,"Barrett Wilbert Weed,Katie Ladner,Alice Lee,Jessica Keenan Wynn,Elle McLemore",Beautiful,0.685,0.564,499106,0.389,0.0,1,0.135,-8.169,1,0.179,94.887,4,0.5
+326,13Soih2NRLeDx8Unbr22mx,"Jessica Keenan Wynn,Alice Lee,Elle McLemore",Candy Store,0.585,0.728,172826,0.525,0.0,1,0.0962,-5.91,0,0.171,141.855,4,0.779
+327,0ChcE4uENOGTEthE5dGaXX,Barrett Wilbert Weed,Fight for Me,0.58,0.337,155493,0.326,0.0,3,0.216,-8.717,1,0.0309,98.552,4,0.117
+328,0QCM97jGFzXZCxsWm3sgQ5,"Ryan McCartan,Barrett Wilbert Weed",Freeze Your Brain,0.688,0.499,173506,0.45,0.0,8,0.0645,-8.201,1,0.0544,134.932,4,0.36
+329,6NqatMVtEM2iB4FcLGFxrN,"Jon Eidson,Evan Todd,Barrett Wilbert Weed,Jessica Keenan Wynn,Alice Lee",Big Fun,0.538,0.864,254666,0.681,0.0,8,0.555,-6.032,1,0.232,118.061,4,0.734
+330,5L5N8YOsBxdzR9h9sudBgG,"Barrett Wilbert Weed,Ryan McCartan",Dead Girl Walking,0.518,0.537,204613,0.664,0.0,3,0.0665,-6.503,1,0.0951,106.198,4,0.563
+331,4KgQ3D90ZBCUkzH1F0CNsX,"Jessica Keenan Wynn,Daniel Cooney,Dan Domenech,AJ Meijer,Michelle Duffy",The Me Inside of Me,0.839,0.529,315946,0.33,0.0,10,0.0916,-9.333,0,0.0588,111.131,4,0.489
+332,612SYVkgQ1cbMSkSPIjb36,"Evan Todd,Jon Eidson,Barrett Wilbert Weed,Alice Lee,Elle McLemore",Blue,0.637,0.757,167853,0.704,0.0,6,0.188,-5.203,0,0.0604,107.974,4,0.763
+333,7yxJmjusZamXwg4mZdnHxa,"Ryan McCartan,Barrett Wilbert Weed,Jon Eidson,Evan Todd",Our Love Is God,0.794,0.423,318360,0.23,0.0,9,0.0872,-14.205,1,0.0859,80.854,4,0.211
+334,5zkR2vfAGuzLeOL7MNKYvk,"Anthony Crivello,Daniel Cooney",My Dead Gay Son,0.677,0.671,222080,0.628,0.0,1,0.321,-6.417,1,0.239,120.815,4,0.744
+335,2p0FjrYZlNhEejQOLXHP2n,"Barrett Wilbert Weed,Ryan McCartan",Seventeen,0.662,0.336,191533,0.217,0.0,9,0.315,-9.4,1,0.0487,77.158,4,0.302
+336,0YmK2XraSa4UQR07q4FQvR,"Michelle Duffy,AJ Meijer,Rachel Flynn,Dustin Sullivan,Charissa Hogeland",Shine a Light,0.467,0.749,151893,0.77,0.0,9,0.0651,-4.959,1,0.106,111.968,4,0.856
+337,4cyGUA2c0C6unSxfbCqMaO,Elle McLemore,Lifeboat,0.747,0.453,99533,0.235,0.000161,7,0.102,-10.099,0,0.0321,82.073,4,0.448
+338,1ddHu7EaziwvG3VN0kSpGd,"Alice Lee,Elle McLemore",Shine a Light (Reprise),0.405,0.778,42173,0.601,0.0,1,0.14,-5.376,0,0.0549,121.813,4,0.966
+339,5KnCJAjo5FsmY4idAKGXDZ,Katie Ladner,Kindergarten Boyfriend,0.884,0.397,228720,0.189,0.0,5,0.182,-11.159,1,0.0692,82.487,4,0.192
+340,2zmuNa0k9apz1QQGk3ClQb,"Jessica Keenan Wynn,Evan Todd,Jon Eidson,Barrett Wilbert Weed,Michelle Duffy",Yo Girl,0.706,0.692,106373,0.426,0.0,1,0.593,-8.706,1,0.155,104.303,3,0.6
+341,6YYeBYEpkiR84eCDNPBDoF,"Ryan McCartan,Barrett Wilbert Weed,Michelle Duffy",Meant to Be Yours,0.514,0.505,205826,0.589,0.0,6,0.058,-6.916,1,0.0852,99.648,4,0.585
+342,0ZwCQw4tzcMGq8wZpx1KjX,"Barrett Wilbert Weed,Michelle Duffy,Daniel Cooney,Ryan McCartan,Elle McLemore",Dead Girl Walking (Reprise),0.403,0.745,166600,0.6,0.0,8,0.0595,-7.285,1,0.18,110.275,4,0.706
+343,1nMI7HkE0NOnuGMLP6MH6r,"Barrett Wilbert Weed,Ryan McCartan",I Am Damaged,0.77,0.56,86520,0.213,0.0,4,0.349,-12.029,1,0.276,81.855,4,0.336
+344,7APBZfwOZRSDmkskR8yrdP,"Barrett Wilbert Weed,Alice Lee,Katie Ladner,Elle McLemore",Seventeen (Reprise),0.728,0.328,164186,0.449,0.0,8,0.0499,-8.09,1,0.071,153.2,4,0.558
+345,0z5QvYyZ7hJ43Aa2bp2N31,"Barrett Wilbert Weed,Grey Henson",A Cautionary Tale,0.00838,0.554,96000,0.738,0.0,2,0.551,-4.21,0,0.0403,105.003,4,0.425
+346,53sz4K5pKUWMINwSgD5peH,"Erika Henningsen,Original Broadway Cast of Mean Girls",It Roars,0.119,0.537,211120,0.753,0.0,10,0.161,-4.952,1,0.0609,107.352,4,0.579
+347,0MeZrItVxB77JoApl5rUrN,"Grey Henson,Barrett Wilbert Weed,Erika Henningsen,Original Broadway Cast of Mean Girls",Where Do You Belong?,0.45,0.456,293186,0.719,0.0,10,0.153,-5.405,1,0.138,143.529,4,0.482
+348,4QNuz0m2QCn2Yw1sCUNIS2,"Grey Henson,Barrett Wilbert Weed,Taylor Louderman,Ashley Park,Kate Rockwell,Erika Henningsen",Meet The Plastics,0.468,0.44,257920,0.584,0.0,11,0.651,-4.511,1,0.0844,159.66,4,0.384
+349,2fB3nWTsj1Aba2oJsAiTck,"Erika Henningsen,Original Broadway Cast of Mean Girls",Stupid With Love,0.394,0.791,177133,0.481,0.0,0,0.0376,-7.26,1,0.0705,121.96,4,0.659
+350,03uQyt8Bdnt2paQgCWZl5v,"Barrett Wilbert Weed,Erika Henningsen",Apex Predator,0.091,0.656,194280,0.804,0.0,0,0.297,-4.35,1,0.0894,111.96,4,0.489
+351,0jiaQJfyTwieg6t30SP9xS,Ashley Park,What's Wrong With Me?,0.864,0.367,124226,0.241,0.0,0,0.125,-10.429,1,0.0349,123.15,3,0.383
+352,5AWmfB2DvoJ5qVRFX4bVmW,"Kyle Selig,Erika Henningsen",Stupid With Love (Reprise),0.513,0.631,85146,0.211,0.0,0,0.186,-9.787,1,0.163,80.321,3,0.672
+353,4A1GfEVOELS3vo4tSa6bts,"Kate Rockwell,Original Broadway Cast of Mean Girls",Sexy,0.0726,0.816,215000,0.633,7.49e-06,8,0.224,-6.378,1,0.11,134.012,4,0.403
+354,1zyrjK69LRZCvEmUtJUbsT,"Taylor Louderman,Kyle Selig,Original Broadway Cast of Mean Girls",Someone Gets Hurt,0.134,0.271,187106,0.687,0.0,11,0.233,-4.368,0,0.0542,149.772,4,0.317
+355,6uUE5S0ZYveiVxl05XIH7G,"Grey Henson,Barrett Wilbert Weed,Erika Henningsen,Original Broadway Cast of Mean Girls",Revenge Party,0.241,0.525,306346,0.702,0.0,8,0.217,-4.747,1,0.365,99.787,3,0.653
+356,15O3cEqfhnudkoMfZcJ7XV,"Erika Henningsen,Ashley Park,Kate Rockwell,Original Broadway Cast of Mean Girls",Fearless,0.0508,0.357,251080,0.699,2.85e-06,7,0.403,-5.173,1,0.0501,147.477,4,0.229
+357,3IpOgKkvF7z0SZ9TaPovTy,"Grey Henson,Kate Rockwell,Original Broadway Cast of Mean Girls",Stop,0.387,0.6,290000,0.502,0.0,5,0.184,-6.231,1,0.179,169.719,4,0.696
+358,2mKwJdkejPRSH5uan5lNjo,"Kerry Butler,Ashley Park",What's Wrong With Me? (Reprise),0.787,0.391,110160,0.224,0.0,0,0.181,-8.37,1,0.0349,129.35,3,0.274
+359,3RUMYJ7hRzZA5Qzf4QlfCz,"Cheech Manohar,Erika Henningsen,Ashley Park,Kate Rockwell,Original Broadway Cast of Mean Girls",Whose House Is This?,0.0389,0.823,156146,0.886,9.45e-06,9,0.826,-4.851,1,0.159,101.007,4,0.59
+360,0A8HsvOQDZwok0iyMflSdW,"Erika Henningsen,Kyle Selig",More Is Better,0.798,0.368,200053,0.384,0.0,0,0.0836,-8.068,1,0.0436,74.031,3,0.351
+361,1piXWeTvZCGO8GAvJHYUPc,"Barrett Wilbert Weed,Grey Henson",Someone Gets Hurt (Reprise),0.161,0.503,49213,0.517,0.0,6,0.0958,-5.497,1,0.0953,145.979,4,0.213
+362,3iISGrl3JKqPQ4GLqPjVkt,"Taylor Louderman,Original Broadway Cast of Mean Girls",World Burn,0.164,0.242,203040,0.731,1.21e-06,8,0.292,-4.828,0,0.0833,180.057,4,0.265
+363,5cesclKWAhsCcZJDBhkWaa,"Barrett Wilbert Weed,Original Broadway Cast of Mean Girls",I'd Rather Be Me,0.0956,0.679,170226,0.803,0.0,4,0.27,-3.326,1,0.125,140.033,4,0.808
+364,42kiFUenq5MVKpmCwjh1Cu,"Erika Henningsen,Kerry Butler,Cheech Manohar,Mathletes,Original Broadway Cast of Mean Girls",Do This Thing,0.1,0.555,213560,0.74,0.0,8,0.167,-4.523,1,0.129,102.479,4,0.618
+365,21bID4wyC6UVdtmVMxRbUW,"Erika Henningsen,Original Broadway Cast of Mean Girls",I See Stars,0.133,0.355,228973,0.755,0.0,9,0.115,-4.165,1,0.0702,146.143,4,0.238
+366,1gKBH5jwZxRAZ7HBb22rO1,Original Broadway Cast of Frozen,Vuelie / Let the Sun Shine On - From Frozen: The Broadway Musical,0.457,0.313,274413,0.347,0.0,3,0.314,-9.198,1,0.0356,88.715,4,0.265
+367,6MOR2DMVGoiIa9bDxr2b0b,"Brooklyn Nelson,Audrey Bennett",A Little Bit of You - From Frozen: The Broadway Musical,0.915,0.513,116320,0.233,0.0,4,0.0997,-9.073,1,0.107,172.205,3,0.53
+368,2AAnUDnUEcGHyAF3u8Hjan,"Mattea Conforti,Ayla Schwartz,Patti Murin,Caissie Levy",Do You Want to Build a Snowman? - From Frozen: The Broadway Musical,0.757,0.398,220840,0.207,4.71e-06,3,0.259,-13.469,1,0.0669,73.738,4,0.234
+369,0Q5yE7tSWIivttXFd9cMxR,"Patti Murin,Caissie Levy,Original Broadway Cast of Frozen",For the First Time in Forever - From Frozen: The Broadway Musical,0.564,0.437,254160,0.365,0.0,6,0.709,-7.477,1,0.0314,99.174,4,0.354
+370,6DS4DJnF7GIdW2R7x20dPG,John Riddle,Hans of the Southern Isles - From Frozen: The Broadway Musical,0.811,0.375,95333,0.097,1.04e-06,7,0.0619,-16.542,1,0.0435,146.964,5,0.378
+371,5yvW6ctZVMEEfIQS4lje2i,Original Broadway Cast of Frozen,Queen Anointed - From Frozen: The Broadway Musical,0.973,0.28,86920,0.31,0.0,9,0.602,-14.53,1,0.0529,124.026,4,0.119
+372,6xmVDUcdzkiTEXAWJXIINR,"Caissie Levy,Original Broadway Cast of Frozen",Dangerous to Dream - From Frozen: The Broadway Musical,0.786,0.313,303893,0.285,0.0,9,0.046,-8.435,1,0.0326,139.104,4,0.222
+373,28d3XyYdrWWPQ9HNAPuteZ,"Patti Murin,John Riddle",Love Is an Open Door - From Frozen: The Broadway Musical,0.132,0.564,190440,0.562,0.0,6,0.0938,-6.59,0,0.0664,103.767,4,0.505
+374,1hFMEuoqhXCvZwdiPtbegd,Jelani Alladin,Reindeer(s) Are Better Than People - From Frozen: The Broadway Musical,0.801,0.437,54720,0.135,0.0,2,0.187,-15.035,1,0.0507,140.77,4,0.337
+375,5jRNnH8oSlUfN6pJUvk6ju,"Patti Murin,Jelani Alladin",What Do You Know About Love? - From Frozen: The Broadway Musical,0.32,0.627,278226,0.53,0.0,10,0.169,-6.398,1,0.0539,113.6,4,0.577
+376,7hEpHAERrOuwb1kz23y1aS,Greg Hildreth,In Summer - From Frozen: The Broadway Musical,0.325,0.459,118120,0.308,0.0,5,0.503,-10.214,1,0.31,83.341,4,0.679
+377,76oM5GLasSF3vUSVrlZQ44,"John Riddle,Robert Creighton,Original Broadway Cast of Frozen",Hans of the Southern Isles (Reprise) - From Frozen: The Broadway Musical,0.545,0.358,136600,0.411,0.0,0,0.335,-8.53,1,0.0778,80.793,1,0.361
+378,68qA74EO9cxzSWJwmOjmQR,Caissie Levy,Let It Go - From Frozen: The Broadway Musical,0.32,0.584,226866,0.431,0.0,7,0.137,-5.358,1,0.0315,137.032,4,0.123
+379,6OQPRssA9NnxypcQbYoWv4,"Kevin Del Aguila,Jelani Alladin,Patti Murin,Greg Hildreth,Original Broadway Cast of Frozen",Hygge - From Frozen: The Broadway Musical,0.555,0.582,370626,0.472,0.0,9,0.164,-7.039,1,0.415,139.153,3,0.561
+380,7p5wRYLG1jNnObaN8QwSXy,"Caissie Levy,Patti Murin",For the First Time in Forever (Reprise) - From Frozen: The Broadway Musical,0.741,0.39,173200,0.318,0.0,9,0.0761,-9.553,1,0.0489,98.779,3,0.146
+381,5vJnrb0MsJywR3LfSQQlhd,"Olivia Phillip,Timothy Hughes,Greg Hildreth,Original Broadway Cast of Frozen",Fixer Upper - From Frozen: The Broadway Musical,0.148,0.483,222293,0.672,0.0,8,0.542,-5.279,1,0.14,102.215,4,0.536
+382,63s0bzZKeVPQkUgWO6la66,Jelani Alladin,Kristoff Lullaby - From Frozen: The Broadway Musical,0.764,0.388,103213,0.192,0.0,7,0.132,-17.278,1,0.0348,105.101,3,0.356
+383,05om7Ac9m7wKq1rHn4sHQh,"Caissie Levy,John Riddle,Original Broadway Cast of Frozen",Monster - From Frozen: The Broadway Musical,0.214,0.41,222653,0.457,0.0,0,0.108,-5.622,1,0.0381,91.927,4,0.147
+384,5LBKT2mbkMbsVOWmurRqYy,Patti Murin,True Love - From Frozen: The Broadway Musical,0.821,0.325,174533,0.253,0.0,10,0.111,-10.255,1,0.0404,172.951,1,0.169
+385,0nTApgZlgDcAE2kXpCnOZJ,"Patti Murin,Jelani Alladin,Caissie Levy,John Riddle,Original Broadway Cast of Frozen",Colder by the Minute - From Frozen: The Broadway Musical,0.251,0.29,241320,0.446,0.0,8,0.356,-7.869,1,0.0529,76.133,4,0.213
+386,70WTDlNd2j6AxbINMgwThJ,Original Broadway Cast of Frozen,Finale / Let It Go - From Frozen: The Broadway Musical,0.38,0.199,151520,0.26,0.0,7,0.0456,-8.411,1,0.0312,67.692,4,0.0677
+387,6KB2dM5MHzzBLXuK9PXQiN,"Greg Hildreth,Jelani Alladin,Patti Murin",When Everything Falls Apart - From Frozen: The Broadway Musical / Outtake,0.416,0.549,238573,0.419,0.0,6,0.0689,-7.289,0,0.155,147.768,4,0.58
+388,37O6Vz2nkM3PXdgAnqEGpT,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Overture,0.856,0.527,54533,0.417,0.806,9,0.116,-8.653,0,0.0351,73.919,4,0.293
+389,77cPwtYuN1MFrsKc3Rqdsv,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",An Operatic Tragedy,0.868,0.521,117746,0.425,0.0,7,0.603,-8.06,1,0.378,78.824,4,0.567
+390,11c4Cl5M83zk6K9tJn8XrQ,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Better,0.926,0.454,105453,0.356,0.00724,4,0.126,-8.298,1,0.0803,159.357,3,0.7
+391,6doqaM8mbcYW7LDfySuAL1,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Our Finest Dreams,0.818,0.542,218346,0.398,4.91e-06,1,0.368,-8.008,1,0.133,148.657,4,0.673
+392,1j3LfGESOZGbYW1WGqKPe8,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Here Alone,0.929,0.212,217533,0.202,0.000751,1,0.0998,-11.54,1,0.0371,143.149,5,0.114
+393,2DT98rqHC9JY5Mqzpn6neH,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Could You?,0.908,0.626,197733,0.286,0.0,8,0.112,-8.957,1,0.069,112.014,4,0.502
+394,2Mit24p2Rr6Mr1ZnWZx15L,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",I'd Be Delighted,0.744,0.613,116040,0.375,0.0,8,0.645,-8.488,0,0.0823,141.007,4,0.672
+395,5Nfuak7mLcUoAc4ZpEl7qC,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Take a Chance on Me,0.912,0.463,178573,0.516,8.79e-06,1,0.0839,-7.46,0,0.123,75.992,3,0.685
+396,42ivGxieTiGggQ4M4Vh9ts,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Off to Massachusetts,0.867,0.729,100013,0.281,3.37e-06,9,0.0801,-10.32,1,0.109,135.564,4,0.689
+397,4KkMLc89yblfvkX5VF4hdP,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Five Forever,0.824,0.671,158506,0.462,0.000741,4,0.0924,-8.053,1,0.105,131.157,4,0.742
+398,3N3YUudj9m4pQLbMeqIraP,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",More Than I Am,0.934,0.24,166986,0.302,3.84e-06,4,0.106,-9.222,1,0.0365,171.598,3,0.0725
+399,6tRtygw4gCDSlAEQ6aqpOH,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Astonishing,0.902,0.345,275360,0.325,0.00214,1,0.0721,-7.955,1,0.0354,90.03,4,0.168
+400,0bUPVYEDRzM3ykRmarQicK,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",The Weekly Volcano Press,0.871,0.461,467346,0.351,8.29e-06,2,0.343,-9.196,1,0.0975,87.132,4,0.369
+401,3cG1HLC7TJCIJVK8IGmVUh,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",How I Am,0.906,0.52,192946,0.324,5.56e-05,2,0.0596,-10.238,1,0.055,77.565,3,0.443
+402,3EmPWj7sWhYW1vOtYSuhHy,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Some Things Are Meant to Be,0.959,0.311,265466,0.215,0.00019,7,0.116,-10.596,1,0.0328,83.685,3,0.226
+403,6BJSTUbgZgEPmhlqH7n52K,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",The Most Amazing Thing,0.873,0.464,120546,0.346,1.54e-06,7,0.241,-9.689,0,0.063,165.48,4,0.646
+404,6ZfIroqBSvjtu5UfqgXvvs,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Days of Plenty,0.927,0.308,206146,0.255,2.58e-05,8,0.104,-9.117,1,0.0392,94.591,4,0.127
+405,0DO0Ef5892AqMaUdfgwHjh,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",The Fire Within Me,0.896,0.24,316160,0.237,0.00929,0,0.0895,-9.523,1,0.0449,77.555,3,0.0793
+406,6TOrJLOlplurmh4XffFRXu,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Small Umbrella in the Rain,0.932,0.439,262133,0.234,0.0,7,0.34,-12.129,1,0.0555,77.204,3,0.308
+407,2dCmFaUiqWXJid6qhsDW5I,"Mindi Dickstein,Jason Howland,'Little Women' Original Broadway Cast",Sometimes When You Dream - Reprise,0.958,0.357,57626,0.112,0.000129,2,0.119,-10.342,1,0.0439,81.285,3,0.174
+408,6VrhabfuvqLfczgax6V5Y5,2015 Broadway Cast,Opening / Mysterious Ways,0.574,0.484,341133,0.523,3.48e-06,0,0.0564,-6.478,1,0.145,146.423,4,0.262
+409,6MZIJDYgLSR5ipfQkFFbrr,Cynthia Erivo,Somebody Gonna Love You,0.923,0.426,77139,0.0036,3.89e-06,0,0.114,-27.136,1,0.0493,84.054,4,0.349
+410,4nofxlYbR9cTH7wu4FUPmP,"Cynthia Erivo,Joaquina Kalukango,Isaiah Johnson,Kevyn Morrow,2015 Broadway Cast",Our Prayer (feat. 2015 Broadway Cast),0.678,0.551,278386,0.283,0.0,7,0.508,-12.282,1,0.308,96.647,4,0.355
+411,0103hiX2xsujlEu8VDtmaq,"Rema Webb,Bre Jackson,Carrie Compere",That Fine Mister,0.6,0.85,42997,0.356,0.0,9,0.061,-11.777,0,0.253,132.59,4,0.895
+412,0mjDK9sAtu5Ps2kvwn268t,"Isaiah Johnson,Cynthia Erivo,2015 Broadway Cast",Big Dog (feat. 2015 Broadway Cast),0.339,0.811,162533,0.444,0.0,10,0.0593,-8.796,0,0.164,90.111,3,0.746
+413,3gCSafsIgc3knuNHQztnq5,"Isaiah Johnson,Cynthia Erivo,Joaquina Kalukango",Mister / Nettie & Lily of the Field,0.602,0.631,255216,0.0866,5.46e-06,2,0.259,-13.757,0,0.14,119.958,5,0.09
+414,6XjjEeFTdY0jo4aXWijE8e,Cynthia Erivo,Dear God - Sofia,0.843,0.724,44591,0.235,0.0,8,0.115,-15.565,1,0.107,127.35,4,0.35
+415,7vcdtV3YXnA7rZ6b0FlSFm,"Rema Webb,Bre Jackson,Carrie Compere",A Tree Named Sofia,0.428,0.725,29178,0.416,0.0,9,0.121,-9.451,0,0.748,127.012,4,0.668
+416,2pWcfiH8s9cgHEURZTvK3F,"Danielle Brooks,2015 Broadway Cast",Hell No!,0.664,0.461,260075,0.374,0.0,4,0.1,-7.752,0,0.236,75.04,4,0.349
+417,0QBWKbL9eIwqLttRtR92Il,"Kyle Scatliffe,2015 Broadway Cast,Patrice Covington",Brown Betty (feat. Patrice Covington),0.63,0.824,161776,0.41,0.0,5,0.454,-11.083,1,0.43,84.989,4,0.736
+418,37rfRqu80N9eNEKsKjRVcq,2015 Broadway Cast,Shug Avery Comin' to Town,0.455,0.887,165433,0.392,0.0,7,0.0963,-8.001,1,0.161,117.927,4,0.501
+419,7jIS0T2md7fHGixcrREXy8,"Isaiah Johnson,Cynthia Erivo,Rema Webb,Bre Jackson,Carrie Compere",All We Got to Say,0.848,0.64,56607,0.221,3.11e-06,9,0.112,-13.371,0,0.153,69.4,5,0.332
+420,5DPOFK449BxJbmLHwi2Kgp,"Cynthia Erivo,Jennifer Hudson",Dear God - Shug (feat. Jennifer Hudson),0.658,0.668,78236,0.136,0.0,7,0.11,-13.32,0,0.0396,110.848,4,0.273
+421,42TNrKJI56b1VmapjOmn46,Jennifer Hudson,Too Beautiful for Words,0.811,0.448,117707,0.0684,1.83e-06,2,0.114,-14.041,1,0.069,95.937,4,0.214
+422,5mLvceJaabzmln6DyeQ4f2,"Jennifer Hudson,2015 Broadway Cast",Push da Button (feat. 2015 Broadway Cast),0.231,0.629,253309,0.627,2.08e-06,8,0.198,-6.004,1,0.187,109.765,4,0.539
+423,2x9FVtVZPYFmm8Pgm2EfO7,"Danielle Brooks,2015 Broadway Cast",Uh-Oh (feat. 2015 Broadway Cast),0.592,0.627,202840,0.361,0.0,7,0.0533,-9.434,0,0.484,137.499,4,0.312
+424,0HM0aQHIIJ2LXDSlvwDh7c,"Cynthia Erivo,Jennifer Hudson",What About Love?,0.806,0.346,237453,0.231,6.61e-05,7,0.118,-10.319,1,0.0308,146.561,4,0.0756
+425,6RRAY68NBlzQM1i2gM5gQ8,"Cynthia Erivo,Joaquina Kalukango,2015 Broadway Cast",African Homeland,0.706,0.566,485146,0.259,1.53e-06,9,0.137,-11.802,1,0.0561,86.928,3,0.0975
+426,16TqKCbqthV9Xt1TvZTDAD,"Jennifer Hudson,Cynthia Erivo",The Color Purple (feat. Cynthia Erivo),0.934,0.484,131578,0.093,4.33e-06,0,0.16,-13.074,1,0.0609,87.612,3,0.134
+427,1HBn8sgpX1BWfWITu4UgBg,2015 Broadway Cast,Celie's Curse,0.774,0.561,278987,0.301,0.0,5,0.116,-11.306,0,0.136,132.369,4,0.208
+428,33be8nqKmVWLDAxrsJvh2K,"Cynthia Erivo,Jennifer Hudson,Danielle Brooks,2015 Broadway Cast",Miss Celie's Pants (feat. 2015 Broadway Cast),0.552,0.494,161619,0.428,0.0,1,0.267,-8.78,0,0.36,187.854,4,0.34
+429,24sBtHjxPFY9C4dzjf09x3,"Danielle Brooks,Kyle Scatliffe",Any Little Thing,0.716,0.728,152450,0.352,0.0,9,0.0881,-9.87,1,0.212,114.383,4,0.671
+430,3g9IEKJjeG1Plhb6CAb5q8,"Cynthia Erivo,Jennifer Hudson",What About Love? (Reprise),0.78,0.58,58383,0.338,0.0,9,0.0811,-11.576,0,0.209,68.964,4,0.327
+431,30q6kWgifW3DwuVydQQX3g,Cynthia Erivo,I'm Here,0.713,0.423,271986,0.143,5.12e-06,7,0.095,-9.225,1,0.038,75.39,3,0.155
+432,5cX6YB3rcmAbvGFgphFihU,2015 Broadway Orchestra,Reunion,0.98,0.4,42240,0.0275,0.875,5,0.112,-24.407,1,0.0537,123.192,4,0.265
+433,2fm1WmhVyT8ZUiMyDFa4mI,"Cynthia Erivo,2015 Broadway Cast",The Color Purple (Reprise),0.806,0.412,234788,0.221,0.0,1,0.0895,-9.876,1,0.0419,124.141,4,0.259
+434,6AYIRSW7X4we72aMolVtaE,"Michael James Scott,'Something Rotten' Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",Welcome to the Renaissance,0.491,0.539,285773,0.594,0.0,0,0.0891,-7.218,1,0.359,131.439,4,0.578
+435,4wCot8w7pamCw8PQOvOgda,"Brian D'Arcy James,John Cariani,'Something Rotten' Male Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick","God, I Hate Shakespeare",0.649,0.639,164066,0.655,0.0,1,0.151,-7.143,0,0.386,153.592,4,0.698
+436,2dx8PRHg15eX3jvgksAhmb,"Heidi Blickenstaff,Brian D'Arcy James,John Cariani,Wayne Kirkpatrick,Karey Kirkpatrick",Right Hand Man,0.837,0.64,163720,0.434,0.0,1,0.0799,-7.953,1,0.0909,146.954,4,0.834
+437,3vsjrdKa9yVLvL3A6rmxgA,"Brian D'Arcy James,Wayne Kirkpatrick,Karey Kirkpatrick","God, I Hate Shakespeare - Reprise",0.678,0.34,90346,0.245,0.0,5,0.119,-13.613,1,0.0526,170.833,1,0.201
+438,6qkPk5xE1H94fFYfgRcDBt,"Brad Oscar,Brian D'Arcy James,'Something Rotten' Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",A Musical,0.531,0.585,467906,0.534,0.0,10,0.102,-8.092,1,0.422,129.275,4,0.518
+439,3oCkNBx50nqgWcyHaNHZCS,"'Something Rotten' Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",The Black Death,0.525,0.725,75693,0.757,0.0,4,0.105,-8.963,1,0.341,140.385,4,0.674
+440,2SvBLZY02GztnoG0nklFzM,"Kate Reinders,John Cariani,Wayne Kirkpatrick,Karey Kirkpatrick",I Love the Way,0.821,0.36,169293,0.318,0.0,7,0.11,-8.47,1,0.0349,63.371,3,0.304
+441,6RHpM6Lqb2vTXqF1jxTKJa,"Christian Borle,'Something Rotten' Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",Will Power,0.524,0.434,299533,0.81,0.0,1,0.0636,-6.731,1,0.256,133.019,4,0.518
+442,22S2hCrmSajFuex8aknXTl,"Brian D'Arcy James,'Something Rotten' Company,Kurt Deutsch,Kevin McCollum,Wayne Kirkpatrick,Karey Kirkpatrick",Bottom's Gonna Be on Top,0.624,0.567,330346,0.558,0.0,0,0.0537,-8.629,1,0.849,193.658,4,0.609
+443,6QbY02s8ITM9tP0MJv5bxY,"Michael James Scott,Wayne Kirkpatrick,Karey Kirkpatrick",Welcome to the Renaissance - Reprise,0.444,0.727,42386,0.506,0.0,0,0.307,-7.628,1,0.238,129.147,4,0.969
+444,7MV1c2eclBShziAJRf3Q0Q,"Christian Borle,'Something Rotten' Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",Hard to Be the Bard,0.464,0.763,238746,0.714,0.0,0,0.293,-6.513,1,0.334,110.195,4,0.697
+445,4KLxaf2bMiYoOCUftYmDyl,"Brian D'Arcy James,'Something Rotten' Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",It's Eggs!,0.609,0.789,39960,0.709,0.0,2,0.0635,-8.525,1,0.236,140.68,4,0.391
+446,3kBpDE6Th72cmKt7ZB5IqE,"Kate Reinders,John Cariani,Brooks Ashmanskas,Brian D'Arcy James,'Something Rotten' Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",We See the Light,0.678,0.687,245960,0.7,0.0,5,0.0673,-6.656,1,0.213,107.807,4,0.626
+447,0WIxVmvQzey9CvO3le2btz,"John Cariani,Brian D'Arcy James,Christian Borle,'Something Rotten' Male Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",To Thine Own Self,0.611,0.634,238306,0.581,0.0,7,0.349,-7.803,0,0.479,128.984,4,0.78
+448,3iJgK13NMLiCFeyZMzCUZ0,"Heidi Blickenstaff,John Cariani,Wayne Kirkpatrick,Karey Kirkpatrick",Right Hand Man - Reprise,0.924,0.437,81933,0.153,0.0,1,0.119,-14.027,1,0.0439,68.042,4,0.207
+449,2vW4bO8Z4FfRKhibNPL3i1,"Brian D'Arcy James,Brad Oscar,'Something Rotten' Ensemble,Wayne Kirkpatrick,Karey Kirkpatrick",Something Rotten! / Make an Omelette,0.57,0.511,354493,0.686,0.0,2,0.147,-7.184,1,0.599,193.855,4,0.586
+450,1oRfkIfgLIEzwcktalp4Lm,"Brian D'Arcy James,John Cariani,Wayne Kirkpatrick,Karey Kirkpatrick",To Thine Own Self - Reprise,0.907,0.309,110760,0.219,0.0,4,0.117,-13.558,0,0.0314,135.462,5,0.221
+451,4fOUFf83xePBruAIIAYAEY,"'Something Rotten' Company,Wayne Kirkpatrick,Karey Kirkpatrick",Finale,0.601,0.584,151786,0.705,0.0,0,0.127,-6.167,1,0.359,128.872,4,0.531
+452,2HTN5gQze0JSnPMo7j5wJs,"The Wonderland Orchestra,Jason Howland",Overture,0.845,0.32,125466,0.192,0.637,11,0.147,-16.479,0,0.0341,81.831,4,0.383
+453,1hAudYNZf2PUypQbKVVUk6,CRS,Home,0.838,0.251,105773,0.0958,0.0,0,0.16,-17.219,1,0.0327,86.537,4,0.199
+454,7BcJKowod1gIvtBaQXiVxt,"Janet Dacal,Wonderland Ensemble",Down the Rabbit Hole,0.312,0.416,68320,0.694,0.000361,7,0.105,-8.717,1,0.0671,88.61,4,0.584
+455,6W0nIgdTzvKpxeixheD7oM,"Janet Dacal,Karen Mason,Edward Staudenmayer,Danny Stiles,Kate Shindle,Wonderland Ensemble",Welcome to Wonderland,0.512,0.752,207160,0.642,0.0,4,0.55,-8.877,0,0.104,137.353,4,0.614
+456,0nC5F1YfvZb9leKy5E9do6,"Natalie Hill,Morgan James,Kate Loprest",Drink Me,0.945,0.323,48160,0.0722,7.15e-06,10,0.322,-17.634,1,0.0468,53.91,4,0.537
+457,5psOoK4QJ3aOdd8475An0I,"E. Clayton Cornelious,Janet Dacal,Wonderland Ensemble",Advice from a Caterpillar,0.46,0.606,262480,0.27,0.0,2,0.114,-13.939,0,0.0475,79.968,4,0.218
+458,7mm8tK3bZLHRiOMpJK3AvE,"Jose Llana,Janet Dacal,Wonderland Ensemble",Go with the Flow,0.419,0.649,224066,0.755,0.0,9,0.195,-8.544,0,0.0544,123.914,4,0.789
+459,42T8pl66rVfMGU3Le3muEC,"Darren Ritchie,Wonderland Ensemble",One Knight,0.597,0.396,240693,0.301,0.0,6,0.0705,-12.972,1,0.0295,105.515,4,0.389
+460,3yEPRuR5Ut7pLIxlsgCUIG,Wonderland Ensemble,Mad Tea Party,0.0962,0.599,79773,0.578,0.0,0,0.298,-13.085,0,0.0401,158.307,4,0.841
+461,7zxEfC00zelfRA4IPr4ZUs,"Kate Shindle,Wonderland Ensemble",The Mad Hatter,0.387,0.522,182280,0.503,0.0,4,0.237,-10.23,0,0.134,98.385,4,0.386
+462,2tZPJPAGSRGil20Y9xznGb,"Karen Mason,Wonderland Ensemble",Hail the Queen,0.711,0.588,118280,0.451,0.0,0,0.106,-12.066,1,0.164,146.063,4,0.731
+463,6L07hFT2znB4qaDTfawZJj,Janet Dacal,Home (Reprise),0.828,0.245,129520,0.0965,0.0,7,0.105,-17.54,1,0.0351,94.762,3,0.157
+464,1ndbQcUMJs1RjE4rTGE689,"Kate Shindle,Danny Stiles",A Nice Little Walk,0.446,0.55,146360,0.196,0.0,8,0.239,-11.957,1,0.0426,128.412,4,0.311
+465,7acDTXHXAjtqCKbh4pqsc2,"Janet Dacal,Darren Ritchie,Jose Llana,E. Clayton Cornelious,Edward Staudenmayer,Wonderland Ensemble",Through the Looking Glass,0.257,0.371,162960,0.651,0.0,8,0.169,-9.744,1,0.0481,100.45,4,0.528
+466,6ZJB5REl5CvkUDdfSfRvQh,"Kate Shindle,Wonderland Ensemble",I Will Prevail,0.145,0.322,219866,0.576,0.0,6,0.0469,-10.505,0,0.0634,163.214,4,0.355
+467,0Sf7S1IB0N4vWDi54W98g7,"Darren Ritchie,Janet Dacal",I Am My Own Invention,0.634,0.231,171546,0.2,0.0,10,0.0992,-16.887,1,0.0344,89.295,4,0.208
+468,6jXi7mGPHYLeFUfTqaTmG0,"Karen Mason,Wonderland Ensemble",Off with Their Heads,0.643,0.547,180720,0.292,0.0,6,0.443,-13.65,1,0.11,115.501,4,0.668
+469,1wFRCYSwK7NKlrWE0O8oyp,Janet Dacal,Once More I Can See,0.832,0.34,162960,0.154,0.0,8,0.146,-17.171,1,0.0372,131.794,4,0.186
+470,6kYzLIo8xWFsgdh9nPnh5h,"Darren Ritchie,E. Clayton Cornelious,Jose Llana,Edward Staudenmayer,Janet Dacal",Together,0.22,0.604,232013,0.654,0.0,3,0.095,-10.993,0,0.0596,108.042,4,0.52
+471,1GZW7BdBmrWIbF4bqyOFJo,"Edward Staudenmayer,Jose Llana,E. Clayton Cornelious,Janet Dacal,Wonderland Ensemble",Heroes,0.577,0.275,208186,0.0773,0.0,2,0.387,-19.897,1,0.0339,104.759,4,0.172
+472,17vum1AogB3M25kMA3G4BZ,"Janet Dacal,Wonderland Ensemble",Finding Wonderland,0.719,0.255,215066,0.207,0.0,9,0.105,-12.555,1,0.0325,73.493,4,0.192
+473,5S6O5UYDS2dxVTY7JSF9xy,"André De Shields,Hadestown Original Broadway Company,Anaïs Mitchell",Road to Hell,0.676,0.507,317879,0.651,1.55e-05,8,0.0642,-4.937,1,0.194,98.995,4,0.7
+474,0HZq47ubBTbuUUPGSueUOh,"Eva Noblezada,Jewelle Blackman,Yvette Gonzalez-Nacer,Kay Trinidad,Anaïs Mitchell,Hadestown Original Broadway Company",Any Way the Wind Blows,0.888,0.437,225805,0.274,0.0,5,0.178,-9.041,1,0.0622,89.045,3,0.274
+475,15r85VRFlKo2w8a5ymikr7,"Reeve Carney,Eva Noblezada,André De Shields,Afra Hines,Timothy Hughes,Kimberly Marable,John Krause,Hadestown Original Broadway Company,Anaïs Mitchell,Ahmad Simmons",Come Home with Me,0.811,0.499,107649,0.314,0.0,9,0.103,-10.737,1,0.139,183.961,4,0.392
+476,1yy0XglPOI5E8NKbtGH3OO,"Reeve Carney,Eva Noblezada,Afra Hines,Timothy Hughes,John Krause,Kimberly Marable,Ahmad Simmons,Hadestown Original Broadway Company,Anaïs Mitchell",Wedding Song,0.427,0.603,213198,0.57,0.000674,7,0.106,-6.242,1,0.035,92.315,4,0.192
+477,0XmLRP1GkjjRrdIx0G75Dj,"Reeve Carney,André De Shields,Anaïs Mitchell,Hadestown Original Broadway Company",Epic I,0.926,0.617,192891,0.18,0.0,5,0.1,-11.518,1,0.193,127.117,3,0.405
+478,2IZiwBnwtrc0Fd8VIwAPeG,"Amber Gray,André De Shields,Reeve Carney,Hadestown Original Broadway Company,Anaïs Mitchell",Livin' it Up on Top,0.477,0.536,329696,0.662,5.19e-05,0,0.0504,-5.574,1,0.226,105.491,4,0.504
+479,0irU6Rwf7WBfLIZ8i1DGur,"André De Shields,Hadestown Original Broadway Company,Anaïs Mitchell",All I've Ever Known (In spite of herself...) [Intro],0.921,0.754,40925,0.106,0.00101,10,0.111,-19.676,0,0.0443,119.784,4,0.59
+480,0DBF9dFpekB4AMCYiR2SSY,"Eva Noblezada,Reeve Carney,Anaïs Mitchell,Hadestown Original Broadway Company",All I've Ever Known,0.887,0.647,243331,0.276,5.55e-05,1,0.118,-10.793,1,0.0324,119.897,4,0.212
+481,5fnl0Tyeh4r5gPANdaVu61,"Hadestown Original Broadway Company,Anaïs Mitchell",Way Down Hadestown,0.657,0.655,300246,0.622,1.86e-05,10,0.0637,-5.413,0,0.187,93.088,4,0.547
+482,4UjHCwSYfl0uWOyPktTv4u,"André De Shields,Reeve Carney,Eva Noblezada,Jewelle Blackman,Yvette Gonzalez-Nacer,Hadestown Original Broadway Company,Kay Trinidad,Anaïs Mitchell",A Gathering Storm,0.845,0.326,93201,0.299,1.16e-05,2,0.0797,-10.527,0,0.0343,110.146,3,0.174
+483,0CqUTgTtbPMntR7LE8xdoa,"Reeve Carney,Hadestown Original Broadway Company,Anaïs Mitchell",Epic II,0.812,0.499,146366,0.416,3.26e-06,5,0.601,-6.829,1,0.0558,134.686,3,0.355
+484,78Ii0NNdsL7wSQbYE50kAk,"Hadestown Original Broadway Company,Anaïs Mitchell",Chant,0.728,0.566,391011,0.561,0.0,8,0.134,-6.662,0,0.0527,93.992,4,0.501
+485,3sinFkDuVOd2oJ8XKCyKuf,"Patrick Page,Eva Noblezada,Anaïs Mitchell,Hadestown Original Broadway Company","Hey, Little Songbird",0.38,0.481,212617,0.286,0.000152,0,0.234,-12.853,0,0.0664,127.299,3,0.247
+486,2L9kJVudxeW91NpF9pVAbG,"André De Shields,Hadestown Original Broadway Company,Anaïs Mitchell",When the Chips are Down (Songbird vs. rattlesnake...) [Intro],0.904,0.64,20264,0.406,0.0,10,0.0967,-14.417,0,0.653,95.473,4,0.473
+487,3csi3SryPTup0NhtRKidsm,"Jewelle Blackman,Yvette Gonzalez-Nacer,Kay Trinidad,Eva Noblezada,Anaïs Mitchell,Hadestown Original Broadway Company",When the Chips are Down,0.596,0.801,134250,0.762,0.00036,5,0.0505,-6.136,0,0.0644,96.053,4,0.809
+488,65axyQvg2r4AjZHzV5xfhC,"Eva Noblezada,Jewelle Blackman,Yvette Gonzalez-Nacer,Kay Trinidad,Anaïs Mitchell,Hadestown Original Broadway Company","Gone, I'm Gone",0.827,0.43,101170,0.184,0.0,0,0.303,-10.264,1,0.0459,139.109,3,0.287
+489,6FNYKnVrG1u0IaMvVcUcMU,"André De Shields,Reeve Carney,Anaïs Mitchell,Hadestown Original Broadway Company","Wait for Me (Hey, the big artiste...) [Intro]",0.619,0.693,91425,0.336,0.0,9,0.489,-12.299,0,0.109,89.089,4,0.178
+490,1dARoUpgYHvx33Qp8dawsZ,"André De Shields,Reeve Carney,Jewelle Blackman,Yvette Gonzalez-Nacer,Kay Trinidad,Kimberly Marable,Timothy Hughes,Hadestown Original Broadway Company,Malcolm Armwood,Jessie Shelton,Khaila Wilcoxon,Ahmad Simmons,Afra Hines,Anaïs Mitchell,T. Oliver Reid,John Krause",Wait for Me,0.443,0.568,214961,0.487,0.000588,2,0.107,-6.722,1,0.0468,89.028,4,0.117
+491,68oU2YXg4kwPpertTUFrC6,"Patrick Page,Hadestown Original Broadway Company,Anaïs Mitchell",Why We Build the Wall,0.586,0.563,240193,0.457,0.000229,5,0.201,-7.19,1,0.0353,80.318,4,0.323
+492,7A4IlN2Itx3gBOl6q2yW7q,"André De Shields,Hadestown Original Broadway Company,Anaïs Mitchell",Why We Build the Wall (Behind closed doors...) [Outro],0.817,0.407,57212,0.288,5.53e-06,2,0.0677,-11.714,0,0.046,85.255,3,0.356
+493,1OQ6Jk2d4bv622LStoYapx,"Amber Gray,Anaïs Mitchell,Hadestown Original Broadway Company",Our Lady of the Underground,0.392,0.532,324030,0.582,0.000164,11,0.0831,-6.738,0,0.153,131.021,4,0.402
+494,1FomWvYH5RqagHVHYj9OfC,"André De Shields,Jewelle Blackman,Yvette Gonzalez-Nacer,Kay Trinidad,Eva Noblezada,Kimberly Marable,Timothy Hughes,Hadestown Original Broadway Company,Malcolm Armwood,Jessie Shelton,John Krause,Ahmad Simmons,Afra Hines,Khaila Wilcoxon,T. Oliver Reid,Anaïs Mitchell",Way Down Hadestown (Reprise),0.85,0.565,230324,0.456,0.0,0,0.132,-7.272,0,0.179,120.433,3,0.346
+495,48PFfbnf0ZRcGCxO4zApPp,"Eva Noblezada,Anaïs Mitchell,Hadestown Original Broadway Company",Flowers,0.829,0.49,211038,0.138,0.000237,4,0.12,-13.18,1,0.0344,85.921,4,0.15
+496,7pa1vDDj9rhlw2ABngvF6D,"Reeve Carney,Eva Noblezada,Anaïs Mitchell,Hadestown Original Broadway Company",Come Home with Me (Reprise),0.878,0.586,61038,0.197,3.33e-05,0,0.15,-10.742,1,0.0452,129.112,4,0.407
+497,1oVH404oz30kMDH3HgUooq,"Patrick Page,Amber Gray,André De Shields,Eva Noblezada,Reeve Carney,Hadestown Original Broadway Company,Anaïs Mitchell","Papers (You're not from around here, son...) [Intro]",0.311,0.583,113817,0.604,1.32e-06,11,0.0293,-8.25,0,0.523,171.516,3,0.443
+498,14OjlLWKs63z4UI7OapYm8,"Hadestown Original Broadway Band,Hadestown Original Broadway Company,Anaïs Mitchell",Papers - Instrumental,0.0258,0.42,73105,0.736,0.638,0,0.494,-7.701,0,0.0405,87.262,3,0.721
+499,4MITx2mU5AihHNUVDPKEpE,"Jewelle Blackman,Yvette Gonzalez-Nacer,Kay Trinidad,Anaïs Mitchell,Hadestown Original Broadway Company",Nothing Changes,0.952,0.558,71774,0.129,0.0,5,0.204,-11.498,0,0.224,127.469,3,0.193
+500,2IApCw6CLK9S59VeCfzs6Y,"Reeve Carney,André De Shields,Afra Hines,Timothy Hughes,John Krause,Kimberly Marable,Hadestown Original Broadway Company,Anaïs Mitchell,Ahmad Simmons",If it's True,0.614,0.589,253382,0.569,0.0,10,0.0896,-6.9,0,0.0462,115.518,4,0.247
+501,3nOSvfxdOeIAaUYO0KMYox,"Amber Gray,Patrick Page,Hadestown Original Broadway Company,Anaïs Mitchell",How Long?,0.754,0.391,221159,0.374,0.000209,2,0.157,-11.914,0,0.0763,94.887,4,0.28
+502,4OxpwmdDfxSv2pVrCI4Rt8,"Hadestown Original Broadway Company,Anaïs Mitchell",Chant (Reprise),0.746,0.666,241118,0.601,0.0,9,0.141,-6.822,1,0.137,93.76,4,0.515
+503,0EWMHYcf5t9Gk7MWhgReEr,"Reeve Carney,Hadestown Original Broadway Company,Anaïs Mitchell",Epic III,0.829,0.356,351439,0.231,0.0,5,0.134,-9.967,1,0.0707,174.807,4,0.244
+504,2hqT2TJCKmvexNRZngk3SD,"Hadestown Original Broadway Band,Anaïs Mitchell",Epic III (They danced...) - Instrumental,0.71,0.354,99564,0.329,0.103,5,0.117,-10.449,1,0.0317,94.346,4,0.254
+505,2bwpVCOZAlZRYMWAOISXkv,"Eva Noblezada,Reeve Carney,Anaïs Mitchell,Hadestown Original Broadway Company",Promises,0.751,0.618,163969,0.297,1.82e-05,9,0.098,-9.377,1,0.0381,123.776,4,0.245
+506,4P0KFyujfbjBmU4eb2Ev51,"Jewelle Blackman,Yvette Gonzalez-Nacer,Kay Trinidad,Anaïs Mitchell,Hadestown Original Broadway Company",Word to the Wise,0.93,0.593,80278,0.346,0.0,0,0.203,-8.214,0,0.148,86.943,4,0.525
+507,5COXzddFkxwPdVOcMe84fX,"Patrick Page,Hadestown Original Broadway Company,Anaïs Mitchell","His Kiss, the Riot",0.553,0.217,183794,0.506,0.00517,10,0.0878,-10.434,1,0.114,78.476,4,0.229
+508,2naokPR0Inhpw9JgW4w956,"André De Shields,Reeve Carney,Eva Noblezada,Afra Hines,Timothy Hughes,Kimberly Marable,John Krause,Hadestown Original Broadway Company,Anaïs Mitchell,Ahmad Simmons",Wait for Me (If you wanna walk out of hell...) - Intro; Reprise,0.676,0.717,96526,0.323,1.22e-05,6,0.234,-14.467,0,0.078,91.951,4,0.333
+509,3fJJ28RcXGkgKlgbgBSbc8,"André De Shields,Hadestown Original Broadway Company,Anaïs Mitchell",Wait for Me (Reprise),0.576,0.705,192281,0.501,3.62e-06,0,0.636,-6.352,1,0.0933,92.08,4,0.203
+510,1vmanLxFqqfhUs0oBGydmo,"Reeve Carney,Eva Noblezada,Jewelle Blackman,Yvette Gonzalez-Nacer,Kay Trinidad,Hadestown Original Broadway Company,John Krause,Afra Hines,Kimberly Marable,Timothy Hughes,Ahmad Simmons,Anaïs Mitchell",Doubt Comes In,0.687,0.376,291958,0.34,0.000778,7,0.214,-8.998,0,0.0321,83.785,4,0.0649
+511,2GMLTm3qlHmKkHnQA3wuRn,"André De Shields,Hadestown Original Broadway Company,Anaïs Mitchell",Road to Hell (Reprise),0.778,0.48,305490,0.182,2.09e-05,10,0.108,-10.4,1,0.0695,106.382,4,0.23
+512,7hDMTdph3j6w7XQJ7DgJLj,"Amber Gray,Eva Noblezada,Hadestown Original Broadway Company,Anaïs Mitchell",We Raise Our Cups,0.9,0.602,125008,0.136,0.0,1,0.103,-11.055,0,0.0379,125.522,3,0.127
+513,57y6Ioqgkt6Jk5kmj3CtIC,"Jessie Mueller,Waitress Original Broadway Cast Ensemble",What's Inside,0.793,0.401,91813,0.211,0.0,7,0.289,-10.835,1,0.0398,61.576,4,0.164
+514,0Blojh3eznTkOiIJSDKb6W,"Jessie Mueller,Keala Settle,Kimiko Glenn,Eric Anderson,Waitress Original Broadway Cast Ensemble",Opening Up,0.177,0.585,154373,0.723,0.0,2,0.115,-5.237,1,0.0592,160.836,4,0.773
+515,3i8zsYoNVBR70hhGaZUbxK,"Keala Settle,Kimiko Glenn,Jessie Mueller",The Negative,0.304,0.58,147680,0.601,0.0,1,0.294,-7.249,1,0.199,144.107,4,0.633
+516,0h77yfaXxrLMLz31uNDigN,"Jessie Mueller,Waitress Original Broadway Cast Ensemble",What Baking Can Do,0.595,0.704,210266,0.553,0.0,6,0.0684,-5.963,1,0.0478,127.861,4,0.415
+517,0kbG8feXW2Pa9SXqf14Eg6,"Aisha Jackson,Stephanie Torns,Molly Hager,Charity Angél Dawson",Club Knocked Up,0.433,0.723,46106,0.56,0.0,7,0.325,-8.52,1,0.0448,114.829,4,0.969
+518,27GaJQZLpalF6LRtIxXCaU,The Waitress Band,Pomatter Pie,0.899,0.0,61120,0.19,0.86,5,0.11,-15.997,1,0.0,0.0,0,0.0
+519,4tG0cdbL7v4pQ8RWOqLDHx,"Kimiko Glenn,Jessie Mueller,Keala Settle,Waitress Original Broadway Cast Ensemble",When He Sees Me,0.508,0.734,223080,0.464,0.0,10,0.0769,-6.452,1,0.0449,121.925,4,0.424
+520,0jW4YGXcbUBsMjQa7aHuSf,"Drew Gehling,Jessie Mueller",It Only Takes a Taste,0.554,0.752,188800,0.263,0.0,6,0.348,-11.66,1,0.0609,110.964,4,0.374
+521,3BZYRhdrqH7jL2OGInv31y,"Nick Cordero,Jessie Mueller",You Will Still Be Mine,0.11,0.621,138253,0.419,1.99e-05,3,0.36,-9.054,1,0.0356,85.938,4,0.229
+522,2diXwZhccjtTaiZN5ZafHZ,"Jessie Mueller,Keala Settle,Kimiko Glenn",A Soft Place to Land,0.895,0.49,177133,0.231,5.84e-06,4,0.108,-10.692,1,0.0293,127.217,3,0.147
+523,1CZgbcEZEhHH28HcBFvQIW,"Christopher Fitzgerald,Kimiko Glenn,Waitress Original Broadway Cast Ensemble",Never Ever Getting Rid of Me,0.387,0.622,136200,0.542,0.0,7,0.114,-6.215,0,0.051,174.494,4,0.939
+524,0eaFGIJGHgwKGDcVwHnc7t,"Jessie Mueller,Drew Gehling,Waitress Original Broadway Cast Ensemble",Bad Idea,0.0513,0.538,186813,0.787,2.68e-05,1,0.169,-4.617,1,0.0543,170.023,3,0.701
+525,2HhPYh9wefr3DkFKWFLeV7,Keala Settle,I Didn't Plan It,0.353,0.624,159680,0.786,6.12e-05,6,0.187,-3.936,1,0.174,119.782,4,0.609
+526,4oUvqlTyJeSkJ0XjbkKVRk,"Drew Gehling,Jessie Mueller,Keala Settle,Eric Anderson,Kimiko Glenn,Waitress Original Broadway Cast Ensemble,Christopher Fitzgerald",Bad Idea - Reprise,0.0221,0.53,63240,0.905,1.11e-06,10,0.131,-4.817,1,0.143,169.925,3,0.598
+527,3OIoLMnnWzAUORFQxRAhdF,"Drew Gehling,Jessie Mueller",You Matter to Me,0.841,0.43,261186,0.231,0.000704,4,0.116,-12.172,1,0.0295,102.241,4,0.153
+528,5Q41ne9bvWMh5NZXgmMIyc,"Christopher Fitzgerald,Kimiko Glenn,Waitress Original Broadway Cast Ensemble",I Love You Like a Table,0.198,0.739,116013,0.642,0.0,8,0.118,-5.46,1,0.0403,126.053,4,0.809
+529,3l6KjLWTn3iyyH4YCn8Ec9,"Dakin Matthews,Waitress Original Broadway Cast Ensemble",Take It from an Old Man,0.635,0.588,157413,0.368,0.0,1,0.106,-10.885,0,0.0318,86.924,4,0.388
+530,3v3YuWdpULn9y8xjQCQS6C,Jessie Mueller,Dear Baby,0.944,0.603,36693,0.0414,2.6e-06,6,0.125,-22.603,1,0.18,130.095,4,0.181
+531,7CBrUf50mf2IqcRZla38by,Jessie Mueller,She Used to Be Mine,0.549,0.606,260573,0.223,0.0,6,0.115,-8.567,1,0.0356,125.097,3,0.132
+532,0f6lAJRqA5NgBdyZWhSPda,"Jessie Mueller,Waitress Original Broadway Cast Ensemble",Contraction Ballet,0.826,0.512,62013,0.123,0.0276,8,0.188,-27.633,0,0.0944,175.394,3,0.185
+533,6nUhDYgFdSWWIWnN0Mwq9G,"Jessie Mueller,Keala Settle,Kimiko Glenn,Waitress Original Broadway Cast Ensemble",Everything Changes,0.418,0.338,182146,0.388,3.52e-06,1,0.0976,-7.961,1,0.0328,103.019,4,0.184
+534,0D0hntFnPGhcqlexHeudeV,Waitress Original Broadway Company,Opening Up - Finale,0.183,0.6,104013,0.47,0.0,7,0.273,-6.111,1,0.0338,161.07,4,0.652
+535,1Z1zeXS12A5gL97J7I30EG,"Original Broadway Cast Recording,Frank Wildhorn",Prologue: How ‘Bout a Dance (feat. Frank Wildhorn),0.989,0.567,27906,0.0606,0.965,4,0.121,-25.803,1,0.0388,97.256,4,0.73
+536,31mWgeSZLKbLEgts0p1Af5,"Original Broadway Cast Recording,L. Osnes,JJordvn,K. Fowler,T. Ackerman","Picture Show (feat. L. Osnes, J. Jordan, K. Fowler & T. Ackerman)",0.718,0.548,275400,0.285,0.0,1,0.0877,-10.042,1,0.0688,95.192,4,0.485
+537,2YAoz2IM9sNs0eYBMaAl5O,"Original Broadway Cast Recording,Jeremy Jordan,Laura Osnes",This World Will Remember Me (feat. Jeremy Jordan & Laura Osnes),0.374,0.773,130240,0.433,0.0,6,0.0706,-11.366,0,0.0578,117.304,4,0.863
+538,6rNJNUQ0PCimT9SN9DvT4K,"Original Broadway Cast Recording,M. Van Der Schyff,C. Elder,A. Cimmet,M. Mcgowan,G. Long","You’re Going Back to Jail (feat. M. Van Der Schyff, C. Elder, a. Cimmet, M. Mcgowan & G. Long)",0.557,0.775,210586,0.578,0.0,0,0.219,-9.07,0,0.222,114.287,4,0.815
+539,4kcG64sPMXDAldjYtIll6u,"Original Broadway Cast Recording,Laura Osnes",How ‘Bout a Dance (feat. Laura Osnes),0.844,0.271,174666,0.192,1.92e-06,8,0.0612,-11.402,1,0.0451,87.027,4,0.112
+540,2trv9vYrj58DHFNnfVUd8i,"Original Broadway Cast Recording,Jeremy Jordan,Claybourne Elder",When I Drive (feat. Jeremy Jordan & Claybourne Elder),0.266,0.697,134600,0.678,0.0,11,0.239,-7.887,1,0.05,115.367,4,0.74
+541,0Eb78EuI5RWcM1vOSwyKeF,"Original Broadway Cast Recording,Michael Lanning,Melissa Van Der Schyff",God’s Arms Are Always Open (feat. Michael Lanning & Melissa Van Der Schyff),0.715,0.525,295773,0.488,0.0,7,0.111,-9.873,1,0.233,126.48,4,0.554
+542,3yO5SQXckpOXM0DdBy0waB,"Original Broadway Cast Recording,Louis Hobson,Jeremy Jordan",You Can Do Better Than Him (feat. Louis Hobson & Jeremy Jordan),0.827,0.413,191120,0.206,0.0,9,0.0943,-12.443,1,0.0327,134.045,3,0.137
+543,795SM7LI7D1UQ4aguJHBK9,"Original Broadway Cast Recording,Laura Osnes,Melissa Van Der Schyff",You Love Who You Love (feat. Laura Osnes & Melissa Van Der Schyff),0.624,0.505,184560,0.313,0.0,6,0.156,-8.244,1,0.0309,136.074,4,0.303
+544,0TWoDC9zXCxJ5dAlQ0XHas,"Original Broadway Cast Recording,Jeremy Jordan",Raise a Little Hell (feat. Jeremy Jordan),0.362,0.445,188880,0.344,0.0,9,0.218,-9.838,0,0.0316,87.863,4,0.238
+545,26LM8H5CtM2XQXXnpu4QJX,"Original Broadway Cast Recording,Jeremy Jordan,Laura Osnes",This World Will Remember Us (feat. Jeremy Jordan & Laura Osnes),0.507,0.654,214733,0.489,0.0,4,0.0958,-9.737,1,0.201,119.279,4,0.262
+546,1TigSeViyt1B0M16WAHSHR,"Original Broadway Cast Recording,Michael Lanning",Made in America (feat. Michael Lanning),0.569,0.659,185093,0.497,0.0,1,0.381,-7.444,0,0.0695,96.513,4,0.543
+547,2MSVqKttkKXYLsN2nsVZ0Q,"Original Broadway Cast Recording,Laura Osnes,Jeremy Jordan",Too Late to Turn Back Now (feat. Laura Osnes & Jeremy Jordan),0.288,0.588,164960,0.695,0.0,7,0.181,-7.302,1,0.0918,104.831,4,0.644
+548,4rAnkBRBkMqa3aPXyh6geO,"Original Broadway Cast Recording,Melissa Van Der Schyff",That’s What You Call a Dream (feat. Melissa Van Der Schyff),0.923,0.397,157800,0.0768,0.0,1,0.1,-17.16,0,0.0452,101.699,5,0.13
+549,4fXcYnTMcgVAram9ibRYtg,"Original Broadway Cast Recording,Jeremy Jordan,Laura Osnes",What Was Good Enough for You (feat. Jeremy Jordan & Laura Osnes),0.718,0.387,234613,0.239,0.0,4,0.0935,-10.734,0,0.0338,113.217,3,0.218
+550,3YAr8MLu0W5N5l2dmBLN7C,"Original Broadway Cast Recording,Jeremy Jordan",Bonnie (feat. Jeremy Jordan),0.85,0.399,151000,0.0581,0.0,9,0.0932,-17.203,1,0.0774,87.349,5,0.3
+551,1jul3awjYWV3ISCnqMMezh,"Original Broadway Cast Recording,Jeremy Jordan,Claybourne Elder,Louis Hobson","Raise a Little Hell (Reprise) (feat. Jeremy Jordan, Claybourne Elder & Louis Hobson)",0.0919,0.493,145533,0.632,0.0,2,0.0789,-8.64,1,0.0355,93.301,4,0.636
+552,5bRVFXLgWY9fWjOXnnyC4p,"Original Broadway Cast Recording,Laura Osnes",Dyin’ ain’t so Bad (feat. Laura Osnes),0.866,0.378,210520,0.145,0.0,0,0.0853,-13.869,1,0.0489,125.761,4,0.166
+553,6WNwlxXtQpr4h2gIJTG7fN,"Original Broadway Cast Recording,Laura Osnes,Jeremy Jordan",Dyin’ ain’t so Bad (Reprise) (feat. Laura Osnes & Jeremy Jordan),0.959,0.396,112240,0.0301,0.0,11,0.116,-20.427,1,0.0474,109.801,4,0.163
+554,32LJR20n7va12RxlntRI1j,"Original Broadway Cast Recording,Laura Osnes",How ‘Bout a Dance (Reprise) (feat. Laura Osnes),0.777,0.177,99666,0.168,0.491,7,0.119,-16.388,1,0.0321,97.162,4,0.0799
+555,1pmNVrH9zkGHww8w9Ty1zq,"Original Broadway Cast Recording,Jeremy Jordan,Laura Osnes,Frank Wildhorn","Bonus Track: This Never Happened Before (feat. Jeremy Jordan, Laura Osnes & Frank Wildhorn)",0.971,0.455,166626,0.0826,0.0,3,0.112,-16.15,1,0.0418,131.35,4,0.282
+556,5ptOksCXMZRFRoBL99Etbb,If/Then: A New Musical Orchestra,Prologue,0.965,0.269,25160,0.12,0.603,2,0.455,-16.737,1,0.0384,115.498,1,0.226
+557,7M4HsYd5byMDLVT6YZrL7T,Idina Menzel,What If?,0.651,0.465,283013,0.384,0.0,9,0.283,-9.971,1,0.0345,71.005,4,0.312
+558,4XX01rQV687m5gvEZK1EkA,LaChanze,It's a Sign,0.72,0.606,188840,0.497,0.0,0,0.299,-7.876,0,0.167,125.533,4,0.74
+559,3BKcGSkFwtLmgxtmPxgnqT,"Idina Menzel,Jerry Dixon",A Map of New York,0.784,0.342,294213,0.524,0.0,11,0.0841,-8.781,1,0.075,170.57,4,0.406
+560,4NiDM85CH85zSSr1Zz8rBI,James Snyder,You Never Know,0.925,0.325,192920,0.14,3.03e-05,9,0.0831,-14.955,1,0.0365,148.636,4,0.261
+561,33rptrbpanCqQ8pUUssCcR,"Anthony Rapp,Idina Menzel,James Snyder,LaChanze,Jenn Colella",Ain't No Man Manhattan,0.608,0.509,225626,0.505,0.0,7,0.321,-8.439,1,0.0405,89.361,4,0.548
+562,38dJhEBv1uvC2AmLTMABgl,Idina Menzel,What the F**k?,0.861,0.444,170880,0.331,0.0,9,0.0767,-10.15,1,0.0424,109.806,1,0.468
+563,2u002HwBk93f07vuuE19UN,"Idina Menzel,James Snyder",Here I Go,0.74,0.358,186640,0.372,0.0,4,0.106,-8.214,1,0.0305,130.575,4,0.245
+564,5Bpem61FgXe1A9jbOxP6hG,Anthony Rapp,You Don't Need to Love Me,0.897,0.389,177040,0.187,0.0,8,0.122,-14.165,1,0.0343,140.645,4,0.364
+565,56ZBhCCFQLuIs2qPnt0EVK,"Idina Menzel,LaChanze,Jenn Colella,Tamika Lawrence",No More Wasted Time,0.755,0.524,221040,0.476,0.0,1,0.104,-7.746,1,0.0484,126.807,4,0.434
+566,5fRw4Fxzc5kHF9DgvMmDqp,"Idina Menzel,LaChanze,Jenn Colella,Anthony Rapp,Jason Tam,Tamika Lawrence,Jerry Dixon",Surprise,0.778,0.486,223426,0.439,0.0,2,0.381,-8.488,1,0.0815,118.339,4,0.568
+567,4UTiSCXWyODkR0ScyIlnnj,"Idina Menzel,Anthony Rapp,James Snyder,LaChanze,Jenn Colella,Jason Tam",This Day / Walking by a Wedding,0.832,0.489,320933,0.435,0.0,4,0.488,-8.988,1,0.04,102.462,1,0.499
+568,44zIFGGk5lL08rDZ4CI3W9,James Snyder,"Hey, Kid",0.85,0.34,218546,0.322,4.95e-06,5,0.124,-11.829,1,0.0451,81.437,1,0.509
+569,3yjuNPkPEJSfMbPbp4xjR3,"Idina Menzel,Anthony Rapp",Some Other Me,0.865,0.33,220146,0.281,0.0,1,0.109,-10.478,1,0.045,184.077,3,0.3
+570,3Uefgo7FfX7kDKR8QbA8fB,"Jason Tam,Anthony Rapp",Best Worst Mistake,0.719,0.378,175093,0.45,0.0,10,0.129,-9.126,1,0.236,193.56,3,0.58
+571,5Qm3k5U1b1AnrRRIuwLCWA,"Idina Menzel,James Snyder",I Hate You,0.923,0.411,282306,0.243,0.0,10,0.0974,-11.572,0,0.0564,136.354,4,0.278
+572,0ZxYh1GLOPiGA6oUNy0py6,Jerry Dixon,A Map of New York (Reprise),0.904,0.391,57013,0.196,0.0,8,0.0819,-16.575,1,0.0669,86.166,5,0.207
+573,4tYk40Vs6CLY7k2TG4XDlI,Idina Menzel,You Learn to Live Without,0.859,0.326,220613,0.2,0.0,6,0.109,-11.599,1,0.0341,145.329,4,0.213
+574,6YcX9453cDG7DvE1s3Z2Md,"Idina Menzel,Joe Aaron Reid",The Moment Explodes,0.897,0.442,140666,0.4,2.8e-05,1,0.103,-8.294,0,0.0374,143.544,4,0.208
+575,0rvJa1E4TcbJ9TuQl2dkdJ,"Idina Menzel,LaChanze,Jenn Colella",Love While You Can,0.866,0.455,212693,0.471,0.0,2,0.113,-7.28,1,0.0403,88.7,4,0.19
+576,5XXwsMA62jicrFKvE39EOg,Jason Tam,What Would You Do?,0.937,0.194,107760,0.186,0.0444,9,0.245,-17.542,1,0.0417,172.946,5,0.231
+577,1lO05gLIDY3HgGmQMWAGXH,Idina Menzel,Always Starting Over,0.794,0.318,282586,0.427,2.05e-06,7,0.147,-8.661,1,0.0356,138.26,4,0.204
+578,2fWRJUfdwlRUC4KZDPPJP1,Idina Menzel,What If? (Reprise),0.901,0.276,92546,0.32,5.33e-05,9,0.128,-9.966,1,0.0369,84.086,4,0.117
+579,6fw8fb3ZFlfFJ2vHUQE0Zr,"Stephen Flaherty,David Holcenberg,Steve Marzullo",Overture Seussical - Original Broadway Cast Recording,0.0114,0.301,58746,0.614,0.724,2,0.187,-10.037,1,0.0714,166.197,4,0.474
+580,1s3o5GqisqVCKRiCG2gJSN,"Lynn Ahrens,Stephen Flaherty,David Shiner","Oh, The Thinks You Can Think - Original Broadway Cast Recording",0.437,0.693,231640,0.567,0.0,0,0.287,-9.812,1,0.482,145.096,4,0.855
+581,18J4ioZBe3MrgPepR0HQ49,Kevin Chamberlin,Horton Hears A Who - Original Broadway Cast Recording,0.572,0.596,157733,0.275,0.0,9,0.103,-15.528,1,0.239,87.35,4,0.53
+582,5o9wqzWBYQmuPBOYZGsrkI,"Lynn Ahrens,Stephen Flaherty,David Engel,Tom Plotkin,Eric Jordan Young",Biggest Blame Fool - Original Broadway Cast Recording,0.518,0.53,235693,0.684,0.0,10,0.283,-9.084,1,0.585,169.732,4,0.519
+583,4hG6UXPhxt4HXPOILQTyj5,Stuart Zagnit,Here On Who - Original Broadway Cast Recording,0.779,0.47,360200,0.281,0.0,9,0.513,-12.698,0,0.147,162.172,4,0.422
+584,5iuUCW5jFWD5lEJvOzQu8m,"Lynn Ahrens,Stephen Flaherty,David Shiner",A Day For The Cat In The Hat - Original Broadway Cast Recording,0.555,0.66,166133,0.593,1.13e-06,9,0.268,-10.287,0,0.402,153.125,4,0.756
+585,4EcD1UNYcq1bpQrZcR4C4C,"Stephen Flaherty,Anthony Blair Hall",It's Possible (McElligot's Pool) - Original Broadway Cast Recording,0.568,0.493,157533,0.415,0.0,2,0.231,-10.725,1,0.216,149.813,4,0.697
+586,4W9A61dP0BMxzXpbz30HBG,"Alice Playten,Stuart Zagnit",How To Raise A Child - Original Broadway Cast Recording,0.802,0.52,39148,0.247,0.0,2,0.569,-12.209,1,0.278,69.073,4,0.65
+587,0O0hYjkxChCsNqJPIrumy7,"Stephen Flaherty,Lynn Ahrens,Eric Devine",The Military - Original Broadway Cast Recording,0.646,0.648,187333,0.604,2.43e-06,6,0.221,-9.798,1,0.452,122.814,4,0.564
+588,4Coz55agJIaOXbP4QtLZoY,"Lynn Ahrens,Stephen Flaherty,Kevin Chamberlin,Anthony Blair Hall",Alone In The Universe - Original Broadway Cast Recording,0.717,0.349,289200,0.269,0.0,0,0.257,-12.833,1,0.0354,142.809,4,0.245
+589,5JU6tsbLXmaBlIWi47Q2aU,Janine LaManna,The One Feather Tail Of Miss Gertrude McFuzz - Original Broadway Cast Recording,0.79,0.382,76693,0.0447,0.0,0,0.24,-16.138,1,0.0389,82.215,5,0.261
+590,2BH4bejqaJtbsy9Ze4nw4d,"Lynn Ahrens,Stephen Flaherty,Michele Pawk",Amayzing Mayzie - Original Broadway Cast Recording,0.674,0.632,130666,0.497,0.0,0,0.343,-10.048,1,0.176,108.992,4,0.772
+591,1WLM7U47BWUFpixF5cNEhm,"Lynn Ahrens,Stephen Flaherty,Janine LaManna",Amayzing Gertrude - Original Broadway Cast Recording,0.676,0.694,131773,0.307,0.0,4,0.397,-12.246,1,0.522,105.376,4,0.449
+592,3OlBCTvUfwgV38hFdXroWo,"David Engel,Tom Plotkin,Eric Jordan Young",Monkey Around - Original Broadway Cast Recording,0.346,0.832,110226,0.405,0.000114,7,0.246,-12.748,0,0.124,122.095,4,0.848
+593,2xW88OGXtRvJMBfcshkalP,"Lynn Ahrens,Stephen Flaherty,Sharon Wilkins",Chasing The Whos - Original Broadway Cast Recording,0.488,0.687,167440,0.646,0.0,10,0.638,-9.672,0,0.224,107.16,4,0.561
+594,3b96D5IsagPqq3IP7bJx8L,"Stephen Flaherty,David Shiner",How Lucky You Are - Original Broadway Cast Recording,0.69,0.699,100360,0.397,0.0,5,0.111,-12.47,1,0.629,136.785,4,0.595
+595,5HML9ylanbhqWYe0kk3jiM,"Lynn Ahrens,Stephen Flaherty,Janine LaManna,Kevin Chamberlin","Notice Me, Horton - From Seussical The Musical",0.715,0.462,187106,0.209,0.0,5,0.526,-14.52,1,0.0739,114.046,4,0.382
+596,30RxegdW1UjRRlbWUeAB6M,"Stephen Flaherty,Lynn Ahrens,Janine LaManna",How Lucky You Are (Mayzie's Reprise) - Original Broadway Cast Recording,0.564,0.685,96466,0.281,0.0,3,0.252,-15.34,1,0.366,93.963,4,0.497
+597,4jvCajXN7h0Uwbr4r2y6dP,"Kevin Chamberlin,Janine LaManna",Horton Sits On The Egg / Act I Finale - Original Broadway Cast Recording,0.414,0.522,141533,0.478,0.0,5,0.605,-10.481,1,0.146,134.65,4,0.568
+598,5OVuFToKBehh8K65PzqR5M,"Lynn Ahrens,Stephen Flaherty,Natascia Diaz,Sara Gettelfinger,Catrice Joseph","Egg, Nest and Tree - Original Broadway Cast Recording",0.416,0.786,100426,0.611,0.0,6,0.253,-10.129,1,0.167,105.955,4,0.295
+599,2i4p7tCQQK86mJJrtBpp7F,Michele Pawk,Mayzie In Palm Beach - Original Broadway Cast Recording,0.733,0.595,136933,0.205,0.0,10,0.141,-14.152,1,0.422,66.23,4,0.283
+600,06tkNQOEW8mqkdaIpVZ40I,"Lynn Ahrens,Stephen Flaherty,Kevin Chamberlin",Alone in The Universe (Reprise) - Original Broadway Cast Recording,0.79,0.297,66973,0.118,1.05e-05,7,0.31,-19.654,1,0.0465,79.526,3,0.242
+601,4kZ92MlT4ndyvXQnOICeRB,"Stephen Flaherty,Kevin Chamberlin",Solla Sollew - Original Broadway Cast Recording,0.759,0.197,211066,0.205,0.0,5,0.117,-13.484,1,0.0353,63.334,4,0.158
+602,1Wr1qQ834XP35I5NNZjQG8,David Shiner,Havin' A Hunch - Original Broadway Cast Recording,0.639,0.566,201733,0.51,0.0,1,0.0829,-9.851,1,0.318,161.528,4,0.472
+603,2poXoKCKi46LKC6yE6x2Ib,"Lynn Ahrens,Stephen Flaherty,Janine LaManna",All For You - Original Broadway Cast Recording,0.781,0.589,217733,0.204,0.0,5,0.148,-13.118,1,0.231,69.168,4,0.265
+604,6gRc6jiufBIEBLZpDzJyKH,Kevin Chamberlin,The People Versus Horton The Elephant - Original Broadway Cast Recording,0.676,0.494,270960,0.473,2.51e-06,4,0.317,-10.835,1,0.457,82.405,4,0.433
+605,51dBgpjjT7yX766z5jAfmD,"Stephen Flaherty,Lynn Ahrens,Original Broadway Cast: Seussical: The Musical","Finale / Oh, The Thinks You Can Think - Original Broadway Cast Recording",0.752,0.417,230666,0.291,0.0,2,0.104,-12.663,1,0.0995,137.328,3,0.353
+606,6HatwE3la3Gh8eoAyL2Z6d,"Dr. Seuss,Lynn Ahrens,Stephen Flaherty,Original Broadway Cast: Seussical: The Musical",Green Eggs And Ham - Original Broadway Cast Recording,0.249,0.576,77866,0.616,7.86e-06,0,0.586,-9.933,0,0.746,196.965,4,0.659
+607,08hlFtp8y9S6YZmjBNvQ1I,"Andrew Rannells,Josh Gad,Rory O'Malley,Kevin Duda,Clark Johnsen,Justin Bohon,Brian Sears,Scott Barnhardt,Benjamin Schrader,Lewis Cleale,Jason Michael Snow",Hello!,0.735,0.658,172026,0.506,0.0,0,0.0469,-9.927,1,0.246,130.491,4,0.654
+608,7ih0MAOJz2OiaXR1lOO61X,"Andrew Rannells,Josh Gad,Rory O'Malley,Kevin Duda,Clark Johnsen,Justin Bohon,Brian Sears,Scott Barnhardt,Benjamin Schrader,Lewis Cleale,Jason Michael Snow",Two by Two,0.73,0.549,271573,0.444,0.0,3,0.342,-10.08,1,0.388,156.569,4,0.609
+609,3VHDIvoYPrOkUQmirAn5vr,"Josh Gad,Andrew Rannells",You and Me (But Mostly Me),0.602,0.482,163240,0.509,0.0,0,0.0398,-7.947,1,0.0477,75.263,4,0.505
+610,52a9fyhPzrMz6bxVQoEIcX,"Michael Potts,Andrew Rannells,Josh Gad,Michael James Scott,Lawrence Stallings,Rema Webb,Tyson Jennette,Maia Nkenge Wilson,Brian Tyree Henry,Darlesia Cearcy,Tommar Wilson,Ta'Rea Campbell,John Eric Parker",Hasa Diga Eebowai,0.431,0.76,264573,0.605,0.0,6,0.141,-8.782,1,0.372,105.69,4,0.452
+611,3BvdyscylBbOhf0TL2S0yH,"Scott Barnhardt,Justin Bohon,Jason Michael Snow,Kevin Duda,Josh Gad,Brian Sears,Rory O'Malley,Andrew Rannells,Benjamin Schrader,Clark Johnsen",Turn It Off,0.652,0.552,303360,0.41,0.0,5,0.555,-10.549,1,0.42,141.845,3,0.626
+612,2a40rR1vBXhMyucADZ8KHH,"Josh Gad,Andrew Rannells",I Am Here for You,0.911,0.371,124106,0.135,1.73e-06,9,0.329,-19.37,1,0.0919,86.81,5,0.37
+613,06pQZG3BrfGCVvB9xmia1f,"Andrew Rannells,Lewis Cleale,Jared Gertner,Clark Johnsen,Benjamin Schrader,Rory O'Malley,Scott Barnhardt,Graham Bowen,Justin Bohon,Kevin Duda,Jason Michael Snow,Brian Sears,Michael James Scott,Nick Spangler,Josh Gad",All-American Prophet,0.6,0.674,374546,0.59,0.0,1,0.0977,-9.893,1,0.436,115.555,4,0.452
+614,6n7FyFONGtwL0XdGALhXMJ,Nikki M. James,Sal Tlay Ka Siti,0.744,0.436,221653,0.331,0.0,0,0.0802,-10.593,1,0.0527,134.361,4,0.2
+615,0Oyit4R44Ynbg9SOe6jfXR,"Josh Gad,'The Book of Mormon' Original Broadway Cast Company",Man Up,0.297,0.486,243893,0.659,0.0,2,0.078,-8.372,1,0.263,141.993,4,0.457
+616,78XTGDFDdOMMWy778APlBK,"Lewis Cleale,Brian Sears,John Eric Parker,Asmeret Gebremichael,Josh Gad,'The Book of Mormon' Original Broadway Cast Company,Nikki M. James,Rory O'Malley,Rema Webb,Michael James Scott,Scott Barnhardt",Making Things up Again,0.527,0.672,256800,0.382,0.0,8,0.143,-11.249,1,0.873,147.25,4,0.589
+617,6g4kwd5Y4LS0H31PZ5GcuY,"Benjamin Schrader,Kevin Duda,Brian Tyree Henry,Maia Nkenge Wilson,Lewis Cleale,Andrew Rannells,Michael Potts",Spooky Mormon Hell Dream,0.245,0.531,270386,0.772,0.0,3,0.0681,-8.263,1,0.27,158.121,4,0.454
+618,4YfNmQKnrX5DrlAxSAnMoA,Andrew Rannells,I Believe,0.676,0.377,282786,0.452,0.0,1,0.295,-9.133,1,0.051,166.553,4,0.563
+619,7LyYK173QOgj389valYJwv,"Josh Gad,Nikki M. James",Baptize Me,0.495,0.487,255213,0.432,0.0,0,0.257,-10.372,1,0.213,167.623,4,0.441
+620,041STHVCMt9AtrKYZAEyTi,"Clark Johnsen,Rory O'Malley,Kevin Duda,Justin Bohon,Brian Sears,Scott Barnhardt,Benjamin Schrader,Jason Michael Snow,Josh Gad",I Am Africa,0.458,0.386,141946,0.49,0.0,2,0.552,-8.648,1,0.0546,154.494,4,0.383
+621,3E4YbYsTTOWBtk1YiBZu49,"Rema Webb,Darlesia Cearcy,Michael Potts,John Eric Parker,Maia Nkenge Wilson,Ta'Rea Campbell,Tommar Wilson,Nikki M. James,Tyson Jennette,Lawrence Stallings,Brian Tyree Henry,Michael James Scott",Joseph Smith American Moses,0.377,0.7,372240,0.511,0.0,10,0.137,-10.379,0,0.545,131.592,3,0.335
+622,4I4UN8MOiWPgUZgENIFW4a,"Andrew Rannells,Josh Gad,'The Book of Mormon' Original Broadway Cast Company",Tomorrow Is a Latter Day,0.622,0.417,361613,0.587,0.0,7,0.23,-10.03,1,0.322,169.835,4,0.462
+623,2NTXTzvznh6bdlEkikXOEH,Anything Goes New Broadway Company Orchestra,Overture,0.845,0.529,157693,0.409,0.33,8,0.255,-7.079,1,0.0493,110.777,4,0.607
+624,23B3o2laQ6r35OQMgtXTRo,Sutton Foster,I Get a Kick out of You,0.847,0.397,144480,0.179,1.02e-06,10,0.102,-14.824,1,0.0635,170.665,4,0.389
+625,16yp5qRfetwD96yOdTdF61,'Anything Goes' New Broadway Cast Ensemble,There's No Cure Like Travel / Bon Voyage,0.751,0.634,114066,0.596,3.74e-06,7,0.0673,-7.8,1,0.0546,129.152,4,0.901
+626,5poMgcmtczmFfC38ayOdlw,"Sutton Foster,Colin Donnell",You're the Top,0.817,0.656,301413,0.391,0.0,8,0.12,-8.117,1,0.179,105.647,4,0.734
+627,3hNRNKpFhsKRWRqPt2Lex3,Colin Donnell,Easy to Love,0.948,0.278,214106,0.178,6.41e-05,8,0.118,-16.793,1,0.0449,75.332,3,0.127
+628,5eaOLqxqts6VaLOCObATwp,Laura Osnes,Easy to Love - Reprise,0.94,0.299,59120,0.146,0.000289,8,0.224,-16.797,0,0.0363,74.714,4,0.125
+629,06otCdjIpLWYGC2mD67KfN,John Mcmartin,The Crew Song,0.893,0.595,88640,0.168,0.0,7,0.0758,-14.226,1,0.589,183.825,3,0.531
+630,5XfdB9AnUQnV4P1nwT6Jjb,"Ward Billeisen,Josh Franklin,Daniel J. Edwards,William Ryall",There'll Always Be a Lady Fair,0.813,0.579,90546,0.237,0.0,0,0.07,-13.763,1,0.0613,83.396,4,0.804
+631,12uXcoqZ3OZfaC5EQn22ri,"Joel Grey,Sutton Foster",Friendship,0.834,0.791,209880,0.323,2.09e-06,10,0.162,-8.205,1,0.117,94.569,4,0.788
+632,4WC0R4c3ksBrDgmrxhtP7g,"Colin Donnell,Laura Osnes",It's De-Lovely,0.924,0.458,299133,0.156,3.99e-06,7,0.0927,-14.002,0,0.0681,149.129,4,0.27
+633,0LgODbepSswNlLUK8EEH8v,"Sutton Foster,Anything Goes New Broadway Company Orchestra",Anything Goes,0.682,0.617,348253,0.438,0.00218,7,0.28,-8.707,1,0.17,98.823,4,0.725
+634,0I82oheV2eznrBuvV77Czo,"Walter Charles,Anything Goes New Broadway Company Orchestra",Public Enemy Number One,0.883,0.482,97360,0.208,0.0,5,0.451,-13.414,1,0.0422,84.632,4,0.797
+635,4DtUDXWjncnJEGkjWNzXUg,"Sutton Foster,Shina Ann Morris,Kimberly Fauré,Jennifer Savelli,Joyce Chittick,'Anything Goes' New Broadway Cast Ensemble","Blow, Gabriel, Blow",0.794,0.555,452786,0.505,0.00271,0,0.552,-7.8,0,0.17,108.728,4,0.689
+636,4cFEDjjpNsg4WkHSt6lc3c,Laura Osnes,"Goodbye, Little Dream, Goodbye",0.946,0.236,143720,0.145,0.00509,5,0.155,-14.257,1,0.0409,91.95,1,0.0714
+637,1VCLebfSBPVcphzJyff02N,Joel Grey,Be Like the Blue Bird,0.866,0.537,213800,0.0299,0.0,2,0.13,-18.271,1,0.0663,98.432,4,0.361
+638,31BYI0KLyEpakcpxURXhwj,"Colin Donnell,Laura Osnes,Ward Billeisen,Josh Franklin,Daniel J. Edwards,William Ryall",All Through the Night,0.875,0.279,199760,0.343,3.89e-06,10,0.109,-12.315,1,0.0401,106.399,4,0.14
+639,0ij6wB42Kc0Qd9TejMKt4m,"Adam Godley,Sutton Foster",The Gypsy in Me,0.793,0.505,223693,0.329,0.00652,10,0.158,-10.43,0,0.12,138.3,4,0.506
+640,3ruxXjlhXyYpZuGhtPksTr,"Jessica Stone,'Anything Goes' New Broadway Cast Ensemble",Buddie Beware,0.857,0.482,208066,0.312,0.0,8,0.0685,-9.037,1,0.0785,102.721,4,0.504
+641,0dgvAFAHF1XLIKQK8vKixd,Anything Goes New Broadway Company,Finale,0.845,0.459,92440,0.339,0.0,8,0.108,-8.779,1,0.23,183.11,4,0.796
+642,68FWAcFY1VQoOJ9xCuFCSr,"Orchestra,Original Television Cast of the Wiz LIVE!",Prologue,0.1,0.431,50573,0.666,0.0907,10,0.152,-3.174,1,0.0506,118.381,4,0.846
+643,06d6EsaOZTJt4QbwyKEEU6,"Stephanie Mills,Original Television Cast of the Wiz LIVE!",The Feeling We Once Had,0.391,0.379,202080,0.535,9.69e-06,3,0.12,-5.931,1,0.0529,94.809,4,0.287
+644,2B8FMa0jlQVegOngWsBXfX,"Orchestra,Original Television Cast of the Wiz LIVE!",Tornado,0.00447,0.523,105106,0.738,0.349,1,0.0571,-4.758,1,0.0414,122.088,4,0.209
+645,3cueTwM54U1o6Nny3lxzQG,"RILEY,Shanice Williams,Original Television Cast of the Wiz LIVE!",He's the Wizard,0.0814,0.314,152400,0.89,5.92e-05,1,0.236,-2.441,0,0.245,170.519,4,0.37
+646,5KueplDLckIIMopvoJfxbT,"Shanice Williams,Original Television Cast of the Wiz LIVE!",Soon As I Get Home,0.573,0.315,213000,0.656,4.5e-06,8,0.113,-3.098,1,0.037,97.121,4,0.23
+647,6nhF1r39CnpUwd3wLnkmYm,"Elijah Kelley,Original Television Cast of the Wiz LIVE!",You Can't Win,0.0135,0.479,205280,0.889,0.0,11,0.128,-2.449,0,0.266,123.015,4,0.553
+648,2sUWPVpW4aJuioJdlUMGtO,"Shanice Williams,Elijah Kelley,David Alan Grier,Ne-Yo,Original Television Cast of the Wiz LIVE!",Ease on Down the Road,0.207,0.703,118840,0.861,0.0,5,0.0923,-1.76,0,0.246,117.889,4,0.79
+649,19y0yqgi5gNTZJxGH6xJbz,"Ne-Yo,Original Television Cast of the Wiz LIVE!",Slide Some Oil to Me,0.0322,0.696,145866,0.81,0.0,1,0.153,-3.592,1,0.224,140.101,4,0.551
+650,6GPMPxXnfbXYvqaReFvihb,"David Alan Grier,Original Television Cast of the Wiz LIVE!",Mean Ole Lion,0.0183,0.73,96533,0.906,0.0,0,0.169,-3.284,1,0.246,135.016,4,0.77
+651,75bkQRCjcAyo8g9jqF8Hfz,"Shanice Williams,David Alan Grier,Original Television Cast of the Wiz LIVE!",Be a Lion,0.549,0.238,201453,0.565,0.0,7,0.129,-4.065,1,0.0304,98.034,3,0.159
+652,4F8LIWoQGwwhdwDkYA1mRC,"Queen Latifah,Original Television Cast of the Wiz LIVE!",So You Wanted to See the Wizard,0.0304,0.586,116266,0.824,0.0,1,0.265,-3.157,0,0.0507,114.937,4,0.765
+653,2EyCzR5lKbQlD0b9JuuQzR,"Shanice Williams,Elijah Kelley,David Alan Grier,Ne-Yo,Original Television Cast of the Wiz LIVE!",What Would I Do if I Could Feel,0.166,0.319,162013,0.652,0.0,2,0.097,-4.405,0,0.0536,88.513,4,0.131
+654,4d8nBkuev8RscnyymXsIH0,"Shanice Williams,Elijah Kelley,David Alan Grier,Ne-Yo,Original Television Cast of the Wiz LIVE!",We Got It,0.0769,0.65,249773,0.787,0.0,0,0.0863,-3.326,1,0.0888,110.978,4,0.357
+655,4O2Aktqs3Q82pzHZSaMGd5,"Mary J. Blige,Original Television Cast of the Wiz LIVE!",Don't Nobody Bring Me No Bad News,0.121,0.571,190546,0.974,0.0,5,0.236,-1.541,1,0.374,119.971,4,0.408
+656,2j79dXpn8GYwYjRIPBJWCE,"Shanice Williams,Elijah Kelley,David Alan Grier,Ne-Yo,Original Television Cast of the Wiz LIVE!",A Brand New Day,0.0411,0.57,217786,0.866,0.0,5,0.822,-4.325,1,0.152,123.129,4,0.42
+657,4MdUIHyo7fHkpaTeC32o0Q,"Queen Latifah,Original Television Cast of the Wiz LIVE!",Y'all Got It,0.0124,0.655,137133,0.889,0.0,10,0.0787,-3.588,0,0.284,137.966,4,0.585
+658,0i5jFDwZeOD88lnuOEbOjo,"Uzo Aduba,Original Television Cast of the Wiz LIVE!",Believe in Yourself,0.291,0.252,141960,0.594,0.000134,10,0.21,-2.897,1,0.039,167.716,4,0.096
+659,57a2vKhy3PoYveE2wVizPp,"Shanice Williams,Original Television Cast of the Wiz LIVE!",Home,0.13,0.424,200546,0.622,1.42e-06,5,0.097,-4.663,1,0.0362,98.239,4,0.165
+660,4dS1QQw8askb1KSDLCKuvK,"Lin-Manuel Miranda,'In The Heights' Original Broadway Company",In the Heights,0.516,0.622,458906,0.468,0.0,5,0.337,-7.146,1,0.435,170.878,4,0.692
+661,6OSTrvIX8JXxRxFT4C9y0J,"'In The Heights' Original Broadway Company,Mandy Gonzalez",Breathe,0.848,0.397,244066,0.242,0.0,10,0.106,-10.754,1,0.0663,171.747,3,0.144
+662,41mYUxw1L4DCHSgpWHcmAy,"Christopher Jackson,Mandy Gonzalez",Benny's Dispatch,0.168,0.768,137453,0.51,0.0,9,0.112,-8.254,1,0.367,91.883,4,0.172
+663,6gTRjSKPok0vqeP7yEqmYU,"Karen Olivo,Lin-Manuel Miranda,Robin de Jesus",It Won't Be Long Now,0.609,0.588,275413,0.389,0.0,2,0.149,-9.372,1,0.118,129.436,4,0.46
+664,6Yjn95BWaCS4U2s6zKSrOS,Carlos Gomez,Inútil,0.728,0.475,170493,0.292,2.25e-05,0,0.121,-10.902,1,0.128,94.042,4,0.0917
+665,7z4mcKCYFPgqFeYS5mNyTB,"Andrea Burns,Janet Dacal,Karen Olivo,Mandy Gonzalez",No Me Diga,0.785,0.601,146786,0.449,2.6e-06,8,0.13,-8.078,1,0.358,82.285,4,0.78
+666,0mqcxeYg1b57YjniPNTtQ6,"Lin-Manuel Miranda,Christopher Jackson,Robin de Jesus,Seth Stewart,Janet Dacal,Andrea Burns","96,000",0.306,0.719,335013,0.554,0.0,4,0.113,-7.203,0,0.353,85.194,4,0.648
+667,5kRGhvnoCWgw7cNgwSSQI2,"Olga Merediz,'In The Heights' Original Broadway Company",Paciencia Y Fe,0.72,0.544,295000,0.407,0.0,2,0.176,-8.158,1,0.117,84.165,4,0.574
+668,6eR8u06oZFhoBMaKl0xBZp,"Mandy Gonzalez,Christopher Jackson,'In The Heights' Original Broadway Company",When You're Home,0.525,0.581,320533,0.58,0.0,9,0.0947,-6.997,1,0.181,102.131,4,0.267
+669,4RINHMTRqIFb61Y4GjoYR4,Eliseo Roman,Piragua,0.726,0.736,113093,0.542,0.0,9,0.0398,-7.564,1,0.0451,87.168,4,0.83
+670,1v4kdQ6zcsgHSxKMHefzKV,'In The Heights' Original Broadway Company,The Club,0.666,0.742,358333,0.589,2.83e-05,7,0.454,-6.966,1,0.134,104.76,4,0.851
+671,7ahhev2IIbivmkRqLjm7g3,'In The Heights' Original Broadway Company,Blackout,0.44,0.587,237800,0.667,0.0,7,0.0778,-5.491,0,0.0497,99.727,4,0.453
+672,7ETCUCheWrp9y0k3zaoCNq,"Mandy Gonzalez,Christopher Jackson,'In The Heights' Original Broadway Company",Sunrise,0.77,0.389,248546,0.143,2.82e-05,7,0.136,-14.065,1,0.0411,113.01,4,0.13
+673,1uTEsW6n80njACdk9HA8oA,"Lin-Manuel Miranda,Olga Merediz",Hundreds of Stories,0.668,0.607,220546,0.407,0.0,8,0.0741,-9.557,1,0.0928,92.163,4,0.558
+674,7oowrTZAVVCIlGJd42w0hk,Priscilla Lopez,Enough,0.677,0.839,158146,0.464,0.0,1,0.151,-6.676,1,0.0979,105.95,4,0.733
+675,6XxqRhAaruObqx8ComY0H0,Andrea Burns,Carnaval Del Barrio,0.653,0.583,446280,0.575,0.0,2,0.314,-7.374,1,0.353,111.459,4,0.615
+676,51bgtAyOMjeNaQFeQgaA31,Carlos Gomez,Atención,0.913,0.744,53813,0.0476,0.0,7,0.114,-19.259,1,0.0705,104.832,4,0.426
+677,0ZTdalEIo0ZwDttOzA5LjH,"Lin-Manuel Miranda,Mandy Gonzalez,'In The Heights' Original Broadway Company",Alabanza,0.759,0.498,197000,0.0874,5.89e-06,2,0.105,-14.948,1,0.0661,133.092,3,0.141
+678,5kSsjxq5pWQ7eH5l7jnyY7,Mandy Gonzalez,Everything I Know,0.899,0.508,236800,0.169,1.12e-05,8,0.136,-11.332,1,0.0553,107.477,3,0.15
+679,5P6p5awCY4sMgcOqLUQcJZ,Eliseo Roman,Piragua - Reprise,0.796,0.593,52080,0.504,0.0,9,0.152,-6.49,1,0.104,173.872,3,0.647
+680,4h3uzwjfWKfs6uwwRsXQNK,"Lin-Manuel Miranda,Karen Olivo",Champagne,0.509,0.704,164026,0.378,0.0,2,0.0735,-10.124,1,0.39,93.707,4,0.188
+681,4o1ZZ9TrcwCvqp7wIO0n7l,"Mandy Gonzalez,Christopher Jackson",When the Sun Goes Down,0.478,0.567,152320,0.231,1.41e-06,0,0.132,-13.766,0,0.0537,76.924,4,0.0612
+682,0kAWlfMyn1ah4y5iKUkngI,"Doreen Montalvo,Lin-Manuel Miranda,'In The Heights' Original Broadway Company",Finale,0.591,0.437,328066,0.357,3.47e-06,5,0.214,-10.802,1,0.218,83.46,4,0.286
+683,44eVgppJeN0rjRS44LboFQ,"Lin-Manuel Miranda,'In The Heights' Original Broadway Company",In the Heights - Radio Edit,0.318,0.684,229773,0.569,0.0,7,0.0777,-5.924,0,0.307,165.899,4,0.808
+684,2LYG1NNTRwnGuJEM7qtxFp,"Karen Olivo,Lin-Manuel Miranda,Robin de Jesus",It Won't Be Long Now - Radio Edit,0.787,0.532,181426,0.377,0.0,2,0.169,-8.924,1,0.0519,129.865,4,0.391
+685,6nMDb1V8J9mKt8pMgOpWe2,"Lin-Manuel Miranda,Christopher Jackson,Robin de Jesus,Seth Stewart,Janet Dacal,Andrea Burns","96,000 - Radio Edit",0.377,0.724,219706,0.53,0.0,7,0.141,-7.699,1,0.213,85.96,4,0.679
+686,1ByTNOl4eAizhAS2gmXVH6,"Mandy Gonzalez,Christopher Jackson,'In The Heights' Original Broadway Company",When You're Home - Radio Edit,0.605,0.484,199346,0.626,0.0,9,0.085,-5.836,1,0.21,94.644,4,0.356
+687,5VL8MlwmJWbfM36ec4kr3e,"Andrew Lloyd Webber,Cats"" 1983 Broadway Cast""",The Overture,0.843,0.32,170226,0.454,0.928,5,0.611,-8.322,1,0.0361,114.021,3,0.189
+688,6289qjXzSEinfsGnXLmeoA,"Andrew Lloyd Webber,Cats"" 1983 Broadway Cast""",Prologue: Jellicle Songs For Jellicle Cats,0.872,0.617,317253,0.587,0.0,5,0.441,-9.716,1,0.553,144.325,4,0.482
+689,10X2Gzz402veKjHbdCY6jH,"Andrew Lloyd Webber,Cats"" 1983 Broadway Cast""",The Naming Of Cats,0.924,0.404,181693,0.534,0.0,5,0.349,-16.951,0,0.878,62.168,4,0.079
+690,1j62HHgYh7Uah0lGl8OOln,"Andrew Lloyd Webber,Cats"" 1983 Broadway Cast""",The Jellicle Ball,0.909,0.341,574160,0.556,0.0666,3,0.522,-8.217,1,0.161,80.661,4,0.179
+691,1c4NpKUtZcMksueBEJ0MiL,"Andrew Lloyd Webber,Cats"" 1983 Broadway Cast""",The Journey To The Heaviside Layer,0.879,0.353,163600,0.346,0.0523,3,0.607,-9.787,1,0.0287,96.925,4,0.125
+692,5fJ8kh5tPo0LIXrdtUP9XY,Company - Into the Woods (Motion Picture Cast),Prologue: Into the Woods,0.819,0.64,875160,0.266,0.0,3,0.28,-14.548,1,0.406,130.731,4,0.523
+693,1zBi5BkvIZoLHituNcZppN,Joanna Riding,Cinderella at the Grave,0.871,0.317,100080,0.121,3.21e-05,11,0.142,-18.265,1,0.0389,91.564,5,0.0993
+694,3gJHga9fgGpyZbT7bIxwBE,"Johnny Depp,Lilla Crawford","Hello, Little Girl",0.671,0.43,151146,0.245,0.0,6,0.078,-15.004,1,0.116,136.675,4,0.457
+695,5Caj7ked4XiKgZ6ZUBtlVV,Mackenzie Mauzy,Rapunzel's Song,0.812,0.2,55386,0.0873,0.944,1,0.42,-19.501,0,0.0369,150.473,3,0.0633
+696,2Z4mrBKUjrd40wIKojjF6e,Stephen Sondheim,The Cape as Red as Blood,0.84,0.561,41600,0.0141,0.387,9,0.573,-28.478,1,0.053,68.694,4,0.171
+697,4w7DCfarDVRPsd5JoqchYD,"Emily Blunt,James Corden",The Cow as White as Milk,0.805,0.816,29413,0.191,0.0,9,0.163,-18.063,1,0.457,133.67,3,0.202
+698,4zkEAth2JXl1wVQRKsV2AS,Stephen Sondheim,Magic Beans,0.875,0.189,86573,0.0192,0.936,3,0.138,-36.489,1,0.041,112.586,4,0.0395
+699,1CrC5fZUqzxMJ4K3PkY9ZU,Stephen Sondheim,Rapunzel's Hair,0.453,0.0956,82986,0.0221,0.749,3,0.104,-34.693,1,0.0424,88.259,4,0.0795
+700,3bROt7RxpLPsHLppEKOVJS,Stephen Sondheim,Granny's Cottage,0.0114,0.114,96293,0.116,0.869,9,0.162,-28.943,1,0.0512,80.183,4,0.0333
+701,4899seT29xtzoVBxYxGpfF,Lilla Crawford,I Know Things Now,0.845,0.68,124773,0.189,0.0,0,0.0964,-13.535,1,0.0752,132.907,4,0.587
+702,52GvroNKDE2OvZOAMXGujz,Stephen Sondheim,The Beanstalk Grows,0.171,0.146,28253,0.0893,0.211,1,0.141,-24.137,0,0.0489,73.187,4,0.165
+703,44nPe8WOMXRlqDGdTS5q87,Stephen Sondheim,Cinderella Runs,0.87,0.314,53893,0.288,0.907,5,0.105,-12.094,1,0.0505,78.909,4,0.0629
+704,69RiSZrRvdQ5ZoBd021mXp,"Anna Kendrick,Emily Blunt",A Very Nice Prince,0.878,0.582,91093,0.198,0.0,2,0.0822,-15.21,1,0.154,90.658,3,0.54
+705,6Tje0nyqerYacwmYuWPdD0,Daniel Huttlestone,Giants in the Sky,0.812,0.638,146080,0.199,0.0,2,0.124,-13.138,1,0.051,127.585,4,0.554
+706,6SK13igF0AX1cs2SbQZSO8,Stephen Sondheim,Who Cares!,0.436,0.121,30413,0.024,0.81,10,0.302,-31.97,1,0.0437,75.641,1,0.0457
+707,6RWWz5bi1JBVcUTqpLa6uV,Stephen Sondheim,Baker and Wife Part,0.889,0.167,33760,0.0116,0.984,9,0.102,-34.687,1,0.0383,127.254,4,0.116
+708,6TURgY0AJ2gotHRXByJXHB,Stephen Sondheim,Princes' Fanfare,0.873,0.4,17026,0.225,0.934,1,0.225,-13.739,1,0.0786,75.801,5,0.0
+709,5pyTW9ph8A0ZSx7hzpSNge,"Chris Pine,Billy Magnussen",Agony,0.912,0.449,152866,0.19,0.0,3,0.107,-13.93,1,0.0479,97.045,4,0.503
+710,0YEcPnfZXGtpPYMYpfP4oL,Stephen Sondheim,The Forbidden Tower,0.576,0.307,139813,0.18,0.83,4,0.332,-19.867,1,0.0321,80.976,4,0.0503
+711,1Qk79nWKvuwzrXi0leTzD5,Stephen Sondheim,May I Compare This Ear of Corn?,0.771,0.378,47453,0.0468,0.916,1,0.0947,-21.965,1,0.0446,136.042,3,0.0966
+712,0IlPSIiqKMTMH7JBjYDq1y,"Emily Blunt,James Corden",It Takes Two,0.86,0.566,149880,0.199,0.0,9,0.123,-15.847,1,0.073,78.089,4,0.569
+713,1qRkVGLGNnhmMzJ4JIfbU6,Stephen Sondheim,Two Midnights Gone,0.963,0.294,33826,0.358,0.614,7,0.0946,-10.348,1,0.0381,61.962,4,0.0385
+714,4tuSXQoFDE4VRurpbFpvge,Stephen Sondheim,One Day Left,0.43,0.25,58666,0.181,0.9,3,0.138,-17.614,1,0.0446,71.252,1,0.0777
+715,54JaBXvtIQU9lbpfy8Isdn,Meryl Streep,Stay With Me,0.961,0.39,194973,0.116,9.8e-06,3,0.274,-12.782,1,0.0446,105.921,4,0.323
+716,7esL6dmE2OcoQGRHLahHoh,Stephen Sondheim,Jack Chops Down the Beanstalk,0.926,0.391,82240,0.188,0.47,3,0.448,-16.813,1,0.0351,139.817,4,0.286
+717,1asUz79SLGtPkcwwFJSYGa,Anna Kendrick,On the Steps of the Palace,0.872,0.445,194320,0.172,6.62e-05,3,0.0858,-13.953,1,0.0768,178.02,4,0.367
+718,4AvWtPUTt5ZSctIAkPKPhS,Stephen Sondheim,She Won’t Get Far With One Shoe,0.347,0.214,58386,0.296,0.622,10,0.292,-14.532,1,0.0402,103.259,3,0.0374
+719,02A7O8jtoGdauiSSK0iPf6,Stephen Sondheim,Searching for Cinderella,0.879,0.295,66000,0.275,0.893,6,0.102,-12.608,1,0.0324,79.404,4,0.114
+720,6Lpv7lRmV7No6M6vL0H256,"Christine Baranski,Tammy Blanchard,Lucy Punch",Careful My Toe,0.915,0.665,70653,0.268,0.0,1,0.0828,-14.483,0,0.406,123.625,4,0.749
+721,78Gvh4O3v1szFpbmlgutXD,Stephen Sondheim,The Slipper Fits,0.725,0.197,72880,0.18,0.727,11,0.372,-20.216,1,0.0348,85.217,4,0.0565
+722,6o61GevljWJQZfRrac3y6i,Stephen Sondheim,Rapunzel's Tear,0.269,0.21,79826,0.0304,0.335,0,0.354,-29.222,0,0.0382,71.135,3,0.0389
+723,0cXMYcAe2CJDhCZdAbo5HY,Stephen Sondheim,This Cow Is Covered With Flour,0.928,0.147,49586,0.0149,0.339,0,0.119,-23.661,1,0.0406,143.484,3,0.0382
+724,4eGHKzdhLtxSbzXoRkTPpM,Stephen Sondheim,Almost Midnight,0.136,0.226,67280,0.203,0.46,0,0.0793,-18.814,1,0.0337,83.157,4,0.037
+725,3JWk69MUikAJXaaNrUKOOO,Stephen Sondheim,The Witch's Transformation,0.0779,0.246,97786,0.463,0.892,6,0.348,-11.976,0,0.0373,67.79,3,0.0341
+726,4pCEETRdoWZ4GAgGEzhUTa,Stephen Sondheim,Ever After - Instrumental,0.85,0.536,76213,0.356,0.807,0,0.356,-11.923,1,0.0338,119.0,4,0.698
+727,6CWCJbeLhKcE1OYqQw8Nop,Stephen Sondheim,Back Into the Woods,0.865,0.267,49573,0.0664,0.498,2,0.308,-33.552,1,0.042,74.558,4,0.0853
+728,5yhk4svzvobxZVcEHi0DBy,Stephen Sondheim,Find the Boy,0.239,0.11,91093,0.0099,0.66,3,0.344,-39.509,1,0.0356,70.126,3,0.0382
+729,5n8P10LPCAsFnTUYcEkdLC,Meryl Streep,Witch's Lament,0.961,0.23,75120,0.0508,0.000979,6,0.105,-22.154,1,0.0376,70.448,4,0.256
+730,4KMwGeo8UH9TbsPv1kuJaK,"Chris Pine,Emily Blunt",Any Moment,0.901,0.437,101066,0.116,4.22e-06,3,0.103,-20.488,1,0.0716,70.864,4,0.497
+731,637HaleBjkJtUDEWMGSIUo,Emily Blunt,Moments in the Woods,0.865,0.574,187813,0.171,0.0,2,0.282,-17.641,1,0.261,139.531,5,0.306
+732,3iQ9onZZFg0IfXoZUZne3q,"Daniel Huttlestone,James Corden,Lilla Crawford,Meryl Streep,Anna Kendrick",Your Fault,0.884,0.877,117106,0.405,0.0,9,0.107,-10.995,1,0.232,104.473,4,0.854
+733,4qnOxzNUfUfmsloijG5ex0,Meryl Streep,Last Midnight,0.829,0.469,214173,0.338,1.32e-06,1,0.12,-8.624,1,0.074,55.931,4,0.275
+734,7d3FoJt8NIaVDHk4Qf1fB0,Stephen Sondheim,No More - Instrumental,0.925,0.136,157293,0.0516,0.87,10,0.112,-23.457,1,0.036,100.493,4,0.0655
+735,7AqcCOd5JXGYBzYLwnu7ha,Stephen Sondheim,The Far Away Prince,0.923,0.0791,65293,0.0108,0.876,1,0.112,-30.367,1,0.0395,173.906,5,0.0558
+736,37BEajFxP7B1bOFPnBiwVd,"Anna Kendrick,James Corden,Lilla Crawford,Daniel Huttlestone",No One Is Alone,0.913,0.341,178186,0.0557,0.0,1,0.112,-19.018,1,0.0427,111.848,4,0.237
+737,7CUC6SA22fcYhaVIoYPbYm,Stephen Sondheim,The Giant Attack,0.389,0.355,131626,0.439,0.259,6,0.087,-10.477,0,0.0295,74.975,4,0.0861
+738,5GNwPO9DcyZTNmeCz8mkF6,"James Corden,Emily Blunt,Meryl Streep,Company - Into the Woods (Motion Picture Cast)",Finale/Children Will Listen (Pt. 1),0.867,0.294,210986,0.096,1.41e-05,3,0.0839,-19.786,0,0.0389,98.752,3,0.208
+739,4fAxtzjlFNcx4gkR7tXyy7,Company - Into the Woods (Motion Picture Cast),Finale/Children Will Listen (Pt. 2),0.85,0.607,104040,0.269,4.46e-05,1,0.0621,-14.593,1,0.0633,127.225,4,0.836
+740,1xI381jl7xEwn0HKsDorzT,Stephen Sondheim,Stay With Me - Instrumental,0.929,0.0713,157773,0.0175,0.89,3,0.167,-28.828,1,0.0395,68.869,3,0.0411
+741,0qJ5dmu8960mJtUqNjDITw,Stephen Sondheim,Last Midnight - Instrumental,0.614,0.123,227026,0.355,0.912,1,0.0859,-13.276,1,0.0574,74.569,4,0.106
+742,20BYbe5YqUMfybHKL7D8VJ,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Overture,0.805,0.449,145826,0.382,0.886,5,0.361,-6.466,0,0.0309,118.644,4,0.51
+743,4Bnohr6HkwHPyWKu8X60Wj,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Prologue,0.972,0.258,84293,0.324,0.000137,8,0.11,-11.767,1,0.0338,80.463,4,0.2
+744,3k9h9OIyUIwBYLQSFFl7EF,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),"Me, Who Am I?",0.823,0.646,144586,0.58,0.000114,10,0.104,-6.362,1,0.0536,97.511,4,0.806
+745,24zBA8d44hGGSvSBsOLEQs,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),In My Own Little Corner,0.924,0.485,197293,0.227,2.58e-06,5,0.0829,-8.849,1,0.0486,68.53,4,0.3
+746,5wzGqNwgcAlv3PBVKhO5sy,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),The Prince Is Giving a Ball / Now Is the Time,0.788,0.547,394933,0.637,2.84e-05,5,0.265,-5.8,1,0.0868,118.877,4,0.657
+747,5Pm2BVzi0IADcyNBo06tNv,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Exit music: Cinderella March,0.821,0.692,78933,0.572,0.397,0,0.113,-7.397,0,0.0439,116.661,4,0.957
+748,1D5dFpcarA49b3PWAtvKAQ,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),In My Own Little Corner (Reprise),0.912,0.599,219586,0.289,0.0,5,0.066,-12.138,0,0.234,100.407,3,0.474
+749,7sAYn5nNWNUIrqHxY40QEh,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Impossible,0.888,0.732,141533,0.334,0.0,8,0.379,-8.246,1,0.156,117.898,4,0.734
+750,36VisTCRzndqt7Y4WA8T9A,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Transformations,0.918,0.475,130026,0.276,0.000773,7,0.314,-9.227,1,0.0461,138.032,4,0.0969
+751,3a2GUzPj5DXaSv0mifDj19,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),It's Possible,0.888,0.613,85880,0.522,0.0,8,0.326,-5.87,1,0.0514,124.476,4,0.793
+752,0Xdmtw3GC8pMk06N63yVDj,"Santino Fontana,Laura Osnes",Ten Minutes Ago,0.903,0.428,172506,0.183,0.0,7,0.169,-11.503,1,0.042,76.472,4,0.244
+753,32Eo6YA2VgcxYMQ4Gjhlzl,Rodgers + Hammerstein's Cinderella Original Broadway Ensemble,Cinderella Waltz,0.852,0.193,144600,0.308,0.661,0,0.116,-7.888,1,0.0303,175.564,3,0.258
+754,319Aqjlekq5hIBfu3No0Re,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Ten Minutes Ago (Reprise),0.815,0.22,100453,0.565,0.000578,5,0.092,-7.447,1,0.0376,171.79,3,0.173
+755,5ypyRZfUx7xyH7TusIf7k2,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Stepsister's Lament,0.776,0.778,160400,0.572,3.84e-06,0,0.321,-7.032,1,0.0662,102.252,4,0.854
+756,17zxboDe3wSRP1VrRSbIZM,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),The Pursuit,0.836,0.532,266893,0.389,0.13,0,0.0466,-8.965,1,0.0358,138.567,4,0.341
+757,2YarzObKSPUvhKNY0lx8Lt,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),He Was Tall,0.896,0.385,90560,0.265,0.0,2,0.124,-12.081,1,0.0424,117.147,4,0.11
+758,1enBNgvEQsfmx6Z81b6yxl,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),When You're Driving Through the Moonlight,0.873,0.537,175506,0.295,0.0,2,0.248,-9.047,1,0.0456,117.429,4,0.332
+759,5NCiTuYKMKUZejhGKeZB1b,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),A Lovely Night,0.829,0.425,151613,0.48,0.0,7,0.272,-6.948,1,0.196,202.359,4,0.68
+760,2IDh6cbbBCYPO5EVbZmmCI,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),A Lovely Night (Reprise),0.93,0.512,49306,0.251,0.0,6,0.143,-10.665,1,0.0581,110.48,5,0.481
+761,0pWONlpgwdo0dOBteQWCog,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Loneliness of Evening,0.918,0.314,113373,0.382,0.000891,3,0.295,-6.649,1,0.0331,92.971,4,0.238
+762,32QT1iyifmr7qGnjBQCwma,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Announcing the Banquet,0.809,0.639,86800,0.638,0.000229,3,0.194,-6.561,1,0.347,119.28,4,0.457
+763,1vXPmiBJwdlw3kMHB6zKGA,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),There's Music in You,0.979,0.227,194346,0.323,3.47e-06,0,0.224,-7.426,1,0.0374,180.487,3,0.0733
+764,0pahJPeORrlSDHcbd7evQB,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),Do I Love You Because You're Beautiful,0.945,0.354,157760,0.225,3.24e-06,4,0.272,-8.894,0,0.037,67.668,4,0.104
+765,4uochVdibmy77NVhRpjwth,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),The Shoe Fits,0.852,0.467,92560,0.403,0.0121,3,0.278,-9.287,1,0.194,123.68,4,0.147
+766,0Ze0VOCx2HSbOKDykrBEPw,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),The Proposal,0.881,0.552,67906,0.329,4.37e-05,5,0.0902,-6.48,1,0.0424,112.537,3,0.536
+767,3KxgOMhkX4OKPdgAmhQJh1,Rodgers + Hammerstein's Cinderella (Original Broadway Cast),The Wedding: There's Music In You,0.945,0.288,170453,0.632,9.62e-05,5,0.162,-6.186,1,0.0389,118.43,4,0.301
+768,2MPDYUvtXgRAHzr6dJzTxq,"Danny Burstein,Jacqueline B. Arnold,Robyn Hurder,Holly James,Jeigh Madjus,Tam Mutu,Aaron Tveit,Sahr Ngaujah,Ricky Rojas,Original Broadway Cast of Moulin Rouge! The Musical",Welcome To The Moulin Rouge!,0.00291,0.461,460560,0.838,0.00359,7,0.105,-5.101,1,0.171,117.502,4,0.593
+769,3A1wDzh80odSP8vTGIWKL1,"Sahr Ngaujah,Ricky Rojas,Aaron Tveit,Original Broadway Cast of Moulin Rouge! The Musical",Truth Beauty Freedom Love,0.0713,0.634,174266,0.639,2.75e-06,2,0.332,-6.087,1,0.0433,90.001,4,0.625
+770,4zDm0Olw94w1JUUKdcdKSR,"Danny Burstein,Karen Olivo,Jacqueline B. Arnold,Original Broadway Cast of Moulin Rouge! The Musical,Robyn Hurder,Holly James,Jeigh Madjus,Tam Mutu,Aaron Tveit,Sahr Ngaujah,Ricky Rojas",The Sparkling Diamond,0.0305,0.459,278946,0.799,1.25e-06,6,0.318,-5.356,0,0.134,109.111,4,0.368
+771,0Wf6n5vnawBcIsqehqUkeT,"Aaron Tveit,Karen Olivo,Sahr Ngaujah,Ricky Rojas,Original Broadway Cast of Moulin Rouge! The Musical",Shut Up And Raise Your Glass,0.00769,0.693,162093,0.799,2e-06,0,0.14,-4.971,1,0.0373,128.032,4,0.595
+772,70f9b6hWRsl3zchFyXzSzG,"Karen Olivo,Original Broadway Cast of Moulin Rouge! The Musical",Firework,0.463,0.474,163773,0.358,0.0,7,0.146,-8.103,1,0.0623,113.597,4,0.11
+773,3iIxdHdkq3Z6t7SJNKUQf5,"Aaron Tveit,Karen Olivo,Original Broadway Cast of Moulin Rouge! The Musical",Your Song,0.602,0.458,188693,0.325,1.52e-05,4,0.308,-8.419,1,0.0391,134.694,4,0.223
+774,1fhbrADKIrUd90jrfSLAaw,"Tam Mutu,Aaron Tveit,Karen Olivo,Danny Burstein,Sahr Ngaujah,Ricky Rojas,Original Broadway Cast of Moulin Rouge! The Musical",So Exciting! (The Pitch Song),0.468,0.555,208053,0.542,0.0,5,0.153,-6.839,1,0.387,98.343,3,0.641
+775,54YkZM6qqTjeOhb4KBos9J,"Tam Mutu,Karen Olivo,Original Broadway Cast of Moulin Rouge! The Musical",Sympathy For The Duke,0.326,0.664,149226,0.582,0.0,3,0.0613,-6.94,1,0.0695,108.161,4,0.423
+776,546suJrCUK3Lp6PYMvfapn,"Sahr Ngaujah,Aaron Tveit,Original Broadway Cast of Moulin Rouge! The Musical",Nature Boy,0.6,0.348,159040,0.208,0.00152,0,0.166,-11.455,0,0.0282,88.814,4,0.187
+777,5JRgVMONxTRjC1g1d0XsvX,"Aaron Tveit,Karen Olivo,Original Broadway Cast of Moulin Rouge! The Musical",Elephant Love Medley,0.349,0.397,325293,0.62,0.0,3,0.108,-4.904,1,0.0726,143.53,4,0.378
+778,6E0Gc6lAZ3AzDsWoldmHRC,"Ricky Rojas,Robyn Hurder,Original Broadway Cast of Moulin Rouge! The Musical",Backstage Romance,0.00504,0.4,322880,0.599,0.000344,0,0.389,-7.234,0,0.0597,127.671,4,0.329
+779,0Ab8W397VjR2ZNVkItDjSO,"Aaron Tveit,Karen Olivo,Original Broadway Cast of Moulin Rouge! The Musical",Come What May,0.113,0.392,196893,0.421,8.88e-05,7,0.108,-7.1,1,0.0326,154.158,4,0.217
+780,2ggMaRfyC8Sb2tUV1miHqT,"Tam Mutu,Karen Olivo,Original Broadway Cast of Moulin Rouge! The Musical",Only Girl In A Material World,0.075,0.671,180480,0.731,0.0,11,0.132,-5.546,0,0.0769,124.986,4,0.405
+781,5uuhyA2Zym0sh8GI8Rl3nF,"Danny Burstein,Ricky Rojas,Sahr Ngaujah,Aaron Tveit,Jacqueline B. Arnold,Holly James,Jeigh Madjus,Original Broadway Cast of Moulin Rouge! The Musical",Chandelier,0.00197,0.482,185693,0.762,0.0,0,0.0793,-6.229,1,0.202,174.064,4,0.388
+782,70XYXbSf4g5IfnDJ13se9L,"Aaron Tveit,Danny Burstein,Original Broadway Cast of Moulin Rouge! The Musical,Ricky Rojas,Sahr Ngaujah,Jacqueline B. Arnold,Holly James,Jeigh Madjus",El Tango De Roxanne,0.00279,0.53,217280,0.904,3e-05,9,0.0819,-4.555,0,0.0531,117.05,4,0.362
+783,6pOp190Velj9UdfdfCiqlI,"Aaron Tveit,Karen Olivo,Original Broadway Cast of Moulin Rouge! The Musical",Crazy Rolling,0.273,0.702,313933,0.686,1.14e-06,0,0.0813,-5.812,0,0.0744,110.987,4,0.164
+784,3Lkk3DbtKNu3A5yEaio6IE,"Karen Olivo,Sahr Ngaujah,Aaron Tveit,Original Broadway Cast of Moulin Rouge! The Musical",Your Song Reprise,0.855,0.36,158133,0.255,2.56e-06,2,0.213,-11.475,1,0.0375,123.505,4,0.237
+785,15WMlUoRLfIs4hSoDiDI9M,"Aaron Tveit,Original Broadway Cast of Moulin Rouge! The Musical",Finale (Come What May),0.801,0.335,163373,0.243,8.73e-05,9,0.0883,-9.347,1,0.0369,133.037,4,0.145
+786,5ByTSN9402oBlZ2E0IwjX3,"Danny Burstein,Jacqueline B. Arnold,Robyn Hurder,Holly James,Jeigh Madjus,Ricky Rojas,Tam Mutu,Sahr Ngaujah,Original Broadway Cast of Moulin Rouge! The Musical",More More More! (Encore),0.044,0.465,233186,0.884,1.5e-05,7,0.346,-3.881,1,0.182,140.138,4,0.74
+787,03CsRx9DcOWERqxTSutzb4,"The Oliver! 1994"" Orchestra""",Prologue,0.396,0.286,73333,0.254,0.812,1,0.0945,-17.03,1,0.0384,72.628,3,0.04
+788,2PO9JPXbEjd1DRbSetQqAH,"The Oliver! 1994"" Kids Ensemble""","Food, Glorious Food",0.827,0.406,211866,0.26,0.0,10,0.148,-15.694,1,0.068,162.827,4,0.255
+789,37tNfJsLcTzJ6U9pmDLH3i,"James Saxon,Jenny Galloway,The Oliver! 1994"" Kids Ensemble""",Oliver!,0.883,0.608,191600,0.3,0.0,0,0.11,-15.159,0,0.472,106.114,4,0.55
+790,2KyzMDSaxRtScRLmQQgHsb,"The Oliver! 1994"" Orchestra""",Widow Corney's Parlour,0.781,0.711,22640,0.0852,0.0,1,0.608,-24.877,0,0.804,71.541,3,0.688
+791,4BtdWtl77yx9IT5wgPaHTR,"James Saxon,Jenny Galloway",I Shall Scream!,0.747,0.638,159866,0.233,0.0,0,0.414,-17.259,1,0.755,121.953,3,0.648
+792,557ftXLBNK08l9yYp1gcTW,"James Saxon,Jenny Galloway",Boy For Sale,0.937,0.184,124933,0.0835,0.00013,9,0.091,-20.826,0,0.0405,173.145,4,0.156
+793,6fuAtohuyjZakT0Wc3cWe9,"David Delve,Julia Deakin,James Saxon",That's Your Funeral,0.679,0.731,159693,0.279,0.0,4,0.668,-16.891,0,0.551,91.142,4,0.584
+794,5t1gagF7Sg0dEGqoTVYYuF,"Julia Deakin,Gregory Bradley",Where Is Love?,0.947,0.127,215600,0.0409,5.56e-05,0,0.0794,-23.782,1,0.0522,71.349,4,0.0554
+795,6gnJzh5P4k6eil8zQsM6pN,"Gregory Bradley,The Oliver! 1994"" Orchestra""",Oliver's Escape,0.878,0.472,56333,0.236,0.451,1,0.304,-20.942,0,0.186,81.015,3,0.266
+796,35MxpGhSoINY2YyvI74HdI,"Adam Searles,Gregory Bradley,The Oliver! 1994"" Company""",Consider Yourself,0.624,0.564,340973,0.283,0.0,0,0.52,-13.373,1,0.0456,133.578,4,0.669
+797,1fJgFKhCTQfP0TvnuhTJl3,Jonathan Pryce,You've Got To Pick A Pocket Or Two,0.811,0.651,185466,0.229,0.0,7,0.343,-15.945,0,0.421,93.73,4,0.688
+798,53FbyXIaVycONfi4UuGhx8,"Jonathan Pryce,The Oliver! 1994"" Kids Ensemble""",Rum Tum Tum,0.88,0.495,42626,0.102,0.0,5,0.686,-22.793,0,0.418,170.883,4,0.789
+799,5qlqqIe6SNL08m10ovUlbo,"Sally Dexter,Rosalind James,The Oliver! 1994"" Kids Ensemble""",It's A Fine Life,0.775,0.504,218600,0.222,0.0,8,0.323,-14.014,1,0.0753,172.158,4,0.704
+800,0xYNR71di8sI0iqVK1D6lq,"Sally Dexter,Rosalind James,Adam Searles,Gregory Bradley,Jonathan Pryce",I'd Do Anything,0.782,0.733,163933,0.158,0.0,2,0.195,-15.298,0,0.0643,82.502,4,0.803
+801,2zxGzCLH5xpLsSFFOceaUU,"Jonathan Pryce,The Oliver! 1994"" Kids Ensemble""",Be Back Soon,0.672,0.686,199373,0.25,0.0,0,0.391,-16.824,1,0.103,117.761,4,0.778
+802,3gjkLCtvEQIs0k7y04jeKW,"James Saxon,The Oliver! 1994"" Orchestra""",The Robbery,0.805,0.388,58400,0.309,0.0213,9,0.0988,-17.059,1,0.0434,82.22,4,0.912
+803,0XzCtF4PkSKsvVVf8COixQ,"Sally Dexter,The Oliver! 1994"" Company""",Oom-Pah-Pah,0.679,0.393,221693,0.414,0.0,9,0.958,-14.347,1,0.108,183.014,3,0.659
+804,50tdoCH8lpqRz73A2onjGr,Miles Anderson,My Name!,0.746,0.584,164773,0.13,4e-05,2,0.0984,-16.227,1,0.0568,112.71,4,0.0774
+805,5U08WCE89uN4otg1RJvfep,Sally Dexter,As Long As He Needs Me,0.887,0.293,196066,0.044,0.0,4,0.0775,-15.99,1,0.0386,124.767,3,0.143
+806,7zzTIKBgolgyXa0NnHn6gF,Carmel McSharry,Where Is Love? - Reprise,0.976,0.134,99466,0.0249,0.673,3,0.18,-25.391,1,0.0406,153.583,3,0.11
+807,6F1iZOdPg75LduMKDTwG3w,"Gregory Bradley,The Oliver! 1994"" Company""",Who Will Buy?,0.938,0.273,270160,0.0831,0.0,0,0.0844,-19.467,0,0.0471,78.572,4,0.215
+808,4qXGNrS09CH3F9zvzcs6ev,"Sally Dexter,Jonathan Pryce,Adam Searles,Miles Anderson",It's a Fine Life - Reprise,0.758,0.733,98706,0.264,0.0,0,0.268,-15.524,1,0.416,98.236,4,0.671
+809,3WxFE1Sj8GpxGJ3O0uBntD,Jonathan Pryce,Reviewing The Situation,0.829,0.496,293533,0.26,0.0,5,0.445,-15.272,1,0.388,84.298,4,0.324
+810,3yJ4D52clg8Pmpgd6yZrQk,"James Saxon,Jenny Galloway",Oliver! - Reprise,0.828,0.692,51693,0.302,0.0,2,0.114,-14.933,0,0.855,110.714,4,0.968
+811,777fdDzNzZJ4IHtCdvjona,"Sally Dexter,James Saxon",As Long As He Needs Me - Reprise,0.868,0.297,136506,0.156,0.0,5,0.22,-13.349,1,0.0345,146.446,1,0.116
+812,4tmJysVn5PD0igFplKPjLd,Jonathan Pryce,Reviewing the Situation - Reprise,0.694,0.418,63533,0.084,0.00392,5,0.289,-17.078,0,0.0422,83.324,5,0.16
+813,7o3DV1szMH5Fd38f1QwgPO,Andrew Lloyd Webber,Overture - From 'The Phantom Of The Opera' Motion Picture,0.000596,0.295,167066,0.41,0.0276,11,0.101,-12.014,1,0.0443,121.398,4,0.312
+814,6eJ0qhctR7doDBkS9SL9cy,"Andrew Lloyd Webber,Emmy Rossum,Patrick Wilson",Think Of Me - From 'The Phantom Of The Opera' Motion Picture,0.943,0.349,220826,0.101,0.0,3,0.0798,-20.304,1,0.0387,100.857,3,0.306
+815,5o0xOQhYxr3KqYn4cRE6Ed,"Andrew Lloyd Webber,Gerard Butler,Jennifer Ellison,Emmy Rossum",Angel Of Music - From 'The Phantom Of The Opera' Motion Picture,0.954,0.296,163666,0.0401,0.0,10,0.134,-24.383,1,0.0431,101.583,5,0.288
+816,5PRz8hvi9y6S36WIreol1U,"Andrew Lloyd Webber,Gerard Butler,Emmy Rossum",The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture,0.843,0.284,119386,0.12,7.6e-06,9,0.139,-20.534,1,0.0389,125.208,5,0.195
+817,4EaBMhUIOfnFEbIgqCfKbi,"Andrew Lloyd Webber,Gerard Butler,Emmy Rossum",The Phantom Of the Opera - From 'The Phantom Of The Opera' Motion Picture,0.168,0.444,216133,0.608,3.36e-06,2,0.118,-12.175,0,0.0532,119.985,4,0.354
+818,5byUll2f3Zgnli3wJPoKRL,"Andrew Lloyd Webber,Gerard Butler",The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture,0.844,0.169,342026,0.0722,2.47e-05,1,0.114,-19.226,1,0.0393,46.168,4,0.113
+819,5KES6ut3LAZxmgSOX0ijex,"Andrew Lloyd Webber,Patrick Wilson,Miranda Richardson,Simon Callow,Ciaran Hinds,Victor Mcguire,Jennifer Ellison,Emmy Rossum",Prima Donna - From 'The Phantom Of The Opera' Motion Picture,0.914,0.267,209733,0.268,0.0,5,0.163,-17.37,1,0.0431,103.296,4,0.405
+820,5klrh466oGToybceGHPGAX,"Andrew Lloyd Webber,Patrick Wilson,Emmy Rossum",All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture,0.854,0.194,294160,0.119,0.000737,1,0.109,-20.926,1,0.0398,85.698,3,0.14
+821,4titeJBfHyKYiYe0SKzyT7,"Andrew Lloyd Webber,Gerard Butler,Patrick Wilson,Emmy Rossum",All I Ask Of You - Reprise / From 'The Phantom Of The Opera' Motion Picture,0.891,0.122,136453,0.0822,0.00631,0,0.0893,-18.963,1,0.0379,87.438,4,0.0789
+822,61zSTvYuEWrj0ZfllX7Aew,"Andrew Lloyd Webber,Cast Of The Phantom Of The Opera"" Motion Picture""",Masquerade - From 'The Phantom Of The Opera' Motion Picture,0.61,0.263,331533,0.319,0.0,0,0.217,-16.357,1,0.0465,74.439,4,0.355
+823,6axlN6wdRRrzElmyPXuGIC,"Andrew Lloyd Webber,Emmy Rossum",Wishing You Were Somehow Here Again - From 'The Phantom Of The Opera' Motion Picture,0.936,0.219,222946,0.0617,4.13e-05,5,0.106,-23.181,1,0.0445,83.273,5,0.071
+824,1eFXVUWd8Dc8bTfbKzTntz,"Andrew Lloyd Webber,Gerard Butler,Emmy Rossum",The Point Of No Return - From 'The Phantom Of The Opera' Motion Picture,0.771,0.286,480960,0.15,0.0,1,0.671,-18.607,1,0.042,127.714,1,0.103
+825,5i7onLU8iJDQdc8V1A7NbR,"Andrew Lloyd Webber,Gerard Butler,Patrick Wilson,Emmy Rossum",Medley: Down Once More / Track Down This Murderer - From 'The Phantom Of The Opera' Motion Picture,0.672,0.302,768640,0.11,0.0,1,0.362,-19.595,1,0.0486,107.384,3,0.0666
+826,3LpvO6PZRuQ0OeFL1LQwtB,"Andrew Lloyd Webber,Minnie Driver",Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture,0.796,0.227,141466,0.0813,0.0,10,0.179,-21.126,1,0.0317,175.838,4,0.151
+827,590iVyz1pnmaIO4MwJ9Kba,"Hugh Jackman,Russell Crowe,Convicts",Look Down,0.898,0.379,196680,0.377,1.16e-06,10,0.128,-11.951,1,0.184,152.624,4,0.375
+828,7imeq3a7WVP7K5MGXX8E6W,Colm Wilkinson,The Bishop,0.767,0.441,94893,0.123,0.0,9,0.427,-20.419,0,0.134,124.669,5,0.445
+829,40TItYzvrpWKvFocs6BoSt,Hugh Jackman,Valjean's Soliloquy,0.805,0.355,198706,0.269,0.0,8,0.265,-14.556,1,0.118,67.663,3,0.279
+830,1kWxETqMxvlzbQk1kbPdi3,"Hugh Jackman,Anne Hathaway,The Factory Girls,Les Misérables Cast",At The End Of The Day,0.828,0.555,266773,0.394,0.0,5,0.682,-12.528,0,0.286,120.633,4,0.569
+831,0qtgSBmWmiteW6Lct9bdUp,"Anne Hathaway,Les Misérables Cast",The Docks (Lovely Ladies),0.866,0.678,243853,0.129,0.0,2,0.0772,-16.346,0,0.409,77.56,4,0.375
+832,2rPbBONzBW14kNvVF9Qy7E,Anne Hathaway,I Dreamed A Dream - From Les Misérables,0.94,0.274,277533,0.0742,2.37e-05,10,0.0869,-17.234,1,0.0456,93.48,4,0.15
+833,67SFFVYCjN1BtpwS2aQrXt,"Anne Hathaway,Hugh Jackman,Russell Crowe",Fantine’s Arrest,0.884,0.462,119946,0.108,0.0,5,0.429,-15.684,1,0.0646,83.496,4,0.202
+834,2DBxiSaoia7lCQGdcGdRCk,Hugh Jackman,Who Am I? - From Les Miserables'',0.81,0.374,157453,0.303,0.0,8,0.192,-13.184,1,0.0848,77.537,1,0.182
+835,3naCSnn6s2ymvX973Gyo1H,"Anne Hathaway,Hugh Jackman",Fantine’s Death,0.939,0.345,172013,0.0238,1.52e-05,5,0.113,-23.834,1,0.0455,93.045,3,0.178
+836,475S27yI5vt0UoiQJjpvSX,"Hugh Jackman,Russell Crowe",The Confrontation,0.781,0.404,114986,0.524,0.0,10,0.214,-11.051,1,0.143,85.569,4,0.458
+837,631kyE9HXj54yvg3mBrM38,Isabelle Allen,Castle On A Cloud,0.907,0.403,71600,0.0588,0.0,9,0.3,-22.724,0,0.0589,120.689,5,0.409
+838,2mWmhLvwRqhoKgdXpqJVKm,"Sacha Baron Cohen,Helena Bonham Carter,Les Misérables Cast",Master Of The House,0.849,0.47,288520,0.244,0.0,2,0.722,-13.412,1,0.206,82.749,4,0.554
+839,32fzbjhP5qyp2EWcLELdnB,"Isabelle Allen,Hugh Jackman,Helena Bonham Carter,Sasha Baron Cohen",The Bargain,0.794,0.393,204826,0.186,0.0,11,0.06,-18.916,1,0.116,172.051,5,0.304
+840,4bYpVUNbcYLg44FMHvy3zs,Hugh Jackman,Suddenly,0.918,0.366,152466,0.123,5.53e-06,7,0.103,-21.941,1,0.148,74.849,4,0.143
+841,5zqiIVhvRJMiHgsXHkMLRb,"Hugh Jackman,Les Misérables Cast",The Convent,0.969,0.184,52853,0.0361,7.3e-06,11,0.0888,-21.904,0,0.0423,77.445,4,0.04
+842,3YvgdC5WnZY8lTGcr6eeE6,Russell Crowe,Stars,0.947,0.26,165640,0.12,9.08e-06,1,0.467,-15.86,1,0.0324,69.882,4,0.228
+843,3FDgyoihtv2UCVrcrKqZab,"Daniel Huttlestone,Aaron Tveit,Eddie Redmayne,Students,Les Misérables Cast",Paris / Look Down,0.658,0.464,193573,0.545,0.0,5,0.857,-9.393,0,0.0743,85.325,4,0.599
+844,1YeaULNZz6V4DiL4POEhsy,"Sasha Baron Cohen,Helena Bonham Carter,Hugh Jackman,Samantha Barks,Russell Crowe,Les Misérables Cast",The Robbery,0.836,0.495,171706,0.26,0.0,10,0.164,-13.84,0,0.192,81.956,3,0.534
+845,708bILUWqNTwAHppLqfD6R,"Eddie Redmayne,Aaron Tveit,Students",ABC Café / Red & Black,0.905,0.465,261120,0.202,0.0,11,0.275,-13.428,1,0.0497,111.635,3,0.366
+846,2RKd9eSfZchlXdHXtkWd73,"Amanda Seyfried,Eddie Redmayne,Samantha Barks,Hugh Jackman",In My Life,0.935,0.458,256773,0.0887,0.0,2,0.0887,-18.558,1,0.0897,80.076,3,0.225
+847,5fiQw6cyrsRqU93AGCZ7um,"Eddie Redmayne,Amanda Seyfried,Samantha Barks",A Heart Full Of Love,0.974,0.246,121080,0.0987,5.78e-05,10,0.108,-19.41,1,0.0412,169.452,4,0.181
+848,1VVyW3Dl9LaCAcPIhygo9A,Samantha Barks,On My Own,0.888,0.303,191066,0.116,0.0,0,0.144,-15.723,1,0.0552,85.473,5,0.196
+849,4hIPVoHpk0pICSvbfl8hb7,Les Misérables Cast,One Day More,0.845,0.376,221933,0.269,0.0,9,0.0795,-11.951,1,0.0315,86.022,4,0.289
+850,03m03OVQGPuzt8Rw2r0a7t,"Aaron Tveit,Eddie Redmayne,Students,Les Misérables Cast",Do You Hear The People Sing?,0.891,0.385,123160,0.393,0.0,0,0.104,-10.326,1,0.0385,78.843,4,0.541
+851,0Aa3dkQqQ3MuSfOELIqcw8,"Aaron Tveit,Eddie Redmayne,Russell Crowe,Students,Les Misérables Cast",Building The Barricade,0.722,0.309,103600,0.698,0.000461,11,0.403,-7.519,1,0.0687,107.572,4,0.571
+852,1hGfuJluAR9J52wLBKU0lA,"Russell Crowe,Aaron Tveit,Daniel Huttlestone,Students",Javert At The Barricade,0.668,0.597,105040,0.294,0.0,4,0.301,-14.367,0,0.854,120.598,4,0.776
+853,0rNjjuvW7ZE1q9qRfhKdoh,"Eddie Redmayne,Hadley Fraser,Students",The First Attack,0.589,0.381,81040,0.3,0.000666,4,0.386,-12.394,0,0.0905,57.019,3,0.19
+854,6pc9oSf0MQUOehupUpy3C9,"Eddie Redmayne,Samantha Barks",Little Fall Of Rain,0.942,0.412,152000,0.0154,0.0,6,0.0975,-28.054,1,0.0871,86.056,4,0.144
+855,5pyPkgIBbYlavHoBDc6IKK,"Aaron Tveit,Eddie Redmayne,Daniel Huttlestone,Students",Drink With Me,0.909,0.419,102066,0.0408,0.0,5,0.0839,-21.791,1,0.047,129.267,3,0.259
+856,1WjRkMkNIjVPTleciR0b9v,Hugh Jackman,Bring Him Home,0.917,0.205,217760,0.155,3.22e-06,9,0.369,-16.455,1,0.0357,153.396,3,0.0984
+857,4PObGheFnHd0ZLoStK0oP7,"Aaron Tveit,Daniel Huttlestone,Students",The Death Of Gavroche,0.759,0.571,165453,0.205,0.0,0,0.745,-18.038,0,0.599,82.994,4,0.134
+858,2m9tNauf8GNtLcJrweoBCU,"Aaron Tveit,Hadley Fraser,Students",The Final Battle,0.286,0.226,186866,0.629,0.513,11,0.209,-8.461,0,0.0717,108.888,4,0.0742
+859,4SNf2cfMUFpKvB9XJpJbm4,"Sasha Baron Cohen,Hugh Jackman",The Sewers,0.564,0.312,143253,0.265,0.000789,8,0.19,-11.854,1,0.0373,169.232,1,0.174
+860,5HKh5X09ZjdlLe2lChblTX,Russell Crowe,Javert's Suicide,0.682,0.417,175493,0.336,0.0,6,0.348,-14.455,0,0.0858,106.928,5,0.234
+861,2U8wCwUZdZeRbAorZwRabQ,Les Misérables Cast,Turning,0.959,0.541,38466,0.0918,5.39e-05,8,0.125,-22.509,1,0.127,113.139,3,0.453
+862,4DhKyhfimIJU6k4gvme5wA,Eddie Redmayne,Empty Chairs At Empty Tables,0.944,0.299,191213,0.0656,1.89e-05,3,0.0943,-18.002,0,0.0553,170.381,3,0.115
+863,0Bw48mvpChsxrRfmmcBxRC,"Amanda Seyfried,Hugh Jackman,Eddie Redmayne,Patrick Godfrey",A Heart Full Of Love - Reprise,0.979,0.287,90026,0.0677,0.0,4,0.155,-21.389,1,0.0399,158.453,3,0.297
+864,3DEb7foh3tWiDYbPlkTm6h,"Hugh Jackman,Eddie Redmayne",Valjean’s Confession,0.863,0.41,137000,0.11,0.0,8,0.306,-20.603,1,0.0718,132.489,4,0.182
+865,2zdrN7IjXtLlVUExe5J6dj,"Eddie Redmayne,Amanda Seyfried",Suddenly - Reprise,0.876,0.404,54000,0.0451,0.000151,3,0.281,-23.467,1,0.0424,82.061,4,0.192
+866,72f4NibBcMI67zJzh4P3U1,"Sasha Baron Cohen,Helena Bonham Carter,Eddie Redmayne,Les Misérables Cast",The Wedding,0.678,0.378,122373,0.225,0.0,4,0.61,-12.9,0,0.163,167.392,5,0.118
+867,4n3jSmGb5UZCmyHrm2XCKE,"Sasha Baron Cohen,Helena Bonham Carter",Beggars At The Feast,0.752,0.487,29066,0.523,0.0,11,0.148,-7.713,0,0.0742,86.182,4,0.965
+868,3jJErCGUo7tYc3h9CqJ9Nm,Les Misérables Cast,Epilogue,0.951,0.272,504546,0.0608,0.0,4,0.112,-20.445,1,0.0506,78.6,4,0.117
+869,4yAIOjD3hlQMdqGYaWVwox,"Jeff Edgerton,Don Chastain,Parade Ensemble",Prologue: The Old Red Hills Of Home,0.629,0.37,393026,0.435,0.000291,10,0.199,-11.125,1,0.0334,91.692,3,0.365
+870,5JfAvPLIxjBedqsysPp2wK,Parade Ensemble,Anthem: The Dream of Atlanta,0.579,0.503,30440,0.788,0.0,11,0.678,-7.528,0,0.0387,138.547,3,0.78
+871,3VdqPC4Br395dR4qf3ngZF,"Brent Carver,John Hickok,Parade Ensemble",How Can I Call This Home?,0.808,0.466,171666,0.342,5.52e-06,2,0.261,-11.227,1,0.0596,69.316,3,0.453
+872,1EA80cwy6WJzssAfOZLlof,"Kirk McDonald,Christy Carlson Romano",The Picture Show,0.554,0.536,112826,0.443,0.0,10,0.418,-12.919,0,0.512,200.568,4,0.773
+873,77YxI0qJlF4vItcmZNC2Vz,"Brent Carver,Carolee Carmello,Christy Carlson Romano",Leo at Work / What Am I Waiting For?,0.812,0.31,161506,0.216,0.0,0,0.211,-13.904,0,0.0488,90.383,5,0.342
+874,2H1M0BDAI0jeAD4c1jcPmN,"Ray Aranha,Brent Carver,Peter Samuel,Jessica Molaskey,Randy Redd",Interrogation: I'm trying to remember...,0.736,0.592,122760,0.151,0.0,8,0.107,-19.046,1,0.303,75.106,3,0.287
+875,4HZ5twAepouJNwWlr60pu0,Evan Pappas,Big News!,0.651,0.547,185440,0.612,0.0,0,0.339,-7.89,1,0.094,102.353,4,0.47
+876,5R8Z60I2eeaVDXNHl6Gp8q,"Kirk McDonald,Brooke Sunny Moriber,Randy Redd,Abbi Hutcherson,Emily Klein,Robin Skye,Evan Pappas,Parade Ensemble",Funeral: There Is a Fountain / It Don't Make Sense,0.872,0.346,357026,0.284,7.28e-05,10,0.0909,-10.325,1,0.032,103.087,4,0.162
+877,27XE7IEUNNW3vwyfdJSJpQ,"Evan Pappas,Bill Szobody,Emily Klein,Randy Redd,Anne Torsiglieri,J.C. Montgomery,Don Stephenson,Herndon Lackey,Rufus Bonds, Jr.",Real Big News,0.744,0.555,222333,0.645,0.0,9,0.657,-8.578,0,0.208,127.002,4,0.748
+878,0RuWBmJgd6VXAGVx0kYIgo,Carolee Carmello,You Don't Know This Man,0.911,0.443,132000,0.267,0.000356,0,0.111,-11.761,0,0.0461,88.715,4,0.108
+879,1Vo4MyMm0KpRGcq4xSsOzc,"Jeff Edgerton,John Leslie Wolfe,Parade Ensemble",People of Atlanta,0.674,0.502,56106,0.624,1.5e-06,5,0.784,-9.285,1,0.0399,98.054,4,0.784
+880,5xxm4Yx2ptFoHVn7PlGh2E,Herndon Lackey,Twenty Miles from Marietta,0.901,0.428,70426,0.401,0.00415,0,0.852,-12.299,0,0.0912,105.529,3,0.404
+881,0pRYcqTdmPII6otPGARDYW,"Kirk McDonald,Christy Carlson Romano,Herndon Lackey",Frankie's Testimony,0.871,0.634,76306,0.146,0.0,0,0.3,-16.327,0,0.0879,56.623,3,0.288
+882,2yPJuAGJMBnhCJO3XlDifH,"Brooke Sunny Moriber,Emily Klein,Abbi Hutcherson,Brent Carver,Herndon Lackey",The Factory Girls / Come Up to My Office,0.691,0.406,237933,0.427,5.87e-05,1,0.151,-9.68,0,0.064,102.412,4,0.129
+883,6Fhxcn36pGqC8OesyZzBdb,"Jessica Molaskey,Herndon Lackey",My Child Will Forgive Me,0.939,0.345,156066,0.0617,0.0,0,0.0977,-18.249,1,0.0415,87.791,1,0.399
+884,3ovObYKO7Gedu2kvPs4mst,"Rufus Bonds, Jr.,Herndon Lackey,J.B. Adams,Parade Ensemble",That's What He Said,0.673,0.72,229693,0.595,0.0,9,0.561,-9.117,1,0.398,122.706,4,0.72
+885,1L5N8gNwYHRiJFzHDocJgC,Brent Carver,Leo's Statement: It's hard to speak my heart...,0.934,0.295,164066,0.124,0.0163,9,0.0936,-15.806,1,0.0439,83.077,3,0.108
+886,3KYxWpoGo0htDbeFNyljvf,"Herndon Lackey,Don Chastain,Jeff Edgerton,Parade Ensemble",Summation & Cakewalk,0.856,0.39,138840,0.409,0.132,6,0.425,-9.926,0,0.0498,182.806,4,0.583
+887,6YpaMuctxJBZ1NPNCr16RV,"J.C. Montgomery,Angela Lockett,Ray Aranha,Rufus Bonds, Jr.",A Rumblin' and a Rollin',0.758,0.663,208466,0.621,2.57e-05,9,0.106,-8.273,0,0.109,76.831,4,0.465
+888,0KKKVYZtCjCwXQdszKBChA,"Carolee Carmello,Brent Carver",Do It Alone,0.854,0.51,133826,0.278,0.0,2,0.13,-11.287,1,0.0327,36.542,4,0.398
+889,19hHYXNfJJvX7eh7CBV9td,John Hickok,Pretty Music,0.724,0.667,136200,0.398,1.52e-06,7,0.0751,-10.885,1,0.0624,93.897,4,0.749
+890,5SkNtV2heFVKDSZRK9kKzx,Don Chastain,Letter to the Governor,0.975,0.498,105466,0.121,3.44e-05,3,0.114,-15.142,0,0.0388,78.511,3,0.319
+891,5liq0Nktp2G30qH5msvBU4,"Brent Carver,Carolee Carmello",This Is Not Over Yet,0.832,0.489,169573,0.389,0.0,9,0.332,-10.07,1,0.0785,132.427,4,0.785
+892,0jwP7JSkYq1Y4tnrtr2D4m,"Rufus Bonds, Jr.,Rob Ashford,Will Gartshore,J.C. Montgomery,Randy Redd,Bill Szobody,John Hickok,Don Stephenson",Blues: Feel the Rain Fall,0.84,0.481,238226,0.449,0.0,2,0.662,-10.417,0,0.662,175.288,3,0.426
+893,6YxnU1HSgBzFFEYeBKF2Bq,"John Leslie Wolfe,Herndon Lackey,John Hickok,Evan Pappas,Parade Ensemble",Where Will You Stand When the Flood Comes?,0.812,0.384,223106,0.617,1.66e-05,9,0.0491,-8.442,1,0.193,171.555,4,0.531
+894,62z6ineN6EyrqAhK5AaCEg,"Brent Carver,Carolee Carmello",All the Wasted Time,0.871,0.399,281333,0.247,0.000222,10,0.108,-12.007,1,0.0312,62.282,4,0.205
+895,7JBGgg9fHNXSM1DpCVpIgz,Brent Carver,Sh'ma,0.945,0.42,38360,0.0226,0.0,10,0.0891,-17.473,1,0.0617,136.594,3,0.176
+896,02K0xoqzIAod1mKU9ojCk5,"Carolee Carmello,Kirk McDonald,Brent Carver,Christy Carlson Romano,Parade Ensemble",Finale,0.883,0.408,184093,0.373,1.13e-05,5,0.109,-11.282,1,0.0374,94.193,3,0.287
+897,6dEhMDwHjadYKFdwBJt4HO,Once Ensemble,The North Strand,0.407,0.454,71826,0.387,0.203,0,0.116,-11.605,1,0.0379,121.774,4,0.591
+898,7l1GcApyhUoGsA8xcnFI2b,Steve Kazee,Leave,0.805,0.311,186733,0.191,0.000227,1,0.0889,-10.971,0,0.0332,84.148,4,0.145
+899,2rqU6isUjWk7s2y0ZEkmhb,"Steve Kazee,Cristin Milioti,Once Ensemble",Falling Slowly,0.893,0.45,266053,0.142,0.000138,0,0.109,-12.649,1,0.0305,128.153,4,0.0564
+900,7IEd77XKpK53zu2BSMcIH4,"Will Connolly,Once Ensemble",The Moon,0.951,0.449,169000,0.0152,0.0104,11,0.0754,-17.738,0,0.0374,110.817,4,0.098
+901,6RzlFCZSXspWwEkORBHTCg,"Elizabeth Davis,Will Connolly,Cristin Milioti,Anne L. Nathan,Lucas Papaelias",Ej Pada Pada Rosicka,0.681,0.624,129120,0.466,0.0,4,0.309,-8.941,0,0.116,133.164,4,0.778
+902,7vnk0F4CBH4AfIAOGJrc5p,"Cristin Milioti,Once Ensemble",If You Want Me,0.761,0.296,226120,0.138,1.99e-06,6,0.146,-16.118,0,0.0363,159.358,4,0.241
+903,2qgHh6CJMxYhwRRxaSwlmU,Steve Kazee,Broken Hearted Hoover Fixer Sucker Guy,0.907,0.442,62973,0.119,0.0,7,0.0803,-14.635,1,0.0672,173.855,1,0.47
+904,0kV5W6l5r6pgLNKCNSR6C3,Steve Kazee,Say It to Me Now,0.872,0.419,150906,0.15,6.26e-05,4,0.0935,-12.8,1,0.0373,150.479,4,0.0427
+905,3g5RemUwx9y4CjIcNIs2pp,Andy Taylor,Abandoned in Bandon,0.694,0.769,71173,0.306,0.0,7,0.112,-9.686,1,0.0646,127.303,4,0.637
+906,1p1H3L57ilAdt1xqb3VDx3,"Steve Kazee,Once Ensemble",Gold,0.637,0.395,240093,0.198,0.000202,4,0.105,-11.877,1,0.0298,107.304,4,0.084
+907,34vrBV5n7TEHwtzDHRXnWB,"Steve Kazee,J. Michael Zygo",Sleeping,0.867,0.438,258466,0.097,0.0205,2,0.198,-15.655,1,0.0316,129.135,4,0.114
+908,40WNuxK6VwBrMlM0LLy04v,Steve Kazee,When Your Mind's Made Up,0.837,0.281,210173,0.342,0.00335,0,0.112,-10.013,1,0.0329,168.059,5,0.271
+909,4Te6zQtkZrGwQNKrvwYPRZ,Cristin Milioti,The Hill,0.984,0.357,268146,0.0299,0.00733,8,0.108,-20.647,0,0.0353,143.592,4,0.176
+910,6QCbR5EILDQf9e5GX4P9aM,Once Ensemble,It Cannot Be About That,0.778,0.463,57600,0.374,0.618,0,0.0876,-11.48,1,0.0316,103.615,3,0.207
+911,3bv3J7fYOLcbk1TtfcqaEA,Once Ensemble,Gold (A Cappella),0.968,0.215,148813,0.0265,4.15e-05,4,0.275,-25.252,1,0.0361,82.213,3,0.0868
+912,5mg097cPwsKtLRvl5qDwhV,"Steve Kazee,Cristin Milioti,Once Ensemble",Falling Slowly (Reprise),0.841,0.419,301293,0.132,0.000134,0,0.108,-13.459,1,0.0304,127.241,4,0.0796
+913,7pziVpL4r7iua7Zqh42dG1,"Joel Hatch,'Come From Away' Company",Welcome To The Rock,0.37,0.657,221306,0.674,0.0,7,0.202,-5.424,1,0.347,167.967,4,0.711
+914,15z2C33XjeiYJMytXMUIk4,'Come From Away' Company,38 Planes,0.807,0.578,69146,0.42,0.0,2,0.217,-9.016,0,0.212,127.514,3,0.339
+915,31gHRdWxRNd5dqDriOe76j,'Come From Away' Company,Blankets And Bedding,0.28,0.627,171733,0.812,0.0,4,0.261,-6.802,0,0.361,123.642,4,0.623
+916,1qGUSP6STi8JIrFjkYsl30,"Jenn Colella,'Come From Away' Company",28 Hours / Wherever We Are,0.494,0.633,453426,0.493,0.0,4,0.112,-8.573,0,0.272,131.398,4,0.477
+917,27fahUgDyUtRvQDrnqnBsG,'Come From Away' Company,Darkness And Trees,0.665,0.63,188160,0.395,0.0,4,0.272,-12.609,0,0.255,81.874,4,0.26
+918,2tythudlLVft3TJx87pmVZ,'Come From Away' Company,On The Bus,0.702,0.662,66413,0.354,0.0,7,0.0798,-13.398,1,0.42,118.465,4,0.475
+919,45kgznK2dCoCfhIXhanR1y,'Come From Away' Company,Darkness And Trees - Reprise,0.435,0.536,104293,0.35,0.0,4,0.252,-9.779,0,0.269,82.411,5,0.117
+920,6S7i0RJAE7xcAS7KgHNYWN,'Come From Away' Company,Lead Us Out Of The Night,0.867,0.573,72093,0.12,0.0,6,0.0877,-21.658,1,0.241,112.475,5,0.475
+921,6x7DkGiL1w8dsPzIx1ExoA,'Come From Away' Company,Phoning Home,0.784,0.579,62466,0.278,0.0,5,0.275,-14.183,1,0.111,107.674,3,0.523
+922,6vA7tgkkFcN9CIwAvWMvJR,"Sharon Wheatley,Q Smith,Chad Kimball,Caesar Samayoa,'Come From Away' Company",Costume Party,0.5,0.716,318280,0.486,0.0,5,0.169,-8.616,1,0.096,111.73,4,0.472
+923,24oYRVXFC2IUXAiJFxlnvn,Q Smith,I Am Here,0.816,0.536,107760,0.399,0.0,9,0.363,-9.304,1,0.0816,95.949,4,0.439
+924,4Zkw7JYf32PS9aGgLEjsw6,"Chad Kimball,'Come From Away' Company",Prayer,0.739,0.347,205986,0.345,0.0,2,0.183,-10.093,1,0.0385,95.655,4,0.174
+925,740TcoSoPyi3uiSivnCEiI,'Come From Away' Company,On The Edge,0.135,0.567,201546,0.595,0.0,2,0.311,-8.655,1,0.566,185.708,3,0.555
+926,3lFdzrvXYSx0xHRdc92SU8,'Come From Away' Company,In The Bar / Heave Away,0.234,0.576,82320,0.851,2.77e-06,2,0.514,-4.614,1,0.258,137.253,4,0.817
+927,0Y5R6dp6PPORD0wIW7rhtI,"Joel Hatch,'Come From Away' Company",Screech In,0.257,0.72,243586,0.693,0.0,7,0.151,-6.263,1,0.386,137.933,4,0.629
+928,6N4bifNtBKSSDmIL3qZRh8,"Jenn Colella,'Come From Away' Company",Me And The Sky,0.279,0.667,276613,0.631,0.0,1,0.125,-7.147,1,0.0555,136.045,4,0.487
+929,33HdP0e0zuw0hSeQBSAU41,"Lee MacDougall,Sharon Wheatley",The Dover Fault,0.768,0.711,29080,0.339,0.0,6,0.132,-10.315,1,0.436,114.7,3,0.71
+930,4JNjjVoS8sjV1tdwBdIeRe,"Lee MacDougall,Sharon Wheatley,'Come From Away' Company",Stop The World,0.671,0.462,140320,0.375,0.0,4,0.0828,-8.116,1,0.152,179.09,3,0.484
+931,0yE2JdVc5CnZc6wuBCIMtj,"Jenn Colella,'Come From Away' Company",38 Planes (Reprise) / Somewhere In The Middle Of Nowhere,0.296,0.733,262800,0.629,0.0,2,0.195,-6.028,1,0.0757,139.889,4,0.461
+932,27YHWjdmczQiJGwcs0QLXT,'Come From Away' Company,Something's Missing,0.54,0.403,336626,0.413,0.0,7,0.195,-9.602,1,0.0781,80.407,4,0.308
+933,0BPIzKfu32cbOfJvi0w5aD,'Come From Away' Company,10 Years Later,0.494,0.535,17120,0.721,0.0,11,0.128,-5.299,0,0.334,199.405,5,0.939
+934,5WAJKP8NhT52RXWBEBuVfb,"Joel Hatch,'Come From Away' Company",Finale,0.352,0.489,209040,0.67,0.0,4,0.356,-4.85,0,0.241,167.989,4,0.512
+935,1KVRG1jgXKLrRwfGr3UIoa,'Come From Away' Band,Screech Out,0.00471,0.578,104133,0.868,0.746,2,0.334,-5.448,1,0.0634,145.963,4,0.961
+936,0ytsYOTUC7XfrvD6KvEMXe,Cast of Ghost - The Musical,Overture,0.606,0.219,127280,0.242,0.916,7,0.102,-14.929,1,0.0309,76.39,4,0.0476
+937,0YK0xrqxoRZIDuF4IKI4kF,Cast of Ghost - The Musical,Here Right Now,0.249,0.387,187498,0.857,0.0,9,0.0446,-5.95,1,0.144,150.065,4,0.312
+938,46mQXiG3RCoCnin7Fq0wYP,Cast of Ghost - The Musical,Unchained Melody,0.401,0.483,169930,0.157,0.000332,7,0.305,-13.707,1,0.0425,67.935,3,0.265
+939,7K3nRv8raXwf5iy8L3Bxbk,Cast of Ghost - The Musical,More,0.0318,0.575,144622,0.751,4.17e-06,0,0.0612,-7.696,1,0.0633,137.029,4,0.825
+940,1xfsRlAPfibOqk1enNpovC,Cast of Ghost - The Musical,Three Little Words,0.703,0.442,220198,0.286,0.0,0,0.096,-11.016,1,0.0324,94.949,4,0.315
+941,4R0rJTY7Gm8zdnqMCPB7vu,Cast of Ghost - The Musical,Sam's Murder,0.224,0.368,147830,0.368,0.00491,11,0.109,-10.428,0,0.0566,78.881,1,0.039
+942,68lrEWPEmG4gMd0dVnqOuL,Cast of Ghost - The Musical,Ball Of Wax,0.743,0.386,305518,0.492,0.0,4,0.0559,-9.715,0,0.227,170.258,4,0.56
+943,59yGfwfgSf38uafo98R20V,Cast of Ghost - The Musical,I Can't Breathe,0.00428,0.27,94705,0.736,0.000219,1,0.0912,-7.855,1,0.0417,120.121,4,0.0386
+944,0mUOzbECCFdYmTWnc37Kg8,Cast of Ghost - The Musical,Are You A Believer?,0.496,0.624,349619,0.732,5.97e-06,0,0.464,-7.054,1,0.243,119.817,4,0.492
+945,0trb0fFJgPT7cX3wM7ydoH,Cast of Ghost - The Musical,With You,0.922,0.302,266370,0.123,0.0,4,0.202,-13.274,0,0.0349,91.75,4,0.215
+946,1cy9fqv7QlhNtDc029Ut32,Cast of Ghost - The Musical,Suspend My Disbelief/I Had A Life,0.638,0.461,559755,0.512,0.0,4,0.323,-8.403,0,0.0898,116.944,4,0.368
+947,4pj6K3oOzCJOQVv3RU50yl,Cast of Ghost - The Musical,Rain/Hold On,0.353,0.465,377988,0.645,1.79e-06,5,0.11,-7.935,1,0.0711,129.651,4,0.283
+948,0JYkbOCtcAGVHv8aKCmFOL,Cast of Ghost - The Musical,Life Turns On A Dime,0.94,0.398,275040,0.0911,5.31e-06,7,0.353,-16.996,1,0.0546,157.204,4,0.311
+949,0whSxPBjt6ULCrqKattCh6,Cast of Ghost - The Musical,Focus,0.11,0.352,244544,0.627,0.000137,4,0.326,-9.298,0,0.288,74.845,3,0.152
+950,7FPN8wESU2gzQizhnDF4Lu,Cast of Ghost - The Musical,Talkin' 'Bout A Miracle,0.115,0.684,243438,0.847,1.92e-06,5,0.347,-6.191,0,0.121,113.979,4,0.576
+951,2EbqmuviE5M8omtYTl6cle,Cast of Ghost - The Musical,Nothing Stops Another Day,0.894,0.209,241005,0.339,2.18e-06,3,0.0928,-7.794,1,0.0341,84.069,4,0.13
+952,39ZHU7aCICISshaVX7TBxm,Cast of Ghost - The Musical,I'm Outta Here,0.164,0.635,253995,0.901,0.0,0,0.18,-4.357,0,0.0693,129.89,4,0.908
+953,3bxUEpJxPGOvGjXZjZM1cd,Cast of Ghost - The Musical,Unchained Melody (Dance)/The Love Inside,0.886,0.135,373856,0.109,0.022,0,0.101,-14.582,1,0.0334,83.322,4,0.0647
+954,6d0vHYf933ydlNziPveC8P,"Cast of Ghost - The Musical,Richard Fleeshman,Caissie Levy",With You - Duet Version,0.839,0.209,241495,0.449,1.37e-05,7,0.303,-7.619,1,0.0331,179.835,4,0.139
+955,2aCpVe1mj5fb7WcNfMAP3p,"Oscar Hammerstein II,Richard Rodgers,Original Cast Of The King And I,Various Artists",Overture,0.743,0.153,206560,0.254,0.884,5,0.235,-9.076,1,0.0367,53.362,4,0.206
+956,2ymnJmT5CN6B5t7x03ocVc,"Oscar Hammerstein II,Richard Rodgers,Gertrude Lawrence",I Whistle A Happy Tune,0.871,0.768,164840,0.153,0.0,7,0.0896,-13.516,1,0.0398,90.598,4,0.798
+957,6B1eAsm7IjUyCY8aXY66jD,"Richard Rodgers,Doretta Morrow",My Lord And Master,0.923,0.317,129093,0.173,0.0,10,0.495,-11.898,1,0.0364,98.482,1,0.312
+958,45GMbQv9hfco3LJRXUswm4,"Oscar Hammerstein II,Richard Rodgers,Gertrude Lawrence",Hello Young Lovers,0.857,0.335,191000,0.121,0.0,0,0.0947,-15.262,1,0.0362,85.263,4,0.146
+959,1QgER8TQOCAyMwe5xzHTy1,"Richard Rodgers,Oscar Hammerstein II,Original Cast Of The King And I,Various Artists",March Of The Siamese Children,0.901,0.564,198333,0.129,0.908,5,0.0741,-11.271,1,0.0347,89.287,4,0.245
+960,38j82XPWs6Qq2TY4ubx68M,"Richard Rodgers,Yul Brenner",Puzzlement,0.798,0.654,211373,0.29,0.0,10,0.466,-14.03,1,0.121,116.638,4,0.69
+961,6jjhOV9FL71jfCFY4arGmJ,"Oscar Hammerstein II,Richard Rodgers,Gertrude Lawrence",Getting To Know You,0.873,0.344,210200,0.176,0.0,8,0.135,-14.024,1,0.0355,63.272,4,0.517
+962,5DtCeKt8rl2UoqxmhhjtuS,"Richard Rodgers,Doretta Morrow,Larry Douglas",We Kiss In The Shadow,0.892,0.178,209266,0.263,3.05e-06,7,0.316,-11.808,1,0.0355,179.32,3,0.126
+963,79PCQNQN0blLBrrM2XaHgT,"Richard Rodgers,Gertrude Lawrence",Shall I Tell You What I Think?,0.735,0.624,207133,0.248,0.0,11,0.237,-13.8,1,0.542,69.443,4,0.708
+964,2VwmMHSNzWevYjbjjfwvud,"Richard Rodgers,Dorothy Sarnoff",Something Wonderful,0.928,0.261,158133,0.0996,0.0,7,0.12,-16.06,1,0.0465,169.857,4,0.0755
+965,5QuCsEw0hrGvHZlSuI4qhB,"Richard Rodgers,Doretta Morrow,Larry Douglas",I Have Dreamed,0.964,0.28,209893,0.259,2.33e-06,0,0.197,-11.299,1,0.034,90.261,4,0.189
+966,0T0QFrna9xqvzI3t4Pif8u,"Oscar Hammerstein II,Richard Rodgers,Yul Brenner,Gertrude Lawrence",Shall We Dance? - From The King And I,0.797,0.642,169773,0.218,0.0,3,0.181,-11.637,1,0.0451,96.136,4,0.74
+967,42X6BlsOOurKCknXHb8pD2,"Beth Leavel,Brooks Ashmanskas,The Prom Ensemble",Changing Lives,0.278,0.541,190973,0.827,0.0,6,0.047,-5.89,1,0.318,142.104,4,0.702
+968,0FcDGK0naVeJhqZ51YPSGI,"Beth Leavel,Brooks Ashmanskas,Christopher Sieber,Angie Schworer",Changing Lives (Reprise),0.326,0.61,112760,0.728,0.0,2,0.0753,-5.742,1,0.316,143.639,4,0.792
+969,0rc7DWOaM1pGttXrKu8lQK,Caitlin Kinnunen,Just Breathe,0.613,0.736,167360,0.408,0.0,6,0.0656,-8.155,1,0.0953,86.853,4,0.698
+970,4w7U8qa9E0bRJmtyHKnVcR,"Beth Leavel,The Prom Ensemble",It's Not About Me,0.527,0.516,232786,0.608,0.0,9,0.194,-5.63,0,0.0634,157.971,3,0.638
+971,04zipeUI1GQjypWxPfFL8t,"Caitlin Kinnunen,Isabelle McCalla",Dance with You,0.773,0.355,187440,0.384,0.0,1,0.0808,-7.27,1,0.0462,83.625,4,0.385
+972,1O7TMJl5tds7gB5QukOfoF,"Christopher Sieber,Beth Leavel,Brooks Ashmanskas,The Prom Ensemble",The Acceptance Song,0.401,0.542,194653,0.69,0.0,10,0.135,-5.351,1,0.123,152.343,4,0.482
+973,4OF43pYQRzgJwHiPrfgaMN,"Caitlin Kinnunen,The Prom Ensemble",You Happened,0.218,0.786,196226,0.71,0.0,0,0.0382,-5.378,1,0.0477,130.002,4,0.868
+974,0ipuHW8gveh9XrObo9wvAx,Michael Potts,We Look to You,0.83,0.443,165826,0.265,0.0,0,0.0929,-11.297,1,0.0399,135.075,3,0.205
+975,3pBJHXjGI8hdMim8vniinj,Company of The Prom: A New Musical,Tonight Belongs to You,0.205,0.484,320760,0.625,0.0,0,0.0257,-5.429,1,0.207,155.878,4,0.733
+976,2The4i3lt5612pnz68QOsX,"Angie Schworer,Caitlin Kinnunen",Zazz,0.478,0.774,167893,0.475,0.0,1,0.106,-6.432,1,0.109,118.683,4,0.513
+977,0kRZbd4758cngMpsN7RtWw,Beth Leavel,The Lady's Improving,0.339,0.427,152346,0.487,0.0,10,0.542,-5.237,1,0.0849,171.989,4,0.485
+978,51FRGVbypjTybFQM9sC9K1,"Christopher Sieber,The Prom Ensemble",Love Thy Neighbor,0.214,0.557,259333,0.812,0.0,7,0.039,-5.237,1,0.377,119.114,4,0.692
+979,6gNnQyhEBZILVytbTeHGLU,Isabelle McCalla,Alyssa Greene,0.856,0.589,150560,0.254,0.0,8,0.17,-10.693,1,0.0577,133.198,5,0.512
+980,4u3UgMNOKtcD0GeWxKFnRt,Brooks Ashmanskas,Barry Is Going to Prom,0.366,0.558,154400,0.728,0.0,0,0.301,-5.728,1,0.136,107.834,4,0.701
+981,1LHWrjgcTxRv43RvnJuGrs,"Caitlin Kinnunen,The Prom Ensemble",Unruly Heart,0.825,0.408,237133,0.33,0.0,5,0.0889,-7.768,1,0.0375,139.333,4,0.4
+982,1hIZ2FAegeaUcCLWRfrhZW,Company of The Prom: A New Musical,It's Time to Dance,0.145,0.413,333733,0.79,0.0,1,0.172,-4.872,1,0.2,152.883,4,0.53
+983,2cY15EZqnN9bxPb5UuYuBE,"Full Company,Kinky Boots Ensemble",Price and Son Theme / The Most Beautiful Thing in the World,0.767,0.441,380186,0.446,0.0,7,0.149,-8.019,1,0.139,173.852,4,0.465
+984,4BsZ52Mjwl9bvuwfQcVhlO,"Andy Kelso,Stark Sands,Kinky Boots Ensemble",Take What You Got,0.331,0.612,198560,0.712,0.0,11,0.356,-6.359,1,0.0486,121.968,4,0.516
+985,6zwCy9ZNn6cQNcOzP0aYkS,"Billy Porter,Kinky Boots Ensemble",Land of Lola,0.0465,0.725,187253,0.805,0.0,7,0.111,-6.849,1,0.076,117.978,4,0.872
+986,03w3wv1rwQa2LhQodHda1u,Stark Sands,Charlie's Soliloquy,0.191,0.681,77626,0.214,0.0,6,0.09,-17.96,1,0.0349,110.005,4,0.196
+987,4Pvb1RZqpLI2VxxSm83EHp,Stark Sands,Step One,0.0844,0.603,168213,0.861,0.0,1,0.159,-4.866,1,0.152,138.49,4,0.77
+988,5s7Ggu3MxtlfLKdpfLK15s,"Billy Porter,Tory Ross,Marcus Neville,Stark Sands,Kinky Boots Ensemble",Sex Is in the Heel,0.0241,0.806,274600,0.687,0.0,2,0.179,-6.527,1,0.0725,127.01,4,0.855
+989,1c79hTzmukycIjA5uNRDcG,Annaleigh Ashford,The History of Wrong Guys,0.299,0.808,228093,0.57,0.0,10,0.0833,-6.337,1,0.135,130.448,4,0.526
+990,7bD4oczHpW3FITPTbK3mCe,"Billy Porter,Stark Sands",Not My Father's Son,0.804,0.454,357106,0.131,0.0,9,0.0778,-13.618,1,0.0302,141.106,4,0.225
+991,0ixBJpPqToXRXlYoosgNS8,"Billy Porter,Stark Sands,Kinky Boots Ensemble",Everybody Say Yeah,0.127,0.626,259880,0.803,0.0,2,0.251,-6.189,1,0.118,133.92,4,0.493
+992,1BnFFCNgQ1BGSxzf3zvU3G,"Billy Porter,Tory Ross,Daniel Stewart Sherman,Marcus Neville,Kinky Boots Ensemble",What a Woman Wants,0.196,0.661,234786,0.568,0.0,9,0.0904,-6.948,0,0.173,119.999,4,0.733
+993,2qf1Cbi3mIFzVnKERuNwx5,"Billy Porter,Tory Ross,Daniel Stewart Sherman,Jennifer Perry,Kinky Boots Ensemble",In This Corner,0.285,0.689,296800,0.726,0.0,5,0.431,-6.832,0,0.049,97.061,4,0.733
+994,2KnFVpPXSAy559gFea42V8,Stark Sands,Charlie's Soliloquy (Reprise),0.227,0.266,49533,0.306,4.11e-06,7,0.0931,-14.353,1,0.0343,186.545,4,0.287
+995,1aceQjRY92RCxd46WxylcX,Stark Sands,Soul of a Man,0.321,0.484,202426,0.713,0.0,0,0.156,-5.546,1,0.0372,162.18,4,0.477
+996,5Y0NgAzhG7SMQbnehKVVup,Billy Porter,Hold Me in Your Heart,0.638,0.289,184080,0.306,0.0,2,0.149,-9.104,1,0.0358,161.949,3,0.335
+997,7wPKI3MoEixp4m36JYbmQf,"Full Company,Kinky Boots Ensemble",Raise You Up / Just Be,0.103,0.735,369706,0.698,0.0,0,0.193,-6.83,1,0.0937,122.004,4,0.644
+998,61XMx0k6ZkvO5j0mB74Wqp,Alan Menken,Overture,0.114,0.625,76653,0.397,0.0209,6,0.0701,-7.181,1,0.068,94.803,4,0.704
+999,3W1O4FiAir9YhqMTFGsBIY,"James Monroe Iglehart,Aladdin Original Broadway Cast",Arabian Nights,0.412,0.391,376760,0.357,2.12e-06,6,0.575,-8.562,1,0.097,66.727,4,0.494
+1000,7lDBV3PI9XqX0PpqW3LkiU,"Adam Jacobs,Aladdin Original Broadway Cast",One Jump Ahead,0.361,0.763,129266,0.571,0.0,7,0.0602,-6.348,1,0.3,120.769,4,0.838
+1001,0Rv2WhXxtC0ty6LbTl8rkP,Adam Jacobs,One Jump Ahead (Reprise),0.937,0.366,36400,0.148,2.13e-05,10,0.342,-14.241,1,0.0408,80.285,4,0.347
+1002,12vY4vUvOchgy9HmC8fonf,Adam Jacobs,Proud of Your Boy,0.899,0.446,141000,0.339,0.0,2,0.227,-8.914,1,0.0458,62.167,3,0.305
+1003,572MGILWfKTSBil8p0mvs7,"Courtney Reed,Tia Altinay,Khori Michelle Petinaud,Marisha Wallace",These Palace Walls,0.788,0.516,160946,0.331,9.11e-06,9,0.091,-7.363,1,0.0301,98.05,4,0.425
+1004,524rLPtr6oUW2Q733GvOuo,"Adam Jacobs,Brian Gonzales,Jonathan Schwartz,Brandon O'Neill,Aladdin Original Broadway Cast","Babkak, Omar, Aladdin, Kassim",0.337,0.486,228840,0.527,1.07e-05,0,0.668,-5.985,1,0.209,199.89,4,0.455
+1005,6iz50ggnska6oOtVORiqeL,"Adam Jacobs,Courtney Reed",A Million Miles Away,0.713,0.459,201453,0.438,0.0,2,0.203,-9.051,1,0.0436,77.27,4,0.187
+1006,7ryLYKkgEzxUCZ12vp841U,"Adam Jacobs,Jonathan Freeman,Don Darryl Rivera",Diamond in the Rough,0.43,0.536,258839,0.434,0.0,3,0.162,-7.799,1,0.248,133.16,4,0.427
+1007,3WRzV7wEJ9HfJJI51OzcA3,"James Monroe Iglehart,Adam Jacobs,Aladdin Original Broadway Cast",Friend Like Me,0.346,0.657,452466,0.555,1.68e-06,5,0.0299,-4.951,1,0.153,92.092,4,0.632
+1008,5tDktMJoT38RThSTQ0X4Bt,"James Monroe Iglehart,Adam Jacobs",Act One Finale,0.565,0.518,128666,0.531,0.0,3,0.251,-6.231,1,0.114,98.607,4,0.47
+1009,1YssKFy4gKSQeIxcDhyb4E,"Brian Gonzales,Jonathan Schwartz,Brandon O'Neill,James Monroe Iglehart,Aladdin Original Broadway Cast",Prince Ali,0.289,0.424,355413,0.592,0.0,1,0.0801,-6.168,1,0.168,182.189,4,0.603
+1010,5SngLe0KKO7mDzt5XYWLvz,"Adam Jacobs,Courtney Reed",A Whole New World,0.844,0.385,247426,0.229,2.41e-06,1,0.0819,-10.419,1,0.0364,127.365,4,0.222
+1011,44ARHt9CwWBNFEStFoWA58,"Brian Gonzales,Jonathan Schwartz,Brandon O'Neill,Aladdin Original Broadway Cast",High Adventure,0.267,0.498,331400,0.555,0.0,0,0.123,-6.876,1,0.205,143.328,4,0.445
+1012,3jTKcqpmwcIMBc48XV0AS4,"James Monroe Iglehart,Adam Jacobs,Brian Gonzales,Jonathan Schwartz,Brandon O'Neill",Somebody's Got Your Back,0.362,0.593,204253,0.429,0.0,0,0.242,-7.211,1,0.221,148.23,4,0.595
+1013,5o5Ku4PQ3y1PjtldS0PNrI,Adam Jacobs,Proud of Your Boy (Reprise),0.971,0.435,65160,0.188,2.12e-05,6,0.108,-12.534,1,0.0355,109.458,3,0.336
+1014,3KfJzrAEbFqIICUT7Fflfp,"Clifton Davis,Aladdin Original Broadway Cast",Prince Ali (Sultan Reprise),0.405,0.579,73160,0.505,0.0,5,0.0705,-5.549,0,0.05,92.87,4,0.357
+1015,5uLDGAPMtpcz9HZExt8siZ,Jonathan Freeman,Prince Ali (Jafar Reprise),0.483,0.457,64053,0.383,0.0,7,0.196,-6.997,0,0.0345,113.727,4,0.536
+1016,1vBnxw4QenvKadQIn1n7TK,Aladdin Original Broadway Cast,Finale Ultimo,0.304,0.485,166573,0.436,0.0,0,0.0396,-5.636,0,0.037,145.647,4,0.689
+1017,7n48T6vUUicNknBgEQMFKL,"Alan Menken,Adam Jacobs",Proud of Your Boy,0.863,0.528,162546,0.33,0.0,2,0.272,-10.477,1,0.188,109.452,4,0.529
+1018,0PkTdAdHWz71Q7vlIUOvGu,"Alan Menken,Adam Jacobs,James Monroe Iglehart",Genie Medley,0.841,0.585,243746,0.312,0.0,9,0.447,-12.046,0,0.259,139.472,4,0.664
+1019,3LPZlfKmAFKU7wU6ilpgFa,Matilda The Musical Orchestra,Overture,0.81,0.139,42228,0.222,0.96,0,0.115,-15.244,1,0.0335,78.88,3,0.0378
+1020,44TZdODJd0MpbtL4tNdGLG,Original Broadway Cast Of Matilda The Musical,Miracle: Part 1,0.613,0.584,263511,0.405,0.0,1,0.469,-13.298,1,0.635,157.017,4,0.694
+1021,1qZFnvoSaxpTUs7Q0IQDoD,"John Arthur Greene,Lesli Margherita,Gabriel Ebert,Original Broadway Cast Of Matilda The Musical",Miracle: Part 2,0.603,0.569,131871,0.422,0.0,5,0.678,-11.02,1,0.233,76.74,4,0.635
+1022,7eVwSYcgwwV0i6WZgKsHiI,"Lesli Margherita,John Arthur Greene,Bailey Ryon,Original Broadway Cast Of Matilda The Musical",Miracle: Part 3,0.661,0.469,160861,0.514,0.0,7,0.268,-9.13,0,0.116,155.365,4,0.335
+1023,4eJsgtImec81R8gmlgK3HG,Sophia Gennusa,Naughty,0.599,0.754,194677,0.354,7.64e-06,5,0.0697,-9.922,1,0.0696,143.246,4,0.747
+1024,53s5Lqi4J9kR1bR8cpacUL,Original Broadway Cast Of Matilda The Musical,School Song,0.627,0.686,237805,0.628,0.0,10,0.294,-9.531,1,0.0659,99.926,4,0.468
+1025,3ptzLsLERXPRt9Rfg8v8XF,Lauren Ward,Pathetic,0.674,0.575,105740,0.25,0.0,6,0.15,-13.216,1,0.342,142.444,4,0.239
+1026,34WV9KlpvIEMvJI6AdMs0W,"Bertie Carvel,Lauren Ward,Matilda Children Cast",The Hammer,0.56,0.559,180079,0.518,0.0,7,0.27,-10.748,1,0.167,78.987,4,0.442
+1027,52lX2P0ljpubi6RxAGN4QY,Original Broadway Cast Of Matilda The Musical,The Chokey Chant,0.328,0.577,60599,0.314,0.0,9,0.168,-9.665,0,0.139,128.043,4,0.221
+1028,2bfS9kqJ4ZSCYrQwspu7Mr,"Lesli Margherita,Phillip Spaeth",Loud,0.357,0.436,241469,0.634,0.0,9,0.0442,-8.361,1,0.293,81.62,4,0.375
+1029,5EmfJzkk5FfRy6O1V2u04V,Lauren Ward,This Little Girl,0.784,0.63,121999,0.132,0.0,10,0.0968,-14.554,1,0.364,140.782,1,0.226
+1030,5xv0Nuwno9wi2zE0wNKuMJ,"Matilda Children Cast,Bertie Carvel,Lauren Ward",Bruce (feat. Bertie Carvel & Lauren Ward),0.481,0.535,245337,0.478,0.0,0,0.605,-10.421,0,0.224,139.187,4,0.417
+1031,3d5YR7MENA2aGHULTRjtQ0,"Gabriel Ebert,Taylor Trensch",Telly,0.0923,0.659,190999,0.446,0.0,1,0.177,-11.223,1,0.273,94.32,3,0.57
+1032,7yeULCFMOU8R3w04OzSt9Q,"Original Broadway Cast Of Matilda The Musical,Lauren Ward,Bailey Ryon",When I Grow up (feat. Lauren Ward & Bailey Ryon),0.701,0.476,218999,0.25,7.67e-06,5,0.0623,-11.229,1,0.0317,78.522,4,0.342
+1033,4Xnuwva5B5ilU3Mqo6OWYG,"Oona Laurence,Ben Thompson",I’m Here (Story 4),0.682,0.282,256536,0.288,0.00392,5,0.0963,-12.348,0,0.0441,79.845,3,0.112
+1034,72v7btDAqOA1GoboCq4Qi4,"Bertie Carvel,Lauren Ward,Matilda Children Cast",The Smell of Rebellion,0.391,0.476,318344,0.461,0.0,7,0.322,-11.426,1,0.269,90.227,5,0.44
+1035,0OHiOXZoyXtpiY0WZTjo6y,Milly Shapiro,Quiet,0.778,0.401,216676,0.247,0.0,5,0.209,-11.722,1,0.0746,76.305,4,0.0714
+1036,7mxgpBBqJYTlL9AMI7s6FP,"Lauren Ward,Ben Thompson",My House,0.864,0.369,227948,0.163,5.46e-06,10,0.101,-14.561,1,0.0377,111.45,4,0.139
+1037,6f2HsPniILtegggAValUA2,"Bertie Carvel,Matilda Children Cast",Chalk Writing,0.61,0.405,84448,0.437,0.000269,0,0.882,-11.086,1,0.183,94.19,3,0.539
+1038,4xwyLdkNblvpSqGRej9at0,Original Broadway Cast Of Matilda The Musical,Revolting Children,0.466,0.678,153450,0.7,0.0,7,0.345,-7.826,1,0.0605,116.002,4,0.568
+1039,47v85iuJOSquzVj97RuyGB,Original Broadway Cast Of Matilda The Musical,When I Grow Up/Naughty (Reprise),0.489,0.411,130148,0.622,0.0,5,0.158,-7.147,1,0.0391,147.025,4,0.897
+1040,0NgJJWX98Diqgbzr9CYcam,"Milly Shapiro,Samantha Sturm,Ben Thompson,Karen Aldridge","Story 1: Once Upon a Time… (Bonus Track) [feat. Samantha Sturm, Ben Thompson & Karen Aldridge]",0.802,0.522,223013,0.317,2.23e-06,9,0.209,-10.929,0,0.0975,89.613,4,0.288
+1041,5jNvy0TavsOKSwpqfU2OQT,"Oona Laurence,Ben Thompson,Karen Aldridge,Bertie Carvel","Story 2: The Great Day Arrived… (Bonus Track) [feat. Ben Thompson, Karen Aldridge & Bertie Carvel]",0.607,0.538,204008,0.367,1.31e-06,0,0.64,-10.034,1,0.268,127.988,4,0.487
+1042,6cL6t50ks9WofnvuPHHo2l,"Bailey Ryon,Karen Aldridge,Samantha Sturm",Story 3: The Trick Started Well… (Bonus Track) [feat. Karen Aldridge & Samantha Sturm],0.639,0.542,264810,0.288,0.000147,4,0.0796,-11.93,1,0.32,92.671,4,0.196
+1043,5XXbQUXxfkQwyy67oZPU6b,Chris Hoch,Perhaps a Child (Deluxe Edition Only Bonus Track - Cut Song),0.826,0.494,149679,0.243,0.000748,9,0.0935,-14.129,0,0.0397,87.495,4,0.354
+1044,08etLSm7fSkUcgd3BnmANX,"Bailey Ryon,Sophia Gennusa,Oona Laurence,Milly Shapiro",Naughty (Deluxe Edition Only Bonus Track with All 4 Original Broadway Matildas),0.533,0.743,180339,0.379,0.0,5,0.0998,-9.118,1,0.0884,143.623,4,0.764
+1045,3s9RuGSjjLbPw8yGdZReyM,"David Noland,Giuseppe Fusco,Ron Janelli,Lynne A. Cohen,Kyle Hoyt,Trevor Neumann,Nate Mayland,Larry Saltzman,Cenovia Cummins,Maxim Moston,Stephanie Cummins,Steve Millhouse,Warren Odze,Charles Descarfino,Nate Patten,Mat Eisenstein,Andy Ezrin",Overture,0.863,0.342,26838,0.254,0.718,9,0.23,-7.486,1,0.05,92.126,4,0.125
+1046,2fQOyIjKs62b9AxjAnCiqx,"Christian Borle,Charlie and the Chocolate Factory Broadway Ensemble",The Candy Man,0.72,0.68,191316,0.476,0.0,8,0.0711,-8.101,1,0.217,117.663,4,0.455
+1047,71Ii27mkATertsqODT3Nax,"Jake Ryan Flynn,Charlie and the Chocolate Factory Broadway Ensemble",Willy Wonka! Willy Wonka!,0.806,0.837,166953,0.416,0.0,11,0.111,-7.176,1,0.21,103.988,3,0.593
+1048,1YbJu66FZ8c9XQIvqTeMnk,"John Rubinstein,Ryan Foust","Charlie, You & I",0.856,0.597,94224,0.25,0.0,11,0.092,-12.507,1,0.274,107.074,3,0.376
+1049,0sDNP6Xlld56tZLD5fyRAQ,"Ryan Foust,Emily Padgett,John Rubinstein,Kristy Cates,Madeleine Doherty,Paul Slade Smith",A Letter From Charlie Bucket,0.93,0.553,203062,0.135,0.0,4,0.105,-14.616,1,0.0678,164.419,3,0.451
+1050,3ehNQPt0fESIL7CDEEg6fQ,"Kathy Fitzgerald,F. Michael Haynie,Charlie and the Chocolate Factory Broadway Ensemble",More Of Him To Love,0.529,0.894,127035,0.651,0.0,8,0.0649,-5.997,1,0.215,117.091,4,0.969
+1051,56n61jZvjUaiWp7zNrfOoP,"Ben Crawford,Emma Pfaeffle",When Veruca Says,0.762,0.689,103077,0.635,0.0,1,0.16,-8.28,1,0.49,140.294,4,0.739
+1052,4dlvib8TUcVqsXoNX1lCTV,"Trista Dollison,Alan H. Green,Gum Chompin' Divas",The Queen Of Pop,0.512,0.771,153631,0.805,0.0,1,0.305,-3.823,0,0.248,94.517,4,0.82
+1053,5cHwAiEMmCdEcFF5jX8Iz4,"Jackie Hoffman,Michael Wartella,Charlie and the Chocolate Factory Broadway Ensemble",What Could Possibly Go Wrong?,0.394,0.582,135404,0.789,0.0,9,0.12,-5.117,0,0.256,123.789,4,0.863
+1054,0GvmnieS61A7k6QK46nvNT,"Emily Padgett,John Rubinstein,Kristy Cates,Madeleine Doherty,Paul Slade Smith",If Your Father Were Here,0.921,0.459,169046,0.164,0.0,11,0.124,-14.647,1,0.0414,128.347,4,0.278
+1055,7hHruIHGumMbRLZT7qWSNb,"Ryan Sell,John Rubinstein,Emily Padgett,Kristy Cates,Madeleine Doherty,Paul Slade Smith",I've Got A Golden Ticket / Grandpa Joe,0.747,0.595,253043,0.469,0.0,1,0.6,-8.027,1,0.2,115.718,4,0.406
+1056,4POCPH3jBtLaTJV5kmenmg,"Christian Borle,Emma Pfaeffle,Michael Wartella,Trista Dollison,F. Michael Haynie,Charlie and the Chocolate Factory Broadway Ensemble",It Must Be Believed To Be Seen,0.574,0.598,264114,0.497,0.0,1,0.13,-6.6,1,0.0821,126.308,4,0.439
+1057,2niR2JF6dv5Ki29GVLPTsk,"Christian Borle,Emma Pfaeffle,Michael Wartella,Trista Dollison,F. Michael Haynie","Strike That, Reverse It",0.58,0.639,332217,0.592,0.0,1,0.191,-7.892,1,0.478,154.233,4,0.747
+1058,1IacmAD4Q73oGeISEpwQ3f,"Christian Borle,Ryan Sell,Emma Pfaeffle,Michael Wartella,Trista Dollison,F. Michael Haynie",Pure Imagination / Grandpa Joe (Reprise),0.846,0.28,209614,0.273,0.0,5,0.0858,-10.036,0,0.0327,100.604,3,0.165
+1059,4iwFUO3jXc87abHpcydNSN,"Oompa-Loompas,Christian Borle,Kathy Fitzgerald",The Oompa Loompa Song / Auf Wiedersehen Augustus Gloop,0.7,0.771,137819,0.573,0.0,9,0.0848,-7.186,0,0.092,96.531,4,0.827
+1060,664yc46QT1fAVAYL5ewId6,"Christian Borle,Oompa-Loompas",When Willy Met Oompa,0.672,0.692,234948,0.659,0.0,2,0.286,-6.454,1,0.315,145.05,4,0.819
+1061,3QfxmTKqEsPKoCQJGPyHnR,"Oompa-Loompas,Emma Pfaeffle,Ben Crawford",Veruca's Nutcracker Sweet,0.412,0.694,96378,0.526,0.0,7,0.59,-5.74,1,0.353,127.566,4,0.874
+1062,4ZGylW6IjcI68LoclefVxr,"Oompa-Loompas,Christian Borle,Jackie Hoffman",Vidiots,0.168,0.881,162143,0.84,0.0,6,0.0446,-7.391,1,0.254,124.035,4,0.911
+1063,04J7KuW9Fg6azDb3AjSowB,"Christian Borle,Jake Ryan Flynn",The View From Here,0.806,0.345,363346,0.319,0.0,11,0.12,-8.704,1,0.0465,163.248,4,0.22
+1064,7DQ8jixzfxibvZ2Z1TmveY,"Aaron Tveit,Company Of The Original Cast Of Catch Me If You Can",Live in Living Color,0.652,0.468,194906,0.797,0.0,2,0.112,-5.699,1,0.112,175.034,4,0.57
+1065,5vf6HSJ824GzHD3RWmePfO,"Tom Wopat,Aaron Tveit,Ensemble Of Original Broadway Cast Of Catch Me If You Can",The Pinstripes Are All That They See,0.383,0.501,188386,0.533,0.0,5,0.123,-6.57,0,0.052,176.905,3,0.655
+1066,3g1MMpLop7f7MXfZBckCrw,"Aaron Tveit,Company Of The Original Cast Of Catch Me If You Can",Someone Else's Skin,0.721,0.438,254226,0.549,0.0,5,0.13,-7.321,1,0.0492,140.85,4,0.572
+1067,5fZx1JgKYoL4oHdypgf0Lj,"Aaron Tveit,Company Of The Original Cast Of Catch Me If You Can",Jet Set,0.528,0.469,216466,0.597,0.0,10,0.239,-5.693,1,0.0749,77.984,4,0.82
+1068,5YXMJOOOXSqeEYX8VrCEtb,"Norbert Leo Butz,Company Of The Original Cast Of Catch Me If You Can",Don't Break the Rules,0.641,0.427,236373,0.756,0.0,1,0.551,-5.324,1,0.416,208.353,4,0.569
+1069,4UFfsNtCNrv9vVRBJorwC9,"Tom Wopat,Aaron Tveit",Butter Outta Cream,0.621,0.683,222840,0.341,0.0,0,0.0598,-9.401,1,0.049,118.874,4,0.554
+1070,0XruJivEbePE5RWDCm8FFS,Norbert Leo Butz,The Man Inside the Clues,0.898,0.434,252386,0.299,1.91e-05,2,0.0815,-11.649,1,0.0327,98.276,3,0.205
+1071,2u0nQcbNcwoPFqhKKVxAxn,"Norbert Leo Butz,Aaron Tveit,Tom Wopat,Rachel De Benedet",Christmas Is My Favorite Time of Year,0.911,0.355,175240,0.172,0.0,7,0.298,-13.196,1,0.0398,75.318,3,0.26
+1072,6nLyKRHCx8mlcdbHHIkqXX,"Rachelle Rak,Alex Ellis,Jennifer Frankel,Lisa Gajda,Kearran Giovanni,Angie Schworer",Doctor's Orders,0.661,0.543,190546,0.655,0.0,7,0.478,-5.266,1,0.0971,169.994,4,0.665
+1073,1GE0yMEs0gdYHf3mqSDwLy,"Rachel De Benedet,Tom Wopat",Don't Be a Stranger,0.609,0.539,292413,0.427,0.0,6,0.371,-10.942,0,0.0694,125.796,4,0.327
+1074,6fmrEm1HZlQ3GWqwxl0MEO,"Tom Wopat,Norbert Leo Butz","Little Boy, Be a Man",0.822,0.476,203706,0.365,0.0,1,0.0761,-10.164,1,0.125,89.739,4,0.335
+1075,1JxkLvLvvkNGSOiqGDoPnL,"Aaron Tveit,Kerry Butler",Seven Wonders,0.828,0.515,199920,0.402,0.0,0,0.131,-9.047,1,0.0441,74.308,4,0.365
+1076,0WA1vL6JXO6V9qBSUzLo4Z,"Linda Hart,Nick Wyman,Kerry Butler,Aaron Tveit,Ensemble",(Our) Family Tree,0.534,0.519,249000,0.63,0.0,1,0.0983,-6.824,1,0.102,167.901,4,0.843
+1077,5aU9NWQV9Kr053DtR50Jf5,Kerry Butler,"Fly, Fly Away",0.829,0.335,288240,0.291,0.0,6,0.193,-9.409,1,0.0328,93.603,3,0.315
+1078,49qzQE9T0dx0BgdVqgVOXc,Aaron Tveit,Goodbye,0.303,0.556,214906,0.587,0.0,8,0.142,-7.062,1,0.0337,147.908,4,0.409
+1079,4KAfO3Im667hloGMncKhlo,"Aaron Tveit,Norbert Leo Butz",Stuck Together (Strange but True),0.608,0.642,246053,0.368,0.0,9,0.0513,-8.38,0,0.0573,85.941,4,0.313
+1080,3k0myAhcGKraTNRoEprelA,Tom Wopat,Fifty Checks,0.495,0.591,198253,0.444,0.0,6,0.184,-7.037,1,0.0428,121.965,4,0.43
+1081,6jprFSJPSg4SuMxcFvN31I,Andrew Lloyd Webber,Overture,0.295,0.278,88533,0.222,0.594,6,0.664,-11.795,0,0.0326,112.393,4,0.347
+1082,3bAeGzn8BlvVReZwpaet6h,"Andrew Lloyd Webber,Danielle Hope,Paul Keating,Edward Baker-Duly,David Ganly,Hannah Waddingham,Helen Walsh,Stephen Scott",Nobody Understands Me,0.654,0.534,221600,0.374,0.0,9,0.125,-13.604,0,0.341,134.271,4,0.389
+1083,5CaxqTfGhEzHuJeqBY1Yev,"Andrew Lloyd Webber,Danielle Hope",Over The Rainbow,0.85,0.291,184253,0.168,3.23e-06,11,0.105,-14.514,1,0.0369,85.497,4,0.158
+1084,3uWkg6kSmHErYaeoGSPmHb,Andrew Lloyd Webber,Wonders Of The World,0.868,0.434,231520,0.282,0.000422,8,0.264,-14.452,1,0.0472,91.942,3,0.525
+1085,5nRTDE1LPnL6XF4uNzc6Dj,Andrew Lloyd Webber,The Twister,0.558,0.451,177866,0.66,0.00174,10,0.165,-10.056,0,0.271,83.22,4,0.304
+1086,7BPq9uXYaMyyNvxdkLfTMQ,Andrew Lloyd Webber,Arrival In Munchkinland,0.912,0.231,67266,0.282,0.652,8,0.297,-14.253,1,0.0345,86.076,4,0.0922
+1087,3YHgfWTPEVeVf1y2n9xMRR,"Andrew Lloyd Webber,Danielle Hope,Emily Tierney",Munchkinland / Ding-Dong! The Witch Is Dead,0.788,0.514,325226,0.436,0.0,0,0.704,-8.386,1,0.0826,126.681,4,0.482
+1088,2xYFM3WGU1LJC9PrRa0rdI,"Andrew Lloyd Webber,Danielle Hope,Emily Tierney",Follow The Yellow Brick Road,0.846,0.542,57946,0.51,0.0,5,0.418,-8.837,1,0.465,101.992,4,0.68
+1089,34pj4Y4x0VxKUuhItzkaXq,"Andrew Lloyd Webber,Danielle Hope,Paul Keating",If I Only Had A Brain / We're Off To See The Wizard,0.792,0.591,160600,0.369,0.0,5,0.092,-10.257,1,0.0704,121.706,4,0.685
+1090,2zXCAyJtCY0psziYbFnQxM,"Andrew Lloyd Webber,Edward Baker-Duly",If I Only Had A Heart / We're Off To See The Wizard,0.825,0.594,138026,0.428,0.0,0,0.0658,-9.814,1,0.0846,119.216,4,0.702
+1091,0iyDxTUHiWIB6co1v5i8A1,"Andrew Lloyd Webber,David Ganly",If I Only Had The Nerve / We're Off To See The Wizard,0.75,0.58,109813,0.357,0.0,5,0.279,-9.478,1,0.102,116.488,4,0.841
+1092,6Ogtxx1xKONSI4JSTxN9ui,"Andrew Lloyd Webber,Danielle Hope,Paul Keating,Edward Baker-Duly,David Ganly",We're Outta The Woods,0.821,0.458,65600,0.574,0.0,3,0.522,-8.402,1,0.046,106.728,3,0.266
+1093,4KtOyIOvJEIsh24BfVkLTB,Andrew Lloyd Webber,The Merry Old Land Of Oz,0.719,0.605,143480,0.622,1.34e-05,5,0.122,-6.368,0,0.0706,113.477,4,0.748
+1094,6ZaKG9EHX2a1mkOl2l6E9N,"Andrew Lloyd Webber,Michael Crawford",Bring Me The Broomstick,0.328,0.449,171200,0.508,0.0,9,0.106,-9.209,0,0.187,82.799,4,0.121
+1095,1XpMVdOmpkGxoTu38wLvYb,Andrew Lloyd Webber,Haunted Forest,0.482,0.463,153293,0.149,7.66e-05,5,0.314,-16.179,0,0.0731,99.986,4,0.276
+1096,68iRk0w5nIW0aFNmE4RaSU,"Andrew Lloyd Webber,Hannah Waddingham",Red Shoes Blues,0.722,0.459,131080,0.397,0.0,6,0.655,-10.424,1,0.154,172.754,3,0.535
+1097,1B0ibhHnWuuLm2gHeK6L7m,Andrew Lloyd Webber,Bacchanalia,0.194,0.352,181626,0.638,0.116,10,0.409,-9.095,1,0.0396,106.602,3,0.37
+1098,4NVulydOBgMT36HyD4YtaW,"Andrew Lloyd Webber,Hannah Waddingham",Red Shoes Blues (Reprise),0.602,0.487,48854,0.704,0.0,9,0.226,-3.863,1,0.0533,59.165,4,0.759
+1099,4dMYA05DOCl7vNKxTwLyrp,"Andrew Lloyd Webber,Danielle Hope",Over The Rainbow (Reprise),0.774,0.466,133786,0.0834,1.66e-05,10,0.152,-17.212,1,0.0889,62.77,4,0.35
+1100,2TBjdB5hDmNDJFUjgBucxy,"Andrew Lloyd Webber,Paul Keating,Edward Baker-Duly,David Ganly",If We Only Had A Plan,0.835,0.755,75226,0.241,0.0,9,0.0587,-17.101,0,0.362,109.817,3,0.528
+1101,2Qa20UR8caWGQyXGDGO0Gv,Andrew Lloyd Webber,The Rescue,0.766,0.621,79960,0.69,0.0738,2,0.685,-10.116,1,0.387,154.695,3,0.655
+1102,15PNPOgQVIQw8gC8W4ndI8,Andrew Lloyd Webber,Hail-Hail! The Witch Is Dead,0.619,0.538,114567,0.744,3.38e-05,7,0.359,-6.211,1,0.0379,122.052,4,0.689
+1103,5myXAtJbpqqMjVH6yGS6gl,"Andrew Lloyd Webber,Michael Crawford",The Wizard's Departure,0.871,0.38,154640,0.21,0.00289,11,0.713,-12.338,0,0.0428,111.069,3,0.253
+1104,6GhBep1gyZGjlyCs0YCBKv,"Andrew Lloyd Webber,Danielle Hope,Emily Tierney",Already Home,0.893,0.298,199053,0.208,3.59e-06,6,0.116,-11.091,0,0.0335,106.746,4,0.204
+1105,23QmDulfXW1Ie7E2RFZl3J,"Andrew Lloyd Webber,Michael Crawford,Danielle Hope,Sophie Evans,Paul Keating,Edward Baker-Duly,David Ganly,Hannah Waddingham,Emily Tierney,Helen Walsh,Stephen Scott",Finale,0.668,0.291,215320,0.176,1.16e-05,6,0.346,-12.982,1,0.0501,179.734,3,0.12
+1106,7AKz0918FbEZOABkxEalur,Orchestra,Addams Family Theme,0.00815,0.88,16239,0.282,0.683,0,0.215,-14.421,1,0.0663,62.44,4,0.0
+1107,2fp9PZRJEOCrP4qR8ZONGs,Orchestra,Overture,0.483,0.395,118586,0.453,0.802,3,0.86,-8.19,1,0.0427,98.394,3,0.28
+1108,6uie49Ul2wKawsbIGc8MYb,Company,When You're An Addams,0.634,0.633,265146,0.509,0.0,7,0.343,-9.344,0,0.216,86.644,4,0.843
+1109,6W6mfGp42e0npejwRfK5Mt,"Krysta Rodriguez,Adam Riegler",Pulled,0.772,0.509,179293,0.476,0.0,0,0.288,-7.958,1,0.071,124.678,4,0.495
+1110,3lTxnm4oWx096MakGmQSWD,"Bebe Neuwirth,Nathan Lane",Where Did We Go Wrong,0.819,0.665,140853,0.497,0.0,8,0.619,-9.852,1,0.512,124.41,4,0.91
+1111,3O30gAfom0QGgts47I2jQ1,Company,One Normal Night,0.665,0.48,285413,0.545,0.0,5,0.621,-8.351,1,0.325,83.206,3,0.539
+1112,1px88jHaVAXtoJcjF0uUgP,"Nathan Lane,Male Ancestors",Morticia - 2010 Original Cast Recording from The Addams Family Musical on Broadway,0.903,0.47,229640,0.46,0.0,7,0.0725,-11.914,1,0.28,106.164,4,0.563
+1113,6TANpote30KqjlT5kyBu6c,"Adam Riegler,Jackie Hoffman",What If,0.944,0.471,126186,0.0941,2.05e-05,2,0.0866,-13.671,1,0.0362,97.353,1,0.348
+1114,3zDQrzqq3PPRnuylK7VojP,Company,Full Disclosure,0.8,0.619,154560,0.478,0.0,1,0.671,-9.375,1,0.38,131.126,3,0.638
+1115,5HLUuj15ZIVlQcsl3Uf4fZ,"Carolee Carmello,Ancestors",Waiting,0.878,0.34,145746,0.489,0.0,10,0.55,-7.421,1,0.0613,91.357,4,0.148
+1116,2kj8iq4bB1RZS4Y5ZFrQHa,Company,Full Disclosure - Part 2,0.723,0.594,69906,0.64,0.0,0,0.503,-7.383,0,0.47,138.779,4,0.963
+1117,4xvwjdCasFrBXS2BoUjlp8,Bebe Neuwirth,Just Around The Corner,0.616,0.567,238986,0.404,0.0,6,0.0727,-9.854,1,0.312,129.137,4,0.641
+1118,6ErCp98mN3OBpsoBnqgzhB,"Kevin Chamberlin,Female Ancestors",The Moon And Me,0.914,0.508,183453,0.192,5.58e-05,0,0.204,-10.817,1,0.0286,103.753,4,0.296
+1119,2rJ5kKaTcswlGcxE38oDNR,Nathan Lane,Happy/Sad - 2010 Original Cast Recording from The Addams Family Musical on Broadway,0.974,0.312,235626,0.2,1.93e-05,1,0.123,-13.074,1,0.0326,100.55,3,0.211
+1120,5xQUvQcX7kL2np41dow7QD,"Krysta Rodriguez,Wesley Taylor",Crazier Than You,0.716,0.585,171333,0.622,0.0,4,0.0791,-7.45,0,0.234,115.47,4,0.639
+1121,6lUIEfMepAP6CTcRMk3vgM,"Terrence Mann,Nathan Lane,Kevin Chamberlin",Let's Not Talk About Anything Else But Love,0.778,0.603,199493,0.38,0.0,5,0.27,-10.74,1,0.366,148.565,4,0.69
+1122,2BnM5DjkrMP7ySigMoj3eZ,"Jackie Hoffman,Nathan Lane,Kevin Chamberlin",Let's Not Talk About Anything Else But Love (Reprise),0.736,0.691,50266,0.505,0.0,2,0.33,-8.391,0,0.124,46.349,4,0.853
+1123,0HT0V4NOQ9pMtDUwyKnrab,"Terrence Mann,Carolee Carmello,Ancestors",In The Arms,0.845,0.408,145026,0.433,1.65e-05,0,0.107,-8.252,1,0.0478,83.235,3,0.37
+1124,6ZZukjn0RGKuqTBB67n085,"Nathan Lane,Bebe Neuwirth",Live Before We Die - 2010 Original Cast Recording from The Addams Family Musical on Broadway,0.78,0.511,168480,0.175,0.0,6,0.548,-15.432,0,0.183,100.157,5,0.359
+1125,0wWHiR7xGhflyQwWSiyVwn,Orchestra,Tango De Amor,0.542,0.411,191826,0.443,0.106,8,0.249,-9.662,1,0.0509,93.017,4,0.466
+1126,7r0a7CGbOWHTrgQ6EigEcZ,Company,Move Toward The Darkness,0.906,0.228,238880,0.377,1.38e-05,3,0.0502,-9.374,1,0.0361,87.721,4,0.128
