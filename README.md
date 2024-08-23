@@ -23,7 +23,7 @@
    - Training models on genres of music that do not typically chart
    
 ## The main points
-If the read me is not enough, you can look the slides [here]()
+If the read me is not enough, you can look the slides [here](https://github.com/S-boker/Hit-Songs/blob/main/Climbing%20the%20chart%20tour%20sildes.pdf)
 
 ## How to run if you want all the details personally
 If you want the data that is not this repo so you can run the notebooks you can find it [here](https://drive.google.com/drive/folders/1hpRwCp1mRd_xMkpytvAQBt07Pc0drcQJ?usp=sharing)
